@@ -1,0 +1,933 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title></title><META http-equiv="Content-Type" content="text/html; charset=utf-8" /></head><body><table align="center"><tr><td colspan="6"><center><b>Список импортеров для выбранного товара в 2023 </b></center></td></tr><tr><td colspan="6"><center>   Товар : 76 Алюминий и изделия из него</center></td></tr></table><table><tr><td> </td></tr></table><table id="ctl00_PageContent_GridLegendTable" class="table_legend" border="0">
+	<tr>
+		<td>Источники:Расчеты МТЦ на основе статистики базы статистических данных ООН по торговле товарами и МТЦ.</td>
+	</tr><tr>
+		<td>Глобальное агрегирование представляет сумму стран, представляющих отчеты и стран, не представляющих отчеты.  </td>
+	</tr><tr>
+		<td>Данные оранжевого цвета представляют собой зеркальные цифры, основанные на данных о партнерах.</td>
+	</tr><tr>
+		<td></td>
+	</tr><tr>
+		<td></td>
+	</tr>
+</table><table><tr><td> </td></tr></table><table><tr><td> </td></tr></table><div>
+	<table cellspacing="0" cellpadding="4" rules="all" border="1" id="ctl00_PageContent_MyGridView1" style="color:#002B54;border-color:#002B54;width:100%;border-collapse:collapse;">
+		<tr style="color:White;background-color:#5D7B9D;font-size:80%;font-weight:bold;">
+			<th rowspan="2" scope="col">Импортеры</th><td align="center" colspan="15">Выберите свои индикаторы</td>
+		</tr><tr style="color:White;background-color:#5D7B9D;font-size:80%;font-weight:bold;">
+			<th scope="col">Стоимость импорта в 2023 (тыс. дол. США)</th><th scope="col">Торговый баланс в 2023 (тыс. долл. США)</th><th scope="col">Годовой рост стоимости в период с 2019по2023 (%)</th><th scope="col">Годовой рост стоимости в период с 2022по2023 (%)</th><th scope="col">Мировой импорте, доля страны (%)</th><th scope="col">выброс CO2 (в тоннах)</th><th scope="col">Среднее расстояние до поставляющих стран (км)</th><th scope="col">Концентрация поставляющих стран</th><th scope="col">Средний тариф (расчетный) на применимый страной (%)</th>
+		</tr><tr align="right" style="color:BlueViolet;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Весь Мир
+                                </td><td align="right" style="white-space:nowrap;">229694109</td><td align="right" style="white-space:nowrap;">7771383</td><td align="right" style="white-space:nowrap;">12</td><td align="right" style="white-space:nowrap;">-16</td><td align="right" style="white-space:nowrap;">100</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">4235</td><td align="right" style="white-space:nowrap;">0,04</td><td align="right" style="white-space:nowrap;"></td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Соединенные Штаты Америки
+                                </td><td align="right" style="white-space:nowrap;">28296236</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-14018261</td><td align="right" style="white-space:nowrap;">12</td><td align="right" style="white-space:nowrap;">-23</td><td align="right" style="white-space:nowrap;">12,3</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">6225</td><td align="right" style="white-space:nowrap;">0,18</td><td align="right" style="white-space:nowrap;">1,2</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Германия
+                                </td><td align="right" style="white-space:nowrap;">20882604</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-2008422</td><td align="right" style="white-space:nowrap;">12</td><td align="right" style="white-space:nowrap;">-18</td><td align="right" style="white-space:nowrap;">9,1</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">1808</td><td align="right" style="white-space:nowrap;">0,05</td><td align="right" style="white-space:nowrap;">1,9</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Китай
+                                </td><td align="right" style="white-space:nowrap;">12346734</td><td align="right" style="white-space:nowrap;">22630996</td><td align="right" style="white-space:nowrap;">21</td><td align="right" style="white-space:nowrap;">6</td><td align="right" style="white-space:nowrap;">5,4</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">4971</td><td align="right" style="white-space:nowrap;">0,1</td><td align="right" style="white-space:nowrap;">6,2</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Мексика
+                                </td><td align="right" style="white-space:nowrap;">9496241</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-6871355</td><td align="right" style="white-space:nowrap;">19</td><td align="right" style="white-space:nowrap;">-18</td><td align="right" style="white-space:nowrap;">4,1</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">8150</td><td align="right" style="white-space:nowrap;">0,21</td><td align="right" style="white-space:nowrap;">2,4</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Франция
+                                </td><td align="right" style="white-space:nowrap;">8523491</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-2020497</td><td align="right" style="white-space:nowrap;">9</td><td align="right" style="white-space:nowrap;">-12</td><td align="right" style="white-space:nowrap;">3,7</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">2198</td><td align="right" style="white-space:nowrap;">0,08</td><td align="right" style="white-space:nowrap;">1,9</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Италия
+                                </td><td align="right" style="white-space:nowrap;">8517993</td><td align="right" style="white-space:nowrap;">174183</td><td align="right" style="white-space:nowrap;">14</td><td align="right" style="white-space:nowrap;">-21</td><td align="right" style="white-space:nowrap;">3,7</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">2841</td><td align="right" style="white-space:nowrap;">0,05</td><td align="right" style="white-space:nowrap;">1,9</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Япония
+                                </td><td align="right" style="white-space:nowrap;">8209637</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-5869970</td><td align="right" style="white-space:nowrap;">5</td><td align="right" style="white-space:nowrap;">-23</td><td align="right" style="white-space:nowrap;">3,6</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">6523</td><td align="right" style="white-space:nowrap;">0,09</td><td align="right" style="white-space:nowrap;">0,8</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Республика Корея
+                                </td><td align="right" style="white-space:nowrap;">8199988</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-3681953</td><td align="right" style="white-space:nowrap;">11</td><td align="right" style="white-space:nowrap;">-16</td><td align="right" style="white-space:nowrap;">3,6</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">5570</td><td align="right" style="white-space:nowrap;">0,1</td><td align="right" style="white-space:nowrap;">2,3</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Нидерланды
+                                </td><td align="right" style="white-space:nowrap;">7535000</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-1096785</td><td align="right" style="white-space:nowrap;">14</td><td align="right" style="white-space:nowrap;">-17</td><td align="right" style="white-space:nowrap;">3,3</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">2884</td><td align="right" style="white-space:nowrap;">0,08</td><td align="right" style="white-space:nowrap;">1,9</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Индия
+                                </td><td align="right" style="white-space:nowrap;">6870735</td><td align="right" style="white-space:nowrap;">464073</td><td align="right" style="white-space:nowrap;">16</td><td align="right" style="white-space:nowrap;">-5</td><td align="right" style="white-space:nowrap;">3</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">6245</td><td align="right" style="white-space:nowrap;">0,08</td><td align="right" style="white-space:nowrap;">6</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Турция
+                                </td><td align="right" style="white-space:nowrap;">6292568</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-975314</td><td align="right" style="white-space:nowrap;">21</td><td align="right" style="white-space:nowrap;">-18</td><td align="right" style="white-space:nowrap;">2,7</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">3517</td><td align="right" style="white-space:nowrap;">0,08</td><td align="right" style="white-space:nowrap;">2,7</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Соединенное Королевство Великобритании и Северной Ирландии
+                                </td><td align="right" style="white-space:nowrap;">5942448</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-2624427</td><td align="right" style="white-space:nowrap;">8</td><td align="right" style="white-space:nowrap;">-12</td><td align="right" style="white-space:nowrap;">2,6</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">2830</td><td align="right" style="white-space:nowrap;">0,09</td><td align="right" style="white-space:nowrap;">1,4</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Малайзия
+                                </td><td align="right" style="white-space:nowrap;">5153129</td><td align="right" style="white-space:nowrap;">807702</td><td align="right" style="white-space:nowrap;">7</td><td align="right" style="white-space:nowrap;">7</td><td align="right" style="white-space:nowrap;">2,2</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">6951</td><td align="right" style="white-space:nowrap;">0,13</td><td align="right" style="white-space:nowrap;">13,4</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Польша
+                                </td><td align="right" style="white-space:nowrap;">5130895</td><td align="right" style="white-space:nowrap;">225626</td><td align="right" style="white-space:nowrap;">8</td><td align="right" style="white-space:nowrap;">-30</td><td align="right" style="white-space:nowrap;">2,2</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">1975</td><td align="right" style="white-space:nowrap;">0,09</td><td align="right" style="white-space:nowrap;">1,9</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Канада
+                                </td><td align="right" style="white-space:nowrap;">5102222</td><td align="right" style="white-space:nowrap;">7503898</td><td align="right" style="white-space:nowrap;">10</td><td align="right" style="white-space:nowrap;">-15</td><td align="right" style="white-space:nowrap;">2,2</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">4594</td><td align="right" style="white-space:nowrap;">0,38</td><td align="right" style="white-space:nowrap;">0,6</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Испания
+                                </td><td align="right" style="white-space:nowrap;">5024666</td><td align="right" style="white-space:nowrap;">196286</td><td align="right" style="white-space:nowrap;">11</td><td align="right" style="white-space:nowrap;">-20</td><td align="right" style="white-space:nowrap;">2,2</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">3565</td><td align="right" style="white-space:nowrap;">0,06</td><td align="right" style="white-space:nowrap;">1,9</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Австрия
+                                </td><td align="right" style="white-space:nowrap;">4785807</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-197178</td><td align="right" style="white-space:nowrap;">11</td><td align="right" style="white-space:nowrap;">-19</td><td align="right" style="white-space:nowrap;">2,1</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">975</td><td align="right" style="white-space:nowrap;">0,17</td><td align="right" style="white-space:nowrap;">1,9</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Таиланд
+                                </td><td align="right" style="white-space:nowrap;">4604463</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-1896335</td><td align="right" style="white-space:nowrap;">11</td><td align="right" style="white-space:nowrap;">-20</td><td align="right" style="white-space:nowrap;">2</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">4700</td><td align="right" style="white-space:nowrap;">0,15</td><td align="right" style="white-space:nowrap;">3,7</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Вьетнам
+                                </td><td align="right" style="white-space:nowrap;">3746460</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-1776191</td><td align="right" style="white-space:nowrap;">8</td><td align="right" style="white-space:nowrap;">-16</td><td align="right" style="white-space:nowrap;">1,6</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">3064</td><td align="right" style="white-space:nowrap;">0,24</td><td align="right" style="white-space:nowrap;">5</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Швейцария
+                                </td><td align="right" style="white-space:nowrap;">3686429</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-937953</td><td align="right" style="white-space:nowrap;">9</td><td align="right" style="white-space:nowrap;">-13</td><td align="right" style="white-space:nowrap;">1,6</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">1583</td><td align="right" style="white-space:nowrap;">0,17</td><td align="right" style="white-space:nowrap;">0,9</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Чехия
+                                </td><td align="right" style="white-space:nowrap;">3635363</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-905879</td><td align="right" style="white-space:nowrap;">13</td><td align="right" style="white-space:nowrap;">-10</td><td align="right" style="white-space:nowrap;">1,6</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">1864</td><td align="right" style="white-space:nowrap;">0,08</td><td align="right" style="white-space:nowrap;">1,9</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Бельгия
+                                </td><td align="right" style="white-space:nowrap;">3570496</td><td align="right" style="white-space:nowrap;">224133</td><td align="right" style="white-space:nowrap;">8</td><td align="right" style="white-space:nowrap;">-18</td><td align="right" style="white-space:nowrap;">1,6</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">1712</td><td align="right" style="white-space:nowrap;">0,13</td><td align="right" style="white-space:nowrap;">1,9</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Венгрия
+                                </td><td align="right" style="white-space:nowrap;">2814853</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-991660</td><td align="right" style="white-space:nowrap;">12</td><td align="right" style="white-space:nowrap;">-10</td><td align="right" style="white-space:nowrap;">1,2</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">1540</td><td align="right" style="white-space:nowrap;">0,08</td><td align="right" style="white-space:nowrap;">1,9</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Австралия
+                                </td><td align="right" style="white-space:nowrap;">2304299</td><td align="right" style="white-space:nowrap;">2137822</td><td align="right" style="white-space:nowrap;">9</td><td align="right" style="white-space:nowrap;">-16</td><td align="right" style="white-space:nowrap;">1</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">8957</td><td align="right" style="white-space:nowrap;">0,39</td><td align="right" style="white-space:nowrap;">2,2</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Китайский Тайбэй
+                                </td><td align="right" style="white-space:nowrap;">2267213</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-454437</td><td align="right" style="white-space:nowrap;">4</td><td align="right" style="white-space:nowrap;">-27</td><td align="right" style="white-space:nowrap;">1</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">5425</td><td align="right" style="white-space:nowrap;">0,08</td><td align="right" style="white-space:nowrap;">2,9</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Швеция
+                                </td><td align="right" style="white-space:nowrap;">2138527</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-13807</td><td align="right" style="white-space:nowrap;">13</td><td align="right" style="white-space:nowrap;">-27</td><td align="right" style="white-space:nowrap;">0,9</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">1205</td><td align="right" style="white-space:nowrap;">0,18</td><td align="right" style="white-space:nowrap;">1,9</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Румыния
+                                </td><td align="right" style="white-space:nowrap;">2036048</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-299667</td><td align="right" style="white-space:nowrap;">20</td><td align="right" style="white-space:nowrap;">-5</td><td align="right" style="white-space:nowrap;">0,9</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">1597</td><td align="right" style="white-space:nowrap;">0,08</td><td align="right" style="white-space:nowrap;">1,9</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Индонезия
+                                </td><td align="right" style="white-space:nowrap;">2000371</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-1177841</td><td align="right" style="white-space:nowrap;">7</td><td align="right" style="white-space:nowrap;">-17</td><td align="right" style="white-space:nowrap;">0,9</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">5415</td><td align="right" style="white-space:nowrap;">0,18</td><td align="right" style="white-space:nowrap;">4,9</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Бразилия
+                                </td><td align="right" style="white-space:nowrap;">1902887</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-405790</td><td align="right" style="white-space:nowrap;">4</td><td align="right" style="white-space:nowrap;">-26</td><td align="right" style="white-space:nowrap;">0,8</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">9837</td><td align="right" style="white-space:nowrap;">0,08</td><td align="right" style="white-space:nowrap;">8,2</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Дания
+                                </td><td align="right" style="white-space:nowrap;">1800618</td><td align="right" style="white-space:nowrap;">840</td><td align="right" style="white-space:nowrap;">15</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;">0,8</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">1089</td><td align="right" style="white-space:nowrap;">0,19</td><td align="right" style="white-space:nowrap;">1,9</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Саудовская Аравия
+                                </td><td align="right" style="white-space:nowrap;">1720831</td><td align="right" style="white-space:nowrap;">199232</td><td align="right" style="white-space:nowrap;">13</td><td align="right" style="white-space:nowrap;">1</td><td align="right" style="white-space:nowrap;">0,7</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">3528</td><td align="right" style="white-space:nowrap;">0,27</td><td align="right" style="white-space:nowrap;">10,8</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Словакия
+                                </td><td align="right" style="white-space:nowrap;">1708218</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-265028</td><td align="right" style="white-space:nowrap;">15</td><td align="right" style="white-space:nowrap;">-2</td><td align="right" style="white-space:nowrap;">0,7</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">1181</td><td align="right" style="white-space:nowrap;">0,09</td><td align="right" style="white-space:nowrap;">1,9</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Китай, Специальный административный район Гонконг
+                                </td><td align="right" style="white-space:nowrap;">1653221</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-239720</td><td align="right" style="white-space:nowrap;">22</td><td align="right" style="white-space:nowrap;">-11</td><td align="right" style="white-space:nowrap;">0,7</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">6295</td><td align="right" style="white-space:nowrap;">0,18</td><td align="right" style="white-space:nowrap;">0</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Греция
+                                </td><td align="right" style="white-space:nowrap;">1582650</td><td align="right" style="white-space:nowrap;">1137229</td><td align="right" style="white-space:nowrap;">17</td><td align="right" style="white-space:nowrap;">-25</td><td align="right" style="white-space:nowrap;">0,7</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">3446</td><td align="right" style="white-space:nowrap;">0,08</td><td align="right" style="white-space:nowrap;">1,9</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Словения
+                                </td><td align="right" style="white-space:nowrap;">1496605</td><td align="right" style="white-space:nowrap;">84343</td><td align="right" style="white-space:nowrap;">14</td><td align="right" style="white-space:nowrap;">-16</td><td align="right" style="white-space:nowrap;">0,7</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">1548</td><td align="right" style="white-space:nowrap;">0,07</td><td align="right" style="white-space:nowrap;">1,9</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Норвегия
+                                </td><td align="right" style="white-space:nowrap;">1337317</td><td align="right" style="white-space:nowrap;">3507085</td><td align="right" style="white-space:nowrap;">10</td><td align="right" style="white-space:nowrap;">-19</td><td align="right" style="white-space:nowrap;">0,6</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">3202</td><td align="right" style="white-space:nowrap;">0,07</td><td align="right" style="white-space:nowrap;">0</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Португалия
+                                </td><td align="right" style="white-space:nowrap;">1314599</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-251951</td><td align="right" style="white-space:nowrap;">14</td><td align="right" style="white-space:nowrap;">-10</td><td align="right" style="white-space:nowrap;">0,6</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">1547</td><td align="right" style="white-space:nowrap;">0,38</td><td align="right" style="white-space:nowrap;">1,9</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Объединенные Арабские Эмираты
+                                </td><td align="right" style="white-space:nowrap;">1226431</td><td align="right" style="white-space:nowrap;">6400790</td><td align="right" style="white-space:nowrap;">11</td><td align="right" style="white-space:nowrap;">-16</td><td align="right" style="white-space:nowrap;">0,5</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">5375</td><td align="right" style="white-space:nowrap;">0,32</td><td align="right" style="white-space:nowrap;">4,5</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Сингапур
+                                </td><td align="right" style="white-space:nowrap;">1147758</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-203080</td><td align="right" style="white-space:nowrap;">-1</td><td align="right" style="white-space:nowrap;">-28</td><td align="right" style="white-space:nowrap;">0,5</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">4949</td><td align="right" style="white-space:nowrap;">0,25</td><td align="right" style="white-space:nowrap;">0</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Марокко
+                                </td><td align="right" style="white-space:nowrap;">973273</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-753132</td><td align="right" style="white-space:nowrap;">19</td><td align="right" style="white-space:nowrap;">-8</td><td align="right" style="white-space:nowrap;">0,4</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">4610</td><td align="right" style="white-space:nowrap;">0,11</td><td align="right" style="white-space:nowrap;">13,6</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Российская Федерация
+                                </td><td align="right" style="white-space:nowrap;">886906</td><td align="right" style="white-space:nowrap;">7453770</td><td align="right" style="white-space:nowrap;">-2</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;">0,4</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">3983</td><td align="right" style="white-space:nowrap;">0,4</td><td align="right" style="white-space:nowrap;">4,5</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Хорватия
+                                </td><td align="right" style="white-space:nowrap;">849503</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-121189</td><td align="right" style="white-space:nowrap;">14</td><td align="right" style="white-space:nowrap;">-11</td><td align="right" style="white-space:nowrap;">0,4</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">892</td><td align="right" style="white-space:nowrap;">0,11</td><td align="right" style="white-space:nowrap;">1,8</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Ирландия
+                                </td><td align="right" style="white-space:nowrap;">837307</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-596436</td><td align="right" style="white-space:nowrap;">17</td><td align="right" style="white-space:nowrap;">33</td><td align="right" style="white-space:nowrap;">0,4</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">2165</td><td align="right" style="white-space:nowrap;">0,15</td><td align="right" style="white-space:nowrap;">1,9</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Болгария
+                                </td><td align="right" style="white-space:nowrap;">834101</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-185956</td><td align="right" style="white-space:nowrap;">17</td><td align="right" style="white-space:nowrap;">-14</td><td align="right" style="white-space:nowrap;">0,4</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">1653</td><td align="right" style="white-space:nowrap;">0,11</td><td align="right" style="white-space:nowrap;">1,9</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Сербия
+                                </td><td align="right" style="white-space:nowrap;">811984</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-208840</td><td align="right" style="white-space:nowrap;">16</td><td align="right" style="white-space:nowrap;">-6</td><td align="right" style="white-space:nowrap;">0,4</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">2320</td><td align="right" style="white-space:nowrap;">0,09</td><td align="right" style="white-space:nowrap;">4</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Израиль
+                                </td><td align="right" style="white-space:nowrap;">802768</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-610214</td><td align="right" style="white-space:nowrap;">10</td><td align="right" style="white-space:nowrap;">-27</td><td align="right" style="white-space:nowrap;">0,3</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">5119</td><td align="right" style="white-space:nowrap;">0,17</td><td align="right" style="white-space:nowrap;">0</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Финляндия
+                                </td><td align="right" style="white-space:nowrap;">713128</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-183457</td><td align="right" style="white-space:nowrap;">12</td><td align="right" style="white-space:nowrap;">-24</td><td align="right" style="white-space:nowrap;">0,3</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">2060</td><td align="right" style="white-space:nowrap;">0,09</td><td align="right" style="white-space:nowrap;">1,9</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Египет
+                                </td><td align="right" style="white-space:nowrap;">699916</td><td align="right" style="white-space:nowrap;">790</td><td align="right" style="white-space:nowrap;">3</td><td align="right" style="white-space:nowrap;">-24</td><td align="right" style="white-space:nowrap;">0,3</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">3317</td><td align="right" style="white-space:nowrap;">0,14</td><td align="right" style="white-space:nowrap;">13,5</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Южная Африка
+                                </td><td align="right" style="white-space:nowrap;">633940</td><td align="right" style="white-space:nowrap;">1622326</td><td align="right" style="white-space:nowrap;">5</td><td align="right" style="white-space:nowrap;">-13</td><td align="right" style="white-space:nowrap;">0,3</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">9618</td><td align="right" style="white-space:nowrap;">0,18</td><td align="right" style="white-space:nowrap;">6,9</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Камбоджа
+                                </td><td align="right" style="white-space:nowrap;">615172</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-527834</td><td align="right" style="white-space:nowrap;">18</td><td align="right" style="white-space:nowrap;">-21</td><td align="right" style="white-space:nowrap;">0,3</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">1899</td><td align="right" style="white-space:nowrap;">0,36</td><td align="right" style="white-space:nowrap;">2,4</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Бангладеш
+                                </td><td align="right" style="white-space:nowrap;">566530</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-522776</td><td align="right" style="white-space:nowrap;">16</td><td align="right" style="white-space:nowrap;">-14</td><td align="right" style="white-space:nowrap;">0,2</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">2147</td><td align="right" style="white-space:nowrap;">0,34</td><td align="right" style="white-space:nowrap;">13,3</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Филиппины
+                                </td><td align="right" style="white-space:nowrap;">544959</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-127633</td><td align="right" style="white-space:nowrap;">7</td><td align="right" style="white-space:nowrap;">-2</td><td align="right" style="white-space:nowrap;">0,2</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">3451</td><td align="right" style="white-space:nowrap;">0,26</td><td align="right" style="white-space:nowrap;">3,5</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Алжир
+                                </td><td align="right" style="white-space:nowrap;">543896</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-541036</td><td align="right" style="white-space:nowrap;">10</td><td align="right" style="white-space:nowrap;">24</td><td align="right" style="white-space:nowrap;">0,2</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">4057</td><td align="right" style="white-space:nowrap;">0,13</td><td align="right" style="white-space:nowrap;">12,1</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Ирак
+                                </td><td align="right" style="white-space:nowrap;">533302</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-497206</td><td align="right" style="white-space:nowrap;">15</td><td align="right" style="white-space:nowrap;">-2</td><td align="right" style="white-space:nowrap;">0,2</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">3352</td><td align="right" style="white-space:nowrap;">0,42</td><td align="right" style="white-space:nowrap;">...</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Колумбия
+                                </td><td align="right" style="white-space:nowrap;">514542</td><td align="right" style="white-space:nowrap;">328039</td><td align="right" style="white-space:nowrap;">14</td><td align="right" style="white-space:nowrap;">-29</td><td align="right" style="white-space:nowrap;">0,2</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">12403</td><td align="right" style="white-space:nowrap;">0,23</td><td align="right" style="white-space:nowrap;">1,6</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Люксембург
+                                </td><td align="right" style="white-space:nowrap;">509855</td><td align="right" style="white-space:nowrap;">63392</td><td align="right" style="white-space:nowrap;">7</td><td align="right" style="white-space:nowrap;">-31</td><td align="right" style="white-space:nowrap;">0,2</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">803</td><td align="right" style="white-space:nowrap;">0,26</td><td align="right" style="white-space:nowrap;">1,9</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Босния и Герцеговина
+                                </td><td align="right" style="white-space:nowrap;">485624</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-11534</td><td align="right" style="white-space:nowrap;">32</td><td align="right" style="white-space:nowrap;">-42</td><td align="right" style="white-space:nowrap;">0,2</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">2795</td><td align="right" style="white-space:nowrap;">0,1</td><td align="right" style="white-space:nowrap;">4,9</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Чили
+                                </td><td align="right" style="white-space:nowrap;">469213</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-302971</td><td align="right" style="white-space:nowrap;">7</td><td align="right" style="white-space:nowrap;">-29</td><td align="right" style="white-space:nowrap;">0,2</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">10779</td><td align="right" style="white-space:nowrap;">0,23</td><td align="right" style="white-space:nowrap;">3,2</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Аргентина
+                                </td><td align="right" style="white-space:nowrap;">419765</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-371503</td><td align="right" style="white-space:nowrap;">11</td><td align="right" style="white-space:nowrap;">-14</td><td align="right" style="white-space:nowrap;">0,2</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">7875</td><td align="right" style="white-space:nowrap;">0,28</td><td align="right" style="white-space:nowrap;">8,8</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Литва
+                                </td><td align="right" style="white-space:nowrap;">380661</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-54560</td><td align="right" style="white-space:nowrap;">12</td><td align="right" style="white-space:nowrap;">-10</td><td align="right" style="white-space:nowrap;">0,2</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">1320</td><td align="right" style="white-space:nowrap;">0,11</td><td align="right" style="white-space:nowrap;">1,9</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Новая Зеландия
+                                </td><td align="right" style="white-space:nowrap;">377740</td><td align="right" style="white-space:nowrap;">572513</td><td align="right" style="white-space:nowrap;">15</td><td align="right" style="white-space:nowrap;">-22</td><td align="right" style="white-space:nowrap;">0,2</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">10193</td><td align="right" style="white-space:nowrap;">0,29</td><td align="right" style="white-space:nowrap;">2,3</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Украина
+                                </td><td align="right" style="white-space:nowrap;">367050</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-269311</td><td align="right" style="white-space:nowrap;">-3</td><td align="right" style="white-space:nowrap;">8</td><td align="right" style="white-space:nowrap;">0,2</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">3619</td><td align="right" style="white-space:nowrap;">0,18</td><td align="right" style="white-space:nowrap;">0</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Тунис
+                                </td><td align="right" style="white-space:nowrap;">332731</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-189086</td><td align="right" style="white-space:nowrap;">11</td><td align="right" style="white-space:nowrap;">-8</td><td align="right" style="white-space:nowrap;">0,1</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">3269</td><td align="right" style="white-space:nowrap;">0,08</td><td align="right" style="white-space:nowrap;">13,8</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Казахстан
+                                </td><td align="right" style="white-space:nowrap;">330625</td><td align="right" style="white-space:nowrap;">247421</td><td align="right" style="white-space:nowrap;">5</td><td align="right" style="white-space:nowrap;">-19</td><td align="right" style="white-space:nowrap;">0,1</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">2807</td><td align="right" style="white-space:nowrap;">0,34</td><td align="right" style="white-space:nowrap;">3,9</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Пакистан
+                                </td><td align="right" style="white-space:nowrap;">324801</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-173358</td><td align="right" style="white-space:nowrap;">2</td><td align="right" style="white-space:nowrap;">-35</td><td align="right" style="white-space:nowrap;">0,1</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">4745</td><td align="right" style="white-space:nowrap;">0,2</td><td align="right" style="white-space:nowrap;">9,8</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Доминиканская Республика
+                                </td><td align="right" style="white-space:nowrap;">315235</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-179407</td><td align="right" style="white-space:nowrap;">21</td><td align="right" style="white-space:nowrap;">-7</td><td align="right" style="white-space:nowrap;">0,1</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">10223</td><td align="right" style="white-space:nowrap;">0,23</td><td align="right" style="white-space:nowrap;">2</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Узбекистан
+                                </td><td align="right" style="white-space:nowrap;">266870</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-223044</td><td align="right" style="white-space:nowrap;">11</td><td align="right" style="white-space:nowrap;">-26</td><td align="right" style="white-space:nowrap;">0,1</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">2451</td><td align="right" style="white-space:nowrap;">0,27</td><td align="right" style="white-space:nowrap;">8,2</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Перу
+                                </td><td align="right" style="white-space:nowrap;">255289</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-201905</td><td align="right" style="white-space:nowrap;">9</td><td align="right" style="white-space:nowrap;">-20</td><td align="right" style="white-space:nowrap;">0,1</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">11987</td><td align="right" style="white-space:nowrap;">0,35</td><td align="right" style="white-space:nowrap;">0</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Гватемала
+                                </td><td align="right" style="white-space:nowrap;">255190</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-127178</td><td align="right" style="white-space:nowrap;">14</td><td align="right" style="white-space:nowrap;">-23</td><td align="right" style="white-space:nowrap;">0,1</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">10132</td><td align="right" style="white-space:nowrap;">0,42</td><td align="right" style="white-space:nowrap;">3,1</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Эстония
+                                </td><td align="right" style="white-space:nowrap;">235473</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-107370</td><td align="right" style="white-space:nowrap;">7</td><td align="right" style="white-space:nowrap;">-16</td><td align="right" style="white-space:nowrap;">0,1</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">1661</td><td align="right" style="white-space:nowrap;">0,09</td><td align="right" style="white-space:nowrap;">1,9</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Иордания
+                                </td><td align="right" style="white-space:nowrap;">226660</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-31087</td><td align="right" style="white-space:nowrap;">9</td><td align="right" style="white-space:nowrap;">-16</td><td align="right" style="white-space:nowrap;">0,1</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">3850</td><td align="right" style="white-space:nowrap;">0,16</td><td align="right" style="white-space:nowrap;">4,5</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Нигерия
+                                </td><td align="right" style="white-space:nowrap;">222591</td><td align="right" style="white-space:nowrap;">57862</td><td align="right" style="white-space:nowrap;">-1</td><td align="right" style="white-space:nowrap;">-32</td><td align="right" style="white-space:nowrap;">0,1</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">10377</td><td align="right" style="white-space:nowrap;">0,3</td><td align="right" style="white-space:nowrap;">12,2</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Бахрейн
+                                </td><td align="right" style="white-space:nowrap;">195035</td><td align="right" style="white-space:nowrap;">4560239</td><td align="right" style="white-space:nowrap;">-2</td><td align="right" style="white-space:nowrap;">-24</td><td align="right" style="white-space:nowrap;">0,1</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">2146</td><td align="right" style="white-space:nowrap;">0,33</td><td align="right" style="white-space:nowrap;">4,5</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Объединенная Республика Танзания
+                                </td><td align="right" style="white-space:nowrap;">180508</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-168468</td><td align="right" style="white-space:nowrap;">25</td><td align="right" style="white-space:nowrap;">26</td><td align="right" style="white-space:nowrap;">0,1</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">7174</td><td align="right" style="white-space:nowrap;">0,19</td><td align="right" style="white-space:nowrap;">17</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Парагвай
+                                </td><td align="right" style="white-space:nowrap;">168832</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-70463</td><td align="right" style="white-space:nowrap;">19</td><td align="right" style="white-space:nowrap;">-32</td><td align="right" style="white-space:nowrap;">0,1</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">12116</td><td align="right" style="white-space:nowrap;">0,38</td><td align="right" style="white-space:nowrap;">7,7</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Эквадор
+                                </td><td align="right" style="white-space:nowrap;">167556</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-58772</td><td align="right" style="white-space:nowrap;">15</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;">0,1</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">9898</td><td align="right" style="white-space:nowrap;">0,15</td><td align="right" style="white-space:nowrap;">6,1</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Коста-Рика
+                                </td><td align="right" style="white-space:nowrap;">162841</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-81939</td><td align="right" style="white-space:nowrap;">12</td><td align="right" style="white-space:nowrap;">-18</td><td align="right" style="white-space:nowrap;">0,1</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">8114</td><td align="right" style="white-space:nowrap;">0,12</td><td align="right" style="white-space:nowrap;">3,1</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Кувейт
+                                </td><td align="right" style="white-space:nowrap;">160593</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-79044</td><td align="right" style="white-space:nowrap;">4</td><td align="right" style="white-space:nowrap;">-25</td><td align="right" style="white-space:nowrap;">0,1</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">3901</td><td align="right" style="white-space:nowrap;">0,29</td><td align="right" style="white-space:nowrap;">4,5</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Ливия
+                                </td><td align="right" style="white-space:nowrap;">158354</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-83244</td><td align="right" style="white-space:nowrap;">18</td><td align="right" style="white-space:nowrap;">17</td><td align="right" style="white-space:nowrap;">0,1</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">3459</td><td align="right" style="white-space:nowrap;">0,23</td><td align="right" style="white-space:nowrap;">4,6</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Северная Македония
+                                </td><td align="right" style="white-space:nowrap;">154919</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-125098</td><td align="right" style="white-space:nowrap;">23</td><td align="right" style="white-space:nowrap;">-4</td><td align="right" style="white-space:nowrap;">0,1</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">1845</td><td align="right" style="white-space:nowrap;">0,09</td><td align="right" style="white-space:nowrap;">1,3</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Латвия
+                                </td><td align="right" style="white-space:nowrap;">150383</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-35632</td><td align="right" style="white-space:nowrap;">11</td><td align="right" style="white-space:nowrap;">-5</td><td align="right" style="white-space:nowrap;">0,1</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">1587</td><td align="right" style="white-space:nowrap;">0,11</td><td align="right" style="white-space:nowrap;">1,9</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Азербайджан
+                                </td><td align="right" style="white-space:nowrap;">139540</td><td align="right" style="white-space:nowrap;">55642</td><td align="right" style="white-space:nowrap;">15</td><td align="right" style="white-space:nowrap;">-18</td><td align="right" style="white-space:nowrap;">0,1</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">2231</td><td align="right" style="white-space:nowrap;">0,23</td><td align="right" style="white-space:nowrap;">3,7</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Армения
+                                </td><td align="right" style="white-space:nowrap;">138625</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-34175</td><td align="right" style="white-space:nowrap;">10</td><td align="right" style="white-space:nowrap;">-16</td><td align="right" style="white-space:nowrap;">0,1</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">2268</td><td align="right" style="white-space:nowrap;">0,34</td><td align="right" style="white-space:nowrap;">4,5</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Албания
+                                </td><td align="right" style="white-space:nowrap;">137542</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-10775</td><td align="right" style="white-space:nowrap;">24</td><td align="right" style="white-space:nowrap;">-2</td><td align="right" style="white-space:nowrap;">0,1</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">2404</td><td align="right" style="white-space:nowrap;">0,12</td><td align="right" style="white-space:nowrap;">0</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Панама
+                                </td><td align="right" style="white-space:nowrap;">136999</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-80969</td><td align="right" style="white-space:nowrap;">8</td><td align="right" style="white-space:nowrap;">-12</td><td align="right" style="white-space:nowrap;">0,1</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">11328</td><td align="right" style="white-space:nowrap;">0,32</td><td align="right" style="white-space:nowrap;">4</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Грузия
+                                </td><td align="right" style="white-space:nowrap;">136621</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-114712</td><td align="right" style="white-space:nowrap;">23</td><td align="right" style="white-space:nowrap;">8</td><td align="right" style="white-space:nowrap;">0,1</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">1832</td><td align="right" style="white-space:nowrap;">0,37</td><td align="right" style="white-space:nowrap;">0</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Сальвадор
+                                </td><td align="right" style="white-space:nowrap;">135965</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-64879</td><td align="right" style="white-space:nowrap;">16</td><td align="right" style="white-space:nowrap;">-7</td><td align="right" style="white-space:nowrap;">0,1</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">6874</td><td align="right" style="white-space:nowrap;">0,19</td><td align="right" style="white-space:nowrap;">3,1</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Исландия
+                                </td><td align="right" style="white-space:nowrap;">131875</td><td align="right" style="white-space:nowrap;">2297059</td><td align="right" style="white-space:nowrap;">4</td><td align="right" style="white-space:nowrap;">-20</td><td align="right" style="white-space:nowrap;">0,1</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">3356</td><td align="right" style="white-space:nowrap;">0,09</td><td align="right" style="white-space:nowrap;">0</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Катар
+                                </td><td align="right" style="white-space:nowrap;">123471</td><td align="right" style="white-space:nowrap;">1705751</td><td align="right" style="white-space:nowrap;">2</td><td align="right" style="white-space:nowrap;">-36</td><td align="right" style="white-space:nowrap;">0,1</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">5117</td><td align="right" style="white-space:nowrap;">0,23</td><td align="right" style="white-space:nowrap;">4,5</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Иран (Исламская Республика)
+                                </td><td align="right" style="white-space:nowrap;">117650</td><td align="right" style="white-space:nowrap;">461116</td><td align="right" style="white-space:nowrap;">1</td><td align="right" style="white-space:nowrap;">-8</td><td align="right" style="white-space:nowrap;">0,1</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">5026</td><td align="right" style="white-space:nowrap;">0,59</td><td align="right" style="white-space:nowrap;">14,6</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Мьянма
+                                </td><td align="right" style="white-space:nowrap;">113899</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-55086</td><td align="right" style="white-space:nowrap;">-2</td><td align="right" style="white-space:nowrap;">-12</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">2167</td><td align="right" style="white-space:nowrap;">0,33</td><td align="right" style="white-space:nowrap;">3,7</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Камерун
+                                </td><td align="right" style="white-space:nowrap;">111774</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-15549</td><td align="right" style="white-space:nowrap;">11</td><td align="right" style="white-space:nowrap;">46</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">9586</td><td align="right" style="white-space:nowrap;">0,53</td><td align="right" style="white-space:nowrap;">19,7</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Кения
+                                </td><td align="right" style="white-space:nowrap;">111252</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-80729</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;">-18</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">6220</td><td align="right" style="white-space:nowrap;">0,16</td><td align="right" style="white-space:nowrap;">19,6</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Непал
+                                </td><td align="right" style="white-space:nowrap;">102592</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-101742</td><td align="right" style="white-space:nowrap;">5</td><td align="right" style="white-space:nowrap;">-2</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">1082</td><td align="right" style="white-space:nowrap;">0,84</td><td align="right" style="white-space:nowrap;">10,6</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Шри-Ланка
+                                </td><td align="right" style="white-space:nowrap;">101633</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-45181</td><td align="right" style="white-space:nowrap;">-5</td><td align="right" style="white-space:nowrap;">-20</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">4290</td><td align="right" style="white-space:nowrap;">0,23</td><td align="right" style="white-space:nowrap;">9,2</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Черногория
+                                </td><td align="right" style="white-space:nowrap;">100234</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-15769</td><td align="right" style="white-space:nowrap;">50</td><td align="right" style="white-space:nowrap;">-39</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">5147</td><td align="right" style="white-space:nowrap;">0,17</td><td align="right" style="white-space:nowrap;">0</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Оман
+                                </td><td align="right" style="white-space:nowrap;">98539</td><td align="right" style="white-space:nowrap;">977557</td><td align="right" style="white-space:nowrap;">10</td><td align="right" style="white-space:nowrap;">-13</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">3941</td><td align="right" style="white-space:nowrap;">0,26</td><td align="right" style="white-space:nowrap;">4,5</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Ливан
+                                </td><td align="right" style="white-space:nowrap;">96354</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-39978</td><td align="right" style="white-space:nowrap;">5</td><td align="right" style="white-space:nowrap;">18</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">3869</td><td align="right" style="white-space:nowrap;">0,19</td><td align="right" style="white-space:nowrap;">6,7</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Боливия (Многонациональное Государство)
+                                </td><td align="right" style="white-space:nowrap;">92916</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-80637</td><td align="right" style="white-space:nowrap;">1</td><td align="right" style="white-space:nowrap;">3</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">9784</td><td align="right" style="white-space:nowrap;">0,3</td><td align="right" style="white-space:nowrap;">7,7</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Ангола
+                                </td><td align="right" style="white-space:nowrap;">87488</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-47520</td><td align="right" style="white-space:nowrap;">11</td><td align="right" style="white-space:nowrap;">8</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">9900</td><td align="right" style="white-space:nowrap;">0,33</td><td align="right" style="white-space:nowrap;">21,3</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Гондурас
+                                </td><td align="right" style="white-space:nowrap;">87110</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-22465</td><td align="right" style="white-space:nowrap;">9</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">5358</td><td align="right" style="white-space:nowrap;">0,22</td><td align="right" style="white-space:nowrap;">3,3</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Эфиопия
+                                </td><td align="right" style="white-space:nowrap;">85542</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-85048</td><td align="right" style="white-space:nowrap;">-9</td><td align="right" style="white-space:nowrap;">-7</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">6763</td><td align="right" style="white-space:nowrap;">0,47</td><td align="right" style="white-space:nowrap;">13,1</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Кипр
+                                </td><td align="right" style="white-space:nowrap;">85113</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-63714</td><td align="right" style="white-space:nowrap;">13</td><td align="right" style="white-space:nowrap;">-24</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">2187</td><td align="right" style="white-space:nowrap;">0,18</td><td align="right" style="white-space:nowrap;">1,9</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Уругвай
+                                </td><td align="right" style="white-space:nowrap;">82773</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-69654</td><td align="right" style="white-space:nowrap;">12</td><td align="right" style="white-space:nowrap;">12</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">8657</td><td align="right" style="white-space:nowrap;">0,25</td><td align="right" style="white-space:nowrap;">6,7</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Гана
+                                </td><td align="right" style="white-space:nowrap;">81934</td><td align="right" style="white-space:nowrap;">47349</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;">-19</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">8384</td><td align="right" style="white-space:nowrap;">0,22</td><td align="right" style="white-space:nowrap;">12</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Туркменистан
+                                </td><td align="right" style="white-space:nowrap;">71764</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-71132</td><td align="right" style="white-space:nowrap;">21</td><td align="right" style="white-space:nowrap;">54</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">2335</td><td align="right" style="white-space:nowrap;">0,31</td><td align="right" style="white-space:nowrap;">...</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Кот-д'Ивуар
+                                </td><td align="right" style="white-space:nowrap;">69200</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-66814</td><td align="right" style="white-space:nowrap;">1</td><td align="right" style="white-space:nowrap;">-22</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">7419</td><td align="right" style="white-space:nowrap;">0,12</td><td align="right" style="white-space:nowrap;">11,9</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Кыргызстан
+                                </td><td align="right" style="white-space:nowrap;">68385</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-55356</td><td align="right" style="white-space:nowrap;">34</td><td align="right" style="white-space:nowrap;">2</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">2101</td><td align="right" style="white-space:nowrap;">0,2</td><td align="right" style="white-space:nowrap;">4,5</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Гвинея
+                                </td><td align="right" style="white-space:nowrap;">64629</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-42597</td><td align="right" style="white-space:nowrap;">17</td><td align="right" style="white-space:nowrap;">29</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">10469</td><td align="right" style="white-space:nowrap;">0,31</td><td align="right" style="white-space:nowrap;">12,2</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Сенегал
+                                </td><td align="right" style="white-space:nowrap;">64597</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-51656</td><td align="right" style="white-space:nowrap;">-2</td><td align="right" style="white-space:nowrap;">-6</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">6688</td><td align="right" style="white-space:nowrap;">0,2</td><td align="right" style="white-space:nowrap;">12,2</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Замбия
+                                </td><td align="right" style="white-space:nowrap;">62186</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-52869</td><td align="right" style="white-space:nowrap;">10</td><td align="right" style="white-space:nowrap;">45</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">4011</td><td align="right" style="white-space:nowrap;">0,36</td><td align="right" style="white-space:nowrap;">10,4</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Беларусь
+                                </td><td align="right" style="white-space:nowrap;">61785</td><td align="right" style="white-space:nowrap;">9482</td><td align="right" style="white-space:nowrap;">-7</td><td align="right" style="white-space:nowrap;">-16</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">2745</td><td align="right" style="white-space:nowrap;">0,19</td><td align="right" style="white-space:nowrap;">4,5</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Папуа-Новая Гвинея
+                                </td><td align="right" style="white-space:nowrap;">57984</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-46866</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;">-22</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">4827</td><td align="right" style="white-space:nowrap;">0,27</td><td align="right" style="white-space:nowrap;">2,2</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Ямайка
+                                </td><td align="right" style="white-space:nowrap;">57231</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-56388</td><td align="right" style="white-space:nowrap;">12</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">6615</td><td align="right" style="white-space:nowrap;">0,28</td><td align="right" style="white-space:nowrap;">4,4</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Маврикий
+                                </td><td align="right" style="white-space:nowrap;">56937</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-40898</td><td align="right" style="white-space:nowrap;">6</td><td align="right" style="white-space:nowrap;">-32</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">8048</td><td align="right" style="white-space:nowrap;">0,47</td><td align="right" style="white-space:nowrap;">0,4</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Лаосская Народно-Демократическая Республика
+                                </td><td align="right" style="white-space:nowrap;">56146</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-49953</td><td align="right" style="white-space:nowrap;">8</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">1539</td><td align="right" style="white-space:nowrap;">0,51</td><td align="right" style="white-space:nowrap;">5,4</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Китай, Специальный административный район Макао
+                                </td><td align="right" style="white-space:nowrap;">56005</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-53513</td><td align="right" style="white-space:nowrap;">30</td><td align="right" style="white-space:nowrap;">213</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">0,91</td><td align="right" style="white-space:nowrap;">0</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Мальта
+                                </td><td align="right" style="white-space:nowrap;">55002</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-51473</td><td align="right" style="white-space:nowrap;">22</td><td align="right" style="white-space:nowrap;">10</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">2014</td><td align="right" style="white-space:nowrap;">0,18</td><td align="right" style="white-space:nowrap;">1,9</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Внешние малые острова Соединенных Штатов
+                                </td><td align="right" style="white-space:nowrap;">53906</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-50080</td><td align="right" style="white-space:nowrap;">98</td><td align="right" style="white-space:nowrap;">-7</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">0,65</td><td align="right" style="white-space:nowrap;">...</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Государство Палестина
+                                </td><td align="right" style="white-space:nowrap;">53785</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-52471</td><td align="right" style="white-space:nowrap;">27</td><td align="right" style="white-space:nowrap;">5</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">897</td><td align="right" style="white-space:nowrap;">0,72</td><td align="right" style="white-space:nowrap;">4,7</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Куба
+                                </td><td align="right" style="white-space:nowrap;">53630</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-44606</td><td align="right" style="white-space:nowrap;">3</td><td align="right" style="white-space:nowrap;">34</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">5824</td><td align="right" style="white-space:nowrap;">0,23</td><td align="right" style="white-space:nowrap;">7,2</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Багамские Острова
+                                </td><td align="right" style="white-space:nowrap;">53101</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-51513</td><td align="right" style="white-space:nowrap;">9</td><td align="right" style="white-space:nowrap;">-11</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">2610</td><td align="right" style="white-space:nowrap;">0,82</td><td align="right" style="white-space:nowrap;">34,4</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Демократическая Республика Конго
+                                </td><td align="right" style="white-space:nowrap;">52196</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-47121</td><td align="right" style="white-space:nowrap;">48</td><td align="right" style="white-space:nowrap;">6</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">8928</td><td align="right" style="white-space:nowrap;">0,45</td><td align="right" style="white-space:nowrap;">10,3</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Венесуэла (Боливарианская Республика)
+                                </td><td align="right" style="white-space:nowrap;">51075</td><td align="right" style="white-space:nowrap;">211211</td><td align="right" style="white-space:nowrap;">50</td><td align="right" style="white-space:nowrap;">-13</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">9173</td><td align="right" style="white-space:nowrap;">0,29</td><td align="right" style="white-space:nowrap;">9</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Никарагуа
+                                </td><td align="right" style="white-space:nowrap;">48954</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-42775</td><td align="right" style="white-space:nowrap;">11</td><td align="right" style="white-space:nowrap;">-16</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">4823</td><td align="right" style="white-space:nowrap;">0,15</td><td align="right" style="white-space:nowrap;">3</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Уганда
+                                </td><td align="right" style="white-space:nowrap;">48399</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-36748</td><td align="right" style="white-space:nowrap;">14</td><td align="right" style="white-space:nowrap;">10</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">5106</td><td align="right" style="white-space:nowrap;">0,18</td><td align="right" style="white-space:nowrap;">18,8</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Тринидад и Тобаго
+                                </td><td align="right" style="white-space:nowrap;">45755</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-39053</td><td align="right" style="white-space:nowrap;">6</td><td align="right" style="white-space:nowrap;">-10</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">7952</td><td align="right" style="white-space:nowrap;">0,23</td><td align="right" style="white-space:nowrap;">3,7</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Мозамбик
+                                </td><td align="right" style="white-space:nowrap;">42504</td><td align="right" style="white-space:nowrap;">1232999</td><td align="right" style="white-space:nowrap;">-16</td><td align="right" style="white-space:nowrap;">13</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">5385</td><td align="right" style="white-space:nowrap;">0,25</td><td align="right" style="white-space:nowrap;">6,7</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Йемен
+                                </td><td align="right" style="white-space:nowrap;">40735</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-6715</td><td align="right" style="white-space:nowrap;">-1</td><td align="right" style="white-space:nowrap;">1</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">6663</td><td align="right" style="white-space:nowrap;">0,65</td><td align="right" style="white-space:nowrap;">5,5</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Республика Молдова
+                                </td><td align="right" style="white-space:nowrap;">40086</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-27813</td><td align="right" style="white-space:nowrap;">8</td><td align="right" style="white-space:nowrap;">-13</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">2472</td><td align="right" style="white-space:nowrap;">0,15</td><td align="right" style="white-space:nowrap;">0</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Монголия
+                                </td><td align="right" style="white-space:nowrap;">39066</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-28957</td><td align="right" style="white-space:nowrap;">16</td><td align="right" style="white-space:nowrap;">-10</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">2642</td><td align="right" style="white-space:nowrap;">0,47</td><td align="right" style="white-space:nowrap;">5</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Афганистан
+                                </td><td align="right" style="white-space:nowrap;">37546</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-31605</td><td align="right" style="white-space:nowrap;">-8</td><td align="right" style="white-space:nowrap;">56</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">984</td><td align="right" style="white-space:nowrap;">0,81</td><td align="right" style="white-space:nowrap;">6,4</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Зимбабве
+                                </td><td align="right" style="white-space:nowrap;">34721</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-32354</td><td align="right" style="white-space:nowrap;">24</td><td align="right" style="white-space:nowrap;">-11</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">4290</td><td align="right" style="white-space:nowrap;">0,41</td><td align="right" style="white-space:nowrap;">14,2</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Мальдивские Острова
+                                </td><td align="right" style="white-space:nowrap;">34530</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-34401</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;">36</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">4462</td><td align="right" style="white-space:nowrap;">0,3</td><td align="right" style="white-space:nowrap;">6,5</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Таджикистан
+                                </td><td align="right" style="white-space:nowrap;">31382</td><td align="right" style="white-space:nowrap;">116970</td><td align="right" style="white-space:nowrap;">36</td><td align="right" style="white-space:nowrap;">-12</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">3405</td><td align="right" style="white-space:nowrap;">0,32</td><td align="right" style="white-space:nowrap;">8,4</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Буркина-Фасо
+                                </td><td align="right" style="white-space:nowrap;">29629</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-27097</td><td align="right" style="white-space:nowrap;">34</td><td align="right" style="white-space:nowrap;">47</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">7889</td><td align="right" style="white-space:nowrap;">0,33</td><td align="right" style="white-space:nowrap;">12,2</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Ботсвана
+                                </td><td align="right" style="white-space:nowrap;">29061</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-24522</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;">-7</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">1514</td><td align="right" style="white-space:nowrap;">0,71</td><td align="right" style="white-space:nowrap;">6,9</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Конго
+                                </td><td align="right" style="white-space:nowrap;">27563</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-18999</td><td align="right" style="white-space:nowrap;">19</td><td align="right" style="white-space:nowrap;">44</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">9042</td><td align="right" style="white-space:nowrap;">0,36</td><td align="right" style="white-space:nowrap;">14,5</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Того
+                                </td><td align="right" style="white-space:nowrap;">26370</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-19460</td><td align="right" style="white-space:nowrap;">14</td><td align="right" style="white-space:nowrap;">-1</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">5809</td><td align="right" style="white-space:nowrap;">0,27</td><td align="right" style="white-space:nowrap;">12,2</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Намибия
+                                </td><td align="right" style="white-space:nowrap;">25755</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-20517</td><td align="right" style="white-space:nowrap;">6</td><td align="right" style="white-space:nowrap;">-39</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">4966</td><td align="right" style="white-space:nowrap;">0,39</td><td align="right" style="white-space:nowrap;">6,9</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Сирийская Арабская Республика
+                                </td><td align="right" style="white-space:nowrap;">24313</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-20943</td><td align="right" style="white-space:nowrap;">-16</td><td align="right" style="white-space:nowrap;">30</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">1518</td><td align="right" style="white-space:nowrap;">0,26</td><td align="right" style="white-space:nowrap;">6,7</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Фиджи
+                                </td><td align="right" style="white-space:nowrap;">23586</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-23234</td><td align="right" style="white-space:nowrap;">12</td><td align="right" style="white-space:nowrap;">5</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">6460</td><td align="right" style="white-space:nowrap;">0,28</td><td align="right" style="white-space:nowrap;">9,5</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Кайман острова
+                                </td><td align="right" style="white-space:nowrap;">22446</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-21627</td><td align="right" style="white-space:nowrap;">16</td><td align="right" style="white-space:nowrap;">-15</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">3058</td><td align="right" style="white-space:nowrap;">0,42</td><td align="right" style="white-space:nowrap;">22</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Нигер
+                                </td><td align="right" style="white-space:nowrap;">22242</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-22236</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;">114</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">8284</td><td align="right" style="white-space:nowrap;">0,45</td><td align="right" style="white-space:nowrap;">12,2</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Габон
+                                </td><td align="right" style="white-space:nowrap;">22173</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-20439</td><td align="right" style="white-space:nowrap;">9</td><td align="right" style="white-space:nowrap;">3</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">4481</td><td align="right" style="white-space:nowrap;">0,15</td><td align="right" style="white-space:nowrap;">19,7</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Мали
+                                </td><td align="right" style="white-space:nowrap;">20530</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-19382</td><td align="right" style="white-space:nowrap;">11</td><td align="right" style="white-space:nowrap;">18</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">7770</td><td align="right" style="white-space:nowrap;">0,2</td><td align="right" style="white-space:nowrap;">12,2</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Сомали
+                                </td><td align="right" style="white-space:nowrap;">20027</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-19120</td><td align="right" style="white-space:nowrap;">13</td><td align="right" style="white-space:nowrap;">-13</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">6398</td><td align="right" style="white-space:nowrap;">0,38</td><td align="right" style="white-space:nowrap;">21</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Руанда
+                                </td><td align="right" style="white-space:nowrap;">19024</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-16762</td><td align="right" style="white-space:nowrap;">6</td><td align="right" style="white-space:nowrap;">74</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">5796</td><td align="right" style="white-space:nowrap;">0,21</td><td align="right" style="white-space:nowrap;">16,8</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Британские Виргинские острова
+                                </td><td align="right" style="white-space:nowrap;">18484</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-18351</td><td align="right" style="white-space:nowrap;">11</td><td align="right" style="white-space:nowrap;">-16</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">10127</td><td align="right" style="white-space:nowrap;">0,55</td><td align="right" style="white-space:nowrap;">...</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Барбадос
+                                </td><td align="right" style="white-space:nowrap;">17896</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-10466</td><td align="right" style="white-space:nowrap;">17</td><td align="right" style="white-space:nowrap;">-33</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">5590</td><td align="right" style="white-space:nowrap;">0,38</td><td align="right" style="white-space:nowrap;">6,5</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Новая Каледония
+                                </td><td align="right" style="white-space:nowrap;">17831</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-16472</td><td align="right" style="white-space:nowrap;">5</td><td align="right" style="white-space:nowrap;">-3</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">12372</td><td align="right" style="white-space:nowrap;">0,28</td><td align="right" style="white-space:nowrap;">...</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Мадагаскар
+                                </td><td align="right" style="white-space:nowrap;">16992</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-16591</td><td align="right" style="white-space:nowrap;">2</td><td align="right" style="white-space:nowrap;">10</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">8437</td><td align="right" style="white-space:nowrap;">0,13</td><td align="right" style="white-space:nowrap;">9,3</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Андорра
+                                </td><td align="right" style="white-space:nowrap;">16820</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-16246</td><td align="right" style="white-space:nowrap;">21</td><td align="right" style="white-space:nowrap;">6</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">453</td><td align="right" style="white-space:nowrap;">0,87</td><td align="right" style="white-space:nowrap;">...</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Малави
+                                </td><td align="right" style="white-space:nowrap;">16626</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-15830</td><td align="right" style="white-space:nowrap;">-2</td><td align="right" style="white-space:nowrap;">259</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">7652</td><td align="right" style="white-space:nowrap;">0,29</td><td align="right" style="white-space:nowrap;">13,4</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Судан
+                                </td><td align="right" style="white-space:nowrap;">16034</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-11351</td><td align="right" style="white-space:nowrap;">-17</td><td align="right" style="white-space:nowrap;">-58</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">0,41</td><td align="right" style="white-space:nowrap;">...</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Джибути
+                                </td><td align="right" style="white-space:nowrap;">15910</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-6731</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">72</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">4761</td><td align="right" style="white-space:nowrap;">0,24</td><td align="right" style="white-space:nowrap;">22,7</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Аруба
+                                </td><td align="right" style="white-space:nowrap;">15676</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-14591</td><td align="right" style="white-space:nowrap;">13</td><td align="right" style="white-space:nowrap;">7</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">7245</td><td align="right" style="white-space:nowrap;">0,22</td><td align="right" style="white-space:nowrap;">6,9</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Острова Теркс и Кайкос
+                                </td><td align="right" style="white-space:nowrap;">15546</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-15376</td><td align="right" style="white-space:nowrap;">24</td><td align="right" style="white-space:nowrap;">33</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">5332</td><td align="right" style="white-space:nowrap;">0,29</td><td align="right" style="white-space:nowrap;">...</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Французская Полинезия
+                                </td><td align="right" style="white-space:nowrap;">15328</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-15101</td><td align="right" style="white-space:nowrap;">1</td><td align="right" style="white-space:nowrap;">-37</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">13098</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">8,9</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Бенин
+                                </td><td align="right" style="white-space:nowrap;">15285</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-13373</td><td align="right" style="white-space:nowrap;">14</td><td align="right" style="white-space:nowrap;">-45</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">7018</td><td align="right" style="white-space:nowrap;">0,15</td><td align="right" style="white-space:nowrap;">12,2</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Мавритания
+                                </td><td align="right" style="white-space:nowrap;">15074</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-14441</td><td align="right" style="white-space:nowrap;">-4</td><td align="right" style="white-space:nowrap;">19</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">8973</td><td align="right" style="white-space:nowrap;">0,51</td><td align="right" style="white-space:nowrap;">12,9</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Суринам
+                                </td><td align="right" style="white-space:nowrap;">14911</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-13695</td><td align="right" style="white-space:nowrap;">26</td><td align="right" style="white-space:nowrap;">9</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">9965</td><td align="right" style="white-space:nowrap;">0,36</td><td align="right" style="white-space:nowrap;">7,2</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Сейшельские Острова
+                                </td><td align="right" style="white-space:nowrap;">14569</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-13977</td><td align="right" style="white-space:nowrap;">21</td><td align="right" style="white-space:nowrap;">45</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">5268</td><td align="right" style="white-space:nowrap;">0,16</td><td align="right" style="white-space:nowrap;">0</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Бруней-Даруссалам
+                                </td><td align="right" style="white-space:nowrap;">14226</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-11206</td><td align="right" style="white-space:nowrap;">-2</td><td align="right" style="white-space:nowrap;">-21</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">3537</td><td align="right" style="white-space:nowrap;">0,31</td><td align="right" style="white-space:nowrap;">0</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Сьерра-Леоне
+                                </td><td align="right" style="white-space:nowrap;">14217</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-4919</td><td align="right" style="white-space:nowrap;">19</td><td align="right" style="white-space:nowrap;">6</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">11265</td><td align="right" style="white-space:nowrap;">0,54</td><td align="right" style="white-space:nowrap;">12,2</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Кюрасао
+                                </td><td align="right" style="white-space:nowrap;">14138</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-10714</td><td align="right" style="white-space:nowrap;">1</td><td align="right" style="white-space:nowrap;">1</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">0,24</td><td align="right" style="white-space:nowrap;">...</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Гайана
+                                </td><td align="right" style="white-space:nowrap;">13759</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-13255</td><td align="right" style="white-space:nowrap;">14</td><td align="right" style="white-space:nowrap;">4</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">10192</td><td align="right" style="white-space:nowrap;">0,3</td><td align="right" style="white-space:nowrap;">6,5</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Белиз
+                                </td><td align="right" style="white-space:nowrap;">13467</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-13382</td><td align="right" style="white-space:nowrap;">14</td><td align="right" style="white-space:nowrap;">-18</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">5490</td><td align="right" style="white-space:nowrap;">0,25</td><td align="right" style="white-space:nowrap;">6,5</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Зоны Свободной Торговли
+                                </td><td align="right" style="white-space:nowrap;">13330</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-8124</td><td align="right" style="white-space:nowrap;">-8</td><td align="right" style="white-space:nowrap;">189</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">0,85</td><td align="right" style="white-space:nowrap;">...</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Либерия
+                                </td><td align="right" style="white-space:nowrap;">11480</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-11476</td><td align="right" style="white-space:nowrap;">20</td><td align="right" style="white-space:nowrap;">-5</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">10024</td><td align="right" style="white-space:nowrap;">0,33</td><td align="right" style="white-space:nowrap;">13,5</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Соломоновы Острова
+                                </td><td align="right" style="white-space:nowrap;">11280</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-9903</td><td align="right" style="white-space:nowrap;">28</td><td align="right" style="white-space:nowrap;">81</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">6591</td><td align="right" style="white-space:nowrap;">0,83</td><td align="right" style="white-space:nowrap;">7,9</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Бутан
+                                </td><td align="right" style="white-space:nowrap;">11051</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-11042</td><td align="right" style="white-space:nowrap;">32</td><td align="right" style="white-space:nowrap;">8</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">1410</td><td align="right" style="white-space:nowrap;">0,76</td><td align="right" style="white-space:nowrap;">9,8</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Антигуа и Барбуда
+                                </td><td align="right" style="white-space:nowrap;">10695</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-10511</td><td align="right" style="white-space:nowrap;">8</td><td align="right" style="white-space:nowrap;">28</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">4357</td><td align="right" style="white-space:nowrap;">0,44</td><td align="right" style="white-space:nowrap;">7,3</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Гаити
+                                </td><td align="right" style="white-space:nowrap;">9795</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-5521</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;">-30</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">6128</td><td align="right" style="white-space:nowrap;">0,21</td><td align="right" style="white-space:nowrap;">5,4</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Экваториальная Гвинея
+                                </td><td align="right" style="white-space:nowrap;">9460</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-6768</td><td align="right" style="white-space:nowrap;">12</td><td align="right" style="white-space:nowrap;">-39</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">9390</td><td align="right" style="white-space:nowrap;">0,51</td><td align="right" style="white-space:nowrap;">19,6</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Суда и бункеры
+                                </td><td align="right" style="white-space:nowrap;">9131</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-9121</td><td align="right" style="white-space:nowrap;">2</td><td align="right" style="white-space:nowrap;">72</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">0,51</td><td align="right" style="white-space:nowrap;">...</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Лесото
+                                </td><td align="right" style="white-space:nowrap;">8128</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-7462</td><td align="right" style="white-space:nowrap;">17</td><td align="right" style="white-space:nowrap;">-5</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">4981</td><td align="right" style="white-space:nowrap;">0,45</td><td align="right" style="white-space:nowrap;">6,9</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Эсватини
+                                </td><td align="right" style="white-space:nowrap;">7597</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-7321</td><td align="right" style="white-space:nowrap;">3</td><td align="right" style="white-space:nowrap;">13</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">2150</td><td align="right" style="white-space:nowrap;">0,64</td><td align="right" style="white-space:nowrap;">6,9</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Гренландия
+                                </td><td align="right" style="white-space:nowrap;">7524</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-7479</td><td align="right" style="white-space:nowrap;">8</td><td align="right" style="white-space:nowrap;">7</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">3387</td><td align="right" style="white-space:nowrap;">0,91</td><td align="right" style="white-space:nowrap;">...</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Бермудские острова
+                                </td><td align="right" style="white-space:nowrap;">7307</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-7297</td><td align="right" style="white-space:nowrap;">-3</td><td align="right" style="white-space:nowrap;">6</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">2659</td><td align="right" style="white-space:nowrap;">0,68</td><td align="right" style="white-space:nowrap;">23,6</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Британская территория в Индийском океане
+                                </td><td align="right" style="white-space:nowrap;">7149</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-7148</td><td align="right" style="white-space:nowrap;">166</td><td align="right" style="white-space:nowrap;">-14</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">0,94</td><td align="right" style="white-space:nowrap;">...</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Фарерские острова
+                                </td><td align="right" style="white-space:nowrap;">6637</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-6302</td><td align="right" style="white-space:nowrap;">-6</td><td align="right" style="white-space:nowrap;">-2</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">1263</td><td align="right" style="white-space:nowrap;">0,63</td><td align="right" style="white-space:nowrap;">...</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Кабо-Верде
+                                </td><td align="right" style="white-space:nowrap;">5934</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-5934</td><td align="right" style="white-space:nowrap;">-12</td><td align="right" style="white-space:nowrap;">17</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">4884</td><td align="right" style="white-space:nowrap;">0,39</td><td align="right" style="white-space:nowrap;">7,9</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Гибралтар
+                                </td><td align="right" style="white-space:nowrap;">5779</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-5489</td><td align="right" style="white-space:nowrap;">2</td><td align="right" style="white-space:nowrap;">-20</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">591</td><td align="right" style="white-space:nowrap;">0,62</td><td align="right" style="white-space:nowrap;">12</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Центральноафриканская Республика
+                                </td><td align="right" style="white-space:nowrap;">5543</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-5478</td><td align="right" style="white-space:nowrap;">1</td><td align="right" style="white-space:nowrap;">81</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">6475</td><td align="right" style="white-space:nowrap;">0,29</td><td align="right" style="white-space:nowrap;">19,7</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Гренада
+                                </td><td align="right" style="white-space:nowrap;">5327</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-5318</td><td align="right" style="white-space:nowrap;">4</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">6685</td><td align="right" style="white-space:nowrap;">0,18</td><td align="right" style="white-space:nowrap;">6,9</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Южный Судан
+                                </td><td align="right" style="white-space:nowrap;">4549</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-4544</td><td align="right" style="white-space:nowrap;">40</td><td align="right" style="white-space:nowrap;">23</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">0,27</td><td align="right" style="white-space:nowrap;">...</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Сент-Люсия
+                                </td><td align="right" style="white-space:nowrap;">4499</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-3995</td><td align="right" style="white-space:nowrap;">11</td><td align="right" style="white-space:nowrap;">-21</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">7102</td><td align="right" style="white-space:nowrap;">0,23</td><td align="right" style="white-space:nowrap;">5,4</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Сент-Винсент и Гренадины
+                                </td><td align="right" style="white-space:nowrap;">4225</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-2741</td><td align="right" style="white-space:nowrap;">12</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">6065</td><td align="right" style="white-space:nowrap;">0,35</td><td align="right" style="white-space:nowrap;">6,4</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Коморские Острова
+                                </td><td align="right" style="white-space:nowrap;">4033</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-3811</td><td align="right" style="white-space:nowrap;">15</td><td align="right" style="white-space:nowrap;">184</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">8568</td><td align="right" style="white-space:nowrap;">0,59</td><td align="right" style="white-space:nowrap;">18,7</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Гамбия
+                                </td><td align="right" style="white-space:nowrap;">3861</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-3766</td><td align="right" style="white-space:nowrap;">43</td><td align="right" style="white-space:nowrap;">-41</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">10554</td><td align="right" style="white-space:nowrap;">0,39</td><td align="right" style="white-space:nowrap;">12,2</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Синт-Мартен (нидерландская часть)
+                                </td><td align="right" style="white-space:nowrap;">3656</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-3638</td><td align="right" style="white-space:nowrap;">9</td><td align="right" style="white-space:nowrap;">72</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">0,26</td><td align="right" style="white-space:nowrap;">...</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Тимор-Лешти
+                                </td><td align="right" style="white-space:nowrap;">3590</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-3503</td><td align="right" style="white-space:nowrap;">24</td><td align="right" style="white-space:nowrap;">-4</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">3043</td><td align="right" style="white-space:nowrap;">0,46</td><td align="right" style="white-space:nowrap;">2,5</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Корейская Народно-Демократическая Республика
+                                </td><td align="right" style="white-space:nowrap;">3288</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-2708</td><td align="right" style="white-space:nowrap;">69</td><td align="right" style="white-space:nowrap;">165</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">7799</td><td align="right" style="white-space:nowrap;">0,39</td><td align="right" style="white-space:nowrap;">...</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Доминика
+                                </td><td align="right" style="white-space:nowrap;">3284</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-3233</td><td align="right" style="white-space:nowrap;">-18</td><td align="right" style="white-space:nowrap;">38</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">5303</td><td align="right" style="white-space:nowrap;">0,13</td><td align="right" style="white-space:nowrap;">6,2</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Самоа
+                                </td><td align="right" style="white-space:nowrap;">3060</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-3038</td><td align="right" style="white-space:nowrap;">-6</td><td align="right" style="white-space:nowrap;">44</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">7823</td><td align="right" style="white-space:nowrap;">0,41</td><td align="right" style="white-space:nowrap;">8,4</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Чад
+                                </td><td align="right" style="white-space:nowrap;">2912</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-2827</td><td align="right" style="white-space:nowrap;">-3</td><td align="right" style="white-space:nowrap;">42</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">5904</td><td align="right" style="white-space:nowrap;">0,24</td><td align="right" style="white-space:nowrap;">19,7</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Тонга
+                                </td><td align="right" style="white-space:nowrap;">2856</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-2852</td><td align="right" style="white-space:nowrap;">5</td><td align="right" style="white-space:nowrap;">37</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">7315</td><td align="right" style="white-space:nowrap;">0,29</td><td align="right" style="white-space:nowrap;">11,4</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Вануату
+                                </td><td align="right" style="white-space:nowrap;">2831</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-2717</td><td align="right" style="white-space:nowrap;">13</td><td align="right" style="white-space:nowrap;">8</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">7020</td><td align="right" style="white-space:nowrap;">0,42</td><td align="right" style="white-space:nowrap;">7,2</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Бурунди
+                                </td><td align="right" style="white-space:nowrap;">2782</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-2492</td><td align="right" style="white-space:nowrap;">-15</td><td align="right" style="white-space:nowrap;">45</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">5951</td><td align="right" style="white-space:nowrap;">0,22</td><td align="right" style="white-space:nowrap;">16,8</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Сент-Китс и Невис
+                                </td><td align="right" style="white-space:nowrap;">2760</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-2624</td><td align="right" style="white-space:nowrap;">3</td><td align="right" style="white-space:nowrap;">-23</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">5279</td><td align="right" style="white-space:nowrap;">0,37</td><td align="right" style="white-space:nowrap;">6,6</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Бонайре, Синт-Эстатиус и Саба
+                                </td><td align="right" style="white-space:nowrap;">2639</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-2518</td><td align="right" style="white-space:nowrap;">4</td><td align="right" style="white-space:nowrap;">26</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">0,84</td><td align="right" style="white-space:nowrap;">...</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Маршалловы Острова
+                                </td><td align="right" style="white-space:nowrap;">2454</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-2356</td><td align="right" style="white-space:nowrap;">1</td><td align="right" style="white-space:nowrap;">65</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">7904</td><td align="right" style="white-space:nowrap;">0,4</td><td align="right" style="white-space:nowrap;">...</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Эритрея
+                                </td><td align="right" style="white-space:nowrap;">2292</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-2292</td><td align="right" style="white-space:nowrap;">42</td><td align="right" style="white-space:nowrap;">762</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">4121</td><td align="right" style="white-space:nowrap;">0,93</td><td align="right" style="white-space:nowrap;">...</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Гвинея-Бисау
+                                </td><td align="right" style="white-space:nowrap;">2245</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-1782</td><td align="right" style="white-space:nowrap;">22</td><td align="right" style="white-space:nowrap;">-44</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">8136</td><td align="right" style="white-space:nowrap;">0,39</td><td align="right" style="white-space:nowrap;">12,2</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Острова Кука
+                                </td><td align="right" style="white-space:nowrap;">1489</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-1406</td><td align="right" style="white-space:nowrap;">-4</td><td align="right" style="white-space:nowrap;">61</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">4360</td><td align="right" style="white-space:nowrap;">0,71</td><td align="right" style="white-space:nowrap;">0</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            остров Рождества
+                                </td><td align="right" style="white-space:nowrap;">1430</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-1422</td><td align="right" style="white-space:nowrap;">58</td><td align="right" style="white-space:nowrap;">179</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">1</td><td align="right" style="white-space:nowrap;">...</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Ангилья
+                                </td><td align="right" style="white-space:nowrap;">1192</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-1190</td><td align="right" style="white-space:nowrap;">12</td><td align="right" style="white-space:nowrap;">-3</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">6538</td><td align="right" style="white-space:nowrap;">0,46</td><td align="right" style="white-space:nowrap;">14,6</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Палау
+                                </td><td align="right" style="white-space:nowrap;">1009</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-849</td><td align="right" style="white-space:nowrap;">1</td><td align="right" style="white-space:nowrap;">-5</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">3597</td><td align="right" style="white-space:nowrap;">0,68</td><td align="right" style="white-space:nowrap;">0</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Сан-Томе и Принсипи
+                                </td><td align="right" style="white-space:nowrap;">715</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-712</td><td align="right" style="white-space:nowrap;">1</td><td align="right" style="white-space:nowrap;">-30</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">5304</td><td align="right" style="white-space:nowrap;">0,49</td><td align="right" style="white-space:nowrap;">6,8</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Монтсеррат
+                                </td><td align="right" style="white-space:nowrap;">709</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-707</td><td align="right" style="white-space:nowrap;">-3</td><td align="right" style="white-space:nowrap;">1</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">0,91</td><td align="right" style="white-space:nowrap;">8,5</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Микронезия (Федеративные Штаты)
+                                </td><td align="right" style="white-space:nowrap;">687</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-495</td><td align="right" style="white-space:nowrap;">23</td><td align="right" style="white-space:nowrap;">-32</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">8154</td><td align="right" style="white-space:nowrap;">0,38</td><td align="right" style="white-space:nowrap;">4</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Сен-Пьер и Микелон
+                                </td><td align="right" style="white-space:nowrap;">574</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-570</td><td align="right" style="white-space:nowrap;">11</td><td align="right" style="white-space:nowrap;">-34</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">3839</td><td align="right" style="white-space:nowrap;">0,4</td><td align="right" style="white-space:nowrap;">4,1</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Кокосовых (Килинг) островов
+                                </td><td align="right" style="white-space:nowrap;">539</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-535</td><td align="right" style="white-space:nowrap;">49</td><td align="right" style="white-space:nowrap;">234</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">1</td><td align="right" style="white-space:nowrap;">...</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Кирибати
+                                </td><td align="right" style="white-space:nowrap;">534</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-444</td><td align="right" style="white-space:nowrap;">-5</td><td align="right" style="white-space:nowrap;">94</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">6326</td><td align="right" style="white-space:nowrap;">0,37</td><td align="right" style="white-space:nowrap;">0</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Тувалу
+                                </td><td align="right" style="white-space:nowrap;">520</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-518</td><td align="right" style="white-space:nowrap;">24</td><td align="right" style="white-space:nowrap;">33</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">4880</td><td align="right" style="white-space:nowrap;">0,33</td><td align="right" style="white-space:nowrap;">2,8</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Науру
+                                </td><td align="right" style="white-space:nowrap;">448</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-445</td><td align="right" style="white-space:nowrap;">26</td><td align="right" style="white-space:nowrap;">28</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">4324</td><td align="right" style="white-space:nowrap;">0,79</td><td align="right" style="white-space:nowrap;">10</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Северные Марианские острова
+                                </td><td align="right" style="white-space:nowrap;">383</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-109</td><td align="right" style="white-space:nowrap;">-24</td><td align="right" style="white-space:nowrap;">445</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">3660</td><td align="right" style="white-space:nowrap;">0,7</td><td align="right" style="white-space:nowrap;">...</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Фолклендские (Мальвинские) острова
+                                </td><td align="right" style="white-space:nowrap;">248</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-206</td><td align="right" style="white-space:nowrap;">2</td><td align="right" style="white-space:nowrap;">-38</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">13049</td><td align="right" style="white-space:nowrap;">0,81</td><td align="right" style="white-space:nowrap;">...</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Остров Святой Елены
+                                </td><td align="right" style="white-space:nowrap;">186</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-186</td><td align="right" style="white-space:nowrap;">35</td><td align="right" style="white-space:nowrap;">3</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">5240</td><td align="right" style="white-space:nowrap;">0,36</td><td align="right" style="white-space:nowrap;">...</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Острова Уоллис и Футуна
+                                </td><td align="right" style="white-space:nowrap;">175</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-175</td><td align="right" style="white-space:nowrap;">-3</td><td align="right" style="white-space:nowrap;">12</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">11985</td><td align="right" style="white-space:nowrap;">0,22</td><td align="right" style="white-space:nowrap;">3,3</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Южные земли (французская заморская территория)
+                                </td><td align="right" style="white-space:nowrap;">132</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-131</td><td align="right" style="white-space:nowrap;">1</td><td align="right" style="white-space:nowrap;">95</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">0,31</td><td align="right" style="white-space:nowrap;">...</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Ниуэ
+                                </td><td align="right" style="white-space:nowrap;">117</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-85</td><td align="right" style="white-space:nowrap;">1</td><td align="right" style="white-space:nowrap;">142</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">2673</td><td align="right" style="white-space:nowrap;">0,97</td><td align="right" style="white-space:nowrap;">...</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Остров Норфолк
+                                </td><td align="right" style="white-space:nowrap;">102</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-49</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;">-70</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">1627</td><td align="right" style="white-space:nowrap;">0,5</td><td align="right" style="white-space:nowrap;">...</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Питкэрн
+                                </td><td align="right" style="white-space:nowrap;">88</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-88</td><td align="right" style="white-space:nowrap;">58</td><td align="right" style="white-space:nowrap;">-8</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">0,98</td><td align="right" style="white-space:nowrap;">...</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:#F7F6F3;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Токелау
+                                </td><td align="right" style="white-space:nowrap;">29</td><td align="right" style="white-space:nowrap;">7</td><td align="right" style="white-space:nowrap;">-33</td><td align="right" style="white-space:nowrap;">82</td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">4614</td><td align="right" style="white-space:nowrap;">0,58</td><td align="right" style="white-space:nowrap;">...</td>
+		</tr><tr align="right" style="color:Goldenrod;background-color:White;border-color:#002B54;font-size:80%;">
+			<td align="left" style="width:22%;">
+                            Западная Сахара
+                                </td><td align="right" style="white-space:nowrap;">1</td><td align="right" style="color:OrangeRed;border-color:#002B54;white-space:nowrap;">-1</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">0</td><td align="right" style="white-space:nowrap;"></td><td align="right" style="white-space:nowrap;">11334</td><td align="right" style="white-space:nowrap;">1</td><td align="right" style="white-space:nowrap;">...</td>
+		</tr>
+	</table>
+</div></body></html>

@@ -1,0 +1,967 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title></title><META http-equiv="Content-Type" content="text/html; charset=utf-8" /></head><body><table align="center"><tr><td colspan="6"><center><b>Список экспортеров для выбранного товара </b></center></td></tr><tr><td colspan="6"><center>   Товар:76 Алюминий и изделия из него</center></td></tr></table><table><tr><td> </td></tr></table><table id="ctl00_PageContent_GridLegendTable" class="table_legend" border="0">
+	<tr>
+		<td>Источники:Расчеты МТЦ на основе статистики базы статистических данных ООН по торговле товарами и МТЦ.</td>
+	</tr><tr>
+		<td>Глобальное агрегирование представляет сумму стран, представляющих отчеты и стран, не представляющих отчеты.  </td>
+	</tr><tr>
+		<td>Данные, основанные на данных, представленных партнерами (зеркальные данные), показаны оранжевым цветом</td>
+	</tr><tr>
+		<td></td>
+	</tr><tr>
+		<td></td>
+	</tr><tr>
+		<td></td>
+	</tr><tr>
+		<td></td>
+	</tr>
+</table><table><tr><td> </td></tr></table><table id="ctl00_PageContent_GridLabelUnitTable" border="0">
+	<tr>
+		<td><span id="ctl00_PageContent_Label_Unit" class="Comment">Единица : доллар США (в тысячах)</span></td>
+	</tr>
+</table><table><tr><td> </td></tr></table><div>
+	<table cellspacing="0" cellpadding="4" rules="all" border="1" id="ctl00_PageContent_MyGridView1" style="color:#002B54;border-color:#002B54;width:100%;border-collapse:collapse;">
+		<tr style="color:White;background-color:#5D7B9D;font-size:80%;font-weight:bold;">
+			<th scope="col">Экспортеры</th><th scope="col">Стоимость экспорта в 2004 г.</th><th scope="col">Стоимость экспорта в 2005 г.</th><th scope="col">Стоимость экспорта в 2006 г.</th><th scope="col">Стоимость экспорта в 2007 г.</th><th scope="col">Стоимость экспорта в 2008 г.</th><th scope="col">Стоимость экспорта в 2009 г.</th><th scope="col">Стоимость экспорта в 2010 г.</th><th scope="col">Стоимость экспорта в 2011 г.</th><th scope="col">Стоимость экспорта в 2012 г.</th><th scope="col">Стоимость экспорта в 2013 г.</th><th scope="col">Стоимость экспорта в 2014 г.</th><th scope="col">Стоимость экспорта в 2015 г.</th><th scope="col">Стоимость экспорта в 2016 г.</th><th scope="col">Стоимость экспорта в 2017 г.</th><th scope="col">Стоимость экспорта в 2018 г.</th><th scope="col">Стоимость экспорта в 2019 г.</th><th scope="col">Стоимость экспорта в 2020 г.</th><th scope="col">Стоимость экспорта в 2021 г.</th><th scope="col">Стоимость экспорта в 2022 г.</th><th scope="col">Стоимость экспорта в 2023 г.</th>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td title="Глобальное агрегирование представляет сумму стран, представляющих отчеты и стран, не представляющих отчеты.  " align="left" style="width:30%;">
+                            Весь Мир
+                                </td><td title="Агрегированные данные являются зеркальными и прямыми" style="color:BlueViolet;border-color:#002B54;">92362619</td><td title="Агрегированные данные являются зеркальными и прямыми" style="color:BlueViolet;border-color:#002B54;">104101580</td><td title="Агрегированные данные являются зеркальными и прямыми" style="color:BlueViolet;border-color:#002B54;">137955754</td><td title="Агрегированные данные являются зеркальными и прямыми" style="color:BlueViolet;border-color:#002B54;">157061466</td><td title="Агрегированные данные являются зеркальными и прямыми" style="color:BlueViolet;border-color:#002B54;">164700578</td><td title="Агрегированные данные являются зеркальными и прямыми" style="color:BlueViolet;border-color:#002B54;">112835298</td><td title="Агрегированные данные являются зеркальными и прямыми" style="color:BlueViolet;border-color:#002B54;">144982862</td><td title="Агрегированные данные являются зеркальными и прямыми" style="color:BlueViolet;border-color:#002B54;">173845633</td><td title="Агрегированные данные являются зеркальными и прямыми" style="color:BlueViolet;border-color:#002B54;">157882134</td><td title="Агрегированные данные являются зеркальными и прямыми" style="color:BlueViolet;border-color:#002B54;">161972396</td><td title="Агрегированные данные являются зеркальными и прямыми" style="color:BlueViolet;border-color:#002B54;">172484795</td><td title="Агрегированные данные являются зеркальными и прямыми" style="color:BlueViolet;border-color:#002B54;">162777750</td><td title="Агрегированные данные являются зеркальными и прямыми" style="color:BlueViolet;border-color:#002B54;">155696848</td><td title="Агрегированные данные являются зеркальными и прямыми" style="color:BlueViolet;border-color:#002B54;">172428590</td><td title="Агрегированные данные являются зеркальными и прямыми" style="color:BlueViolet;border-color:#002B54;">192986427</td><td title="Агрегированные данные являются зеркальными и прямыми" style="color:BlueViolet;border-color:#002B54;">176533024</td><td title="Агрегированные данные являются зеркальными и прямыми" style="color:BlueViolet;border-color:#002B54;">165772373</td><td title="Агрегированные данные являются зеркальными и прямыми" style="color:BlueViolet;border-color:#002B54;">239520400</td><td title="Агрегированные данные являются зеркальными и прямыми" style="color:BlueViolet;border-color:#002B54;">279861447</td><td title="Агрегированные данные являются зеркальными и прямыми" style="color:BlueViolet;border-color:#002B54;">239750740</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Китай
+                                </td><td>5175296</td><td>6109102</td><td>9277266</td><td>11575029</td><td>14224671</td><td>9498521</td><td>14530901</td><td>18648585</td><td>18641304</td><td>20039265</td><td>22615470</td><td>23819933</td><td>21315169</td><td>22642422</td><td>27077282</td><td>26077777</td><td>24589848</td><td>34711889</td><td>42109007</td><td>34977730</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Германия
+                                </td><td>9945118</td><td>11225113</td><td>14582724</td><td>17114098</td><td>18315420</td><td>12818762</td><td>13651578</td><td>17751770</td><td>15559977</td><td>16212864</td><td>16966653</td><td>15540960</td><td>15164438</td><td>16425780</td><td>17736745</td><td>16485729</td><td>14739713</td><td>18908307</td><td>21417103</td><td>19620604</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Соединенные Штаты Америки
+                                </td><td>5990312</td><td>7511239</td><td>10100968</td><td>11097154</td><td>11942021</td><td>8362993</td><td>10625016</td><td>12975642</td><td>12783556</td><td>13053200</td><td>12736128</td><td>12046082</td><td>12237317</td><td>11588064</td><td>12583681</td><td>10933314</td><td>9380978</td><td>12033895</td><td>14511112</td><td>14277975</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Канада
+                                </td><td>6746219</td><td>7883912</td><td>10746441</td><td>11397446</td><td>11029168</td><td>6614325</td><td>8921048</td><td>9921832</td><td>8581160</td><td>8484944</td><td>8851104</td><td>8231772</td><td>8083824</td><td>9820037</td><td>10007662</td><td>8321419</td><td>8347719</td><td>12183218</td><td>14143463</td><td>12606120</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Италия
+                                </td><td>4335415</td><td>4676961</td><td>5838296</td><td>6841720</td><td>6760081</td><td>4740410</td><td>5837989</td><td>6901840</td><td>6075721</td><td>6366851</td><td>6545213</td><td>5788956</td><td>5745272</td><td>6423563</td><td>7181224</td><td>6551128</td><td>6216725</td><td>8108526</td><td>9546412</td><td>8692176</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Российская Федерация
+                                </td><td>4838629</td><td>5471523</td><td>7034198</td><td>8147323</td><td>8653406</td><td>5791207</td><td>6668975</td><td>7739851</td><td>7262288</td><td>7124584</td><td>6325357</td><td>6880992</td><td>5980102</td><td>6673318</td><td>6555519</td><td>5839023</td><td>5463661</td><td>8667438</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">10295655</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">8346465</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Объединенные Арабские Эмираты
+                                </td><td></td><td>751820</td><td></td><td>781897</td><td>684236</td><td></td><td></td><td></td><td>2073736</td><td>2153918</td><td>4240782</td><td>5290379</td><td>5081904</td><td>6206409</td><td>6379975</td><td>5539326</td><td>4446737</td><td>8149499</td><td>8279400</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">7627237</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Индия
+                                </td><td>410609</td><td>656996</td><td>770067</td><td>1037811</td><td>1247398</td><td>979112</td><td>1328025</td><td>1423415</td><td>1579450</td><td>2078003</td><td>2582504</td><td>2686382</td><td>2732376</td><td>3652286</td><td>5170393</td><td>5244321</td><td>5285080</td><td>9063866</td><td>9597945</td><td>7334808</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Франция
+                                </td><td>3927963</td><td>4234446</td><td>5340677</td><td>6002284</td><td>6040377</td><td>4321397</td><td>5025360</td><td>5743044</td><td>5107665</td><td>5264830</td><td>5516837</td><td>4965157</td><td>4872166</td><td>5355898</td><td>5742248</td><td>5216892</td><td>4519895</td><td>6200648</td><td>6943110</td><td>6502994</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Нидерланды
+                                </td><td>2982817</td><td>3261202</td><td>4414675</td><td>5116478</td><td>5031343</td><td>3306284</td><td>4031972</td><td>4827244</td><td>4063441</td><td>4018382</td><td>4886559</td><td>4235328</td><td>4343742</td><td>4847112</td><td>5488788</td><td>4683363</td><td>4276464</td><td>6648746</td><td>7857010</td><td>6438215</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Малайзия
+                                </td><td>535415</td><td>668741</td><td>884474</td><td>1120829</td><td>1237232</td><td>949474</td><td>1232942</td><td>1910257</td><td>1731860</td><td>2055225</td><td>2242461</td><td>2058943</td><td>2875577</td><td>3186241</td><td>3865437</td><td>3757156</td><td>3762823</td><td>7271598</td><td>7447085</td><td>5960831</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Польша
+                                </td><td>1029981</td><td>1215602</td><td>1676817</td><td>2042205</td><td>2261493</td><td>1558888</td><td>1870541</td><td>2327325</td><td>2091986</td><td>2441962</td><td>2691975</td><td>2704135</td><td>2663751</td><td>3090820</td><td>3826630</td><td>3679006</td><td>3683498</td><td>5068498</td><td>6092184</td><td>5356521</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Австрия
+                                </td><td>2097596</td><td>2334722</td><td>2964474</td><td>3611734</td><td>3790697</td><td>2904866</td><td>3567714</td><td>4175414</td><td>3761586</td><td>3933153</td><td>4066654</td><td>3863458</td><td>3690240</td><td>3930816</td><td>4395466</td><td>3918730</td><td>3594669</td><td>4627702</td><td>5529483</td><td>5339766</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Турция
+                                </td><td>649488</td><td>875609</td><td>1233803</td><td>1619640</td><td>1776509</td><td>1399411</td><td>1916086</td><td>2285695</td><td>2251943</td><td>2383670</td><td>2636431</td><td>2370075</td><td>2238041</td><td>2512216</td><td>2995017</td><td>3116848</td><td>3060897</td><td>5173743</td><td>6708092</td><td>5317254</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Испания
+                                </td><td>1522466</td><td>1968683</td><td>2585044</td><td>3039825</td><td>3228863</td><td>2265626</td><td>2829686</td><td>3345168</td><td>3142297</td><td>3289672</td><td>3554820</td><td>3465154</td><td>3414903</td><td>4049919</td><td>4352807</td><td>3951683</td><td>3582252</td><td>5634458</td><td>6290944</td><td>5220952</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Норвегия
+                                </td><td>3660492</td><td>3948387</td><td>5266757</td><td>6209266</td><td>5905412</td><td>3616313</td><td>4569603</td><td>5146973</td><td>4346745</td><td>3962678</td><td>4221970</td><td>3520832</td><td>3208307</td><td>4000372</td><td>4189351</td><td>3680179</td><td>3326807</td><td>5213780</td><td>6436606</td><td>4844402</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Бахрейн
+                                </td><td>945589</td><td>1344270</td><td>1457020</td><td>1348093</td><td>1774294</td><td>1149518</td><td>1768170</td><td>2153035</td><td>2185472</td><td>3211206</td><td>2707397</td><td>2192617</td><td>1803019</td><td>2035848</td><td>2069833</td><td>2048544</td><td>2792708</td><td>4488704</td><td>6869300</td><td>4755274</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Республика Корея
+                                </td><td>1508194</td><td>1684997</td><td>1991692</td><td>2214804</td><td>2435991</td><td>1827340</td><td>2357692</td><td>2698236</td><td>2561824</td><td>2645048</td><td>2880246</td><td>2861743</td><td>2583382</td><td>3020788</td><td>3654614</td><td>3523911</td><td>3618894</td><td>4812606</td><td>5620359</td><td>4518035</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Австралия
+                                </td><td>3174624</td><td>3653227</td><td>4798491</td><td>5304789</td><td>5221420</td><td>3468453</td><td>4458161</td><td>5273298</td><td>4569278</td><td>4213719</td><td>4173026</td><td>3543571</td><td>2888073</td><td>3146218</td><td>3853939</td><td>3297674</td><td>3058348</td><td>4682858</td><td>5132922</td><td>4442121</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Бельгия
+                                </td><td>2700881</td><td>2827832</td><td>3509921</td><td>4005980</td><td>3826166</td><td>2501711</td><td>3333525</td><td>3647882</td><td>3092481</td><td>3318381</td><td>3388614</td><td>3140268</td><td>2989518</td><td>3096297</td><td>3488555</td><td>3213852</td><td>2808202</td><td>3984417</td><td>4386783</td><td>3794629</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Соединенное Королевство Великобритании и Северной Ирландии
+                                </td><td>2799940</td><td>3327601</td><td>4166070</td><td>4759921</td><td>4726412</td><td>2529462</td><td>3450136</td><td>3830292</td><td>3227701</td><td>2919297</td><td>3227561</td><td>2928558</td><td>2686579</td><td>2844393</td><td>3241850</td><td>2890941</td><td>2389779</td><td>3249131</td><td>3819528</td><td>3327656</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Швейцария
+                                </td><td>1411119</td><td>1464702</td><td>1748123</td><td>2105639</td><td>2134091</td><td>1546759</td><td>2015052</td><td>2364097</td><td>2015946</td><td>2082914</td><td>2192876</td><td>2048666</td><td>2015036</td><td>2312824</td><td>2493723</td><td>2230261</td><td>2012859</td><td>2564951</td><td>2989537</td><td>2748476</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Чехия
+                                </td><td>826487</td><td>920584</td><td>1159550</td><td>1480212</td><td>1588772</td><td>1152618</td><td>1427611</td><td>1764975</td><td>1661971</td><td>1714510</td><td>1889371</td><td>1794776</td><td>1773452</td><td>1887867</td><td>2052652</td><td>1852386</td><td>1797675</td><td>2458870</td><td>2800540</td><td>2729484</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Греция
+                                </td><td>914391</td><td>925995</td><td>1111091</td><td>1282115</td><td>1484861</td><td>1024994</td><td>1347855</td><td>1746856</td><td>1538620</td><td>1575316</td><td>1707009</td><td>1560397</td><td>1538992</td><td>1814139</td><td>2068176</td><td>1906396</td><td>1838821</td><td>2532457</td><td>3041295</td><td>2719879</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Таиланд
+                                </td><td>590298</td><td>712048</td><td>900310</td><td>1055879</td><td>1268054</td><td>1012024</td><td>1242169</td><td>1323317</td><td>1247395</td><td>1360012</td><td>1451425</td><td>1340990</td><td>1349009</td><td>1543427</td><td>1811368</td><td>1886128</td><td>1873993</td><td>2893353</td><td>3230605</td><td>2708128</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Мексика
+                                </td><td>709812</td><td>870420</td><td>1074399</td><td>1243766</td><td>1306779</td><td>945708</td><td>1166417</td><td>1343763</td><td>1284963</td><td>1083710</td><td>1215473</td><td>1208295</td><td>2044592</td><td>1364291</td><td>1686026</td><td>1558703</td><td>1701587</td><td>2477622</td><td>3149258</td><td>2624886</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Исландия
+                                </td><td>530101</td><td>576262</td><td>817666</td><td>1263934</td><td>2105032</td><td>1407922</td><td>1910580</td><td>2122856</td><td>1881753</td><td>1869304</td><td>1941776</td><td>1891469</td><td>1592304</td><td>2000841</td><td>2246024</td><td>1802062</td><td>1612808</td><td>2331241</td><td>3073605</td><td>2428934</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Япония
+                                </td><td>1966326</td><td>2024365</td><td>2325213</td><td>2613135</td><td>2830482</td><td>2189649</td><td>2944265</td><td>2825342</td><td>2491432</td><td>2308879</td><td>2346549</td><td>2249541</td><td>2158997</td><td>2281204</td><td>2423926</td><td>2201113</td><td>2239089</td><td>3076953</td><td>2979124</td><td>2339667</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Южная Африка
+                                </td><td>1468358</td><td>1739268</td><td>2182453</td><td>2323510</td><td>2199855</td><td>1539660</td><td>2032105</td><td>2299285</td><td>1808432</td><td>1933671</td><td>1905966</td><td>1593960</td><td>1520585</td><td>1770713</td><td>2042958</td><td>1767751</td><td>1610547</td><td>1880775</td><td>2007258</td><td>2256266</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Швеция
+                                </td><td>1313507</td><td>1297034</td><td>1597954</td><td>1927339</td><td>1981470</td><td>1298049</td><td>1747270</td><td>2055507</td><td>1826336</td><td>1751105</td><td>1737020</td><td>1503746</td><td>1458310</td><td>1690376</td><td>1765424</td><td>1575928</td><td>1465111</td><td>2468029</td><td>2788266</td><td>2124720</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Вьетнам
+                                </td><td>44811</td><td>58067</td><td>79578</td><td>92548</td><td>125442</td><td>87256</td><td>129923</td><td>208217</td><td>272929</td><td>360070</td><td>503072</td><td>664068</td><td>714767</td><td>900366</td><td>1163766</td><td>1270783</td><td>1419205</td><td>2039212</td><td>2510002</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1970349</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Саудовская Аравия
+                                </td><td>214577</td><td>280801</td><td>399524</td><td>498409</td><td>561786</td><td>524900</td><td>506839</td><td>506791</td><td>595781</td><td>1038332</td><td>2026525</td><td>2032332</td><td>1902757</td><td>2143192</td><td>2258782</td><td>2151967</td><td>2114036</td><td>2454210</td><td>2951825</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1920065</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Катар
+                                </td><td>3907</td><td>10496</td><td>8881</td><td>10866</td><td>6840</td><td>10892</td><td>397296</td><td>1095999</td><td>2615745</td><td>2561680</td><td>2945886</td><td>1797677</td><td></td><td>1402565</td><td>1391706</td><td>1357995</td><td>1210119</td><td>1678150</td><td>2139690</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1829223</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Венгрия
+                                </td><td>890945</td><td>1033010</td><td>1277290</td><td>1431044</td><td>1424539</td><td>959628</td><td>1314586</td><td>1637124</td><td>1400425</td><td>1401313</td><td>1401037</td><td>1236665</td><td>1258369</td><td>1501944</td><td>1708773</td><td>1517131</td><td>1269262</td><td>1745784</td><td>2000905</td><td>1823193</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Китайский Тайбэй
+                                </td><td>1065596</td><td>1165180</td><td>1366328</td><td>1502470</td><td>1509954</td><td>1071789</td><td>1390789</td><td>1593116</td><td>1528430</td><td>1463519</td><td>1478226</td><td>1471272</td><td>1414219</td><td>1470924</td><td>1695202</td><td>1579457</td><td>1565617</td><td>2024526</td><td>2216136</td><td>1812776</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Дания
+                                </td><td>815746</td><td>820425</td><td>1020638</td><td>1265219</td><td>1298905</td><td>905409</td><td>981307</td><td>1103626</td><td>1004873</td><td>1038321</td><td>1067135</td><td>940969</td><td>921846</td><td>1033901</td><td>1106649</td><td>1041593</td><td>1062081</td><td>1362068</td><td>1512913</td><td>1801458</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Румыния
+                                </td><td>451457</td><td>548839</td><td>810274</td><td>894473</td><td>927838</td><td>562924</td><td>788940</td><td>1073416</td><td>1074565</td><td>1126139</td><td>1163355</td><td>1086394</td><td>1015985</td><td>1147155</td><td>1266746</td><td>1194471</td><td>1105110</td><td>1502104</td><td>1769033</td><td>1736381</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Словения
+                                </td><td>646359</td><td>763360</td><td>1032687</td><td>1202736</td><td>1123923</td><td>686101</td><td>892304</td><td>1139190</td><td>1054227</td><td>1036692</td><td>1081318</td><td>1001586</td><td>992853</td><td>1126532</td><td>1341973</td><td>1242982</td><td>1155501</td><td>1626983</td><td>1799775</td><td>1580948</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Бразилия
+                                </td><td>1865433</td><td>1888620</td><td>2788331</td><td>3003334</td><td>2771404</td><td>1685842</td><td>1765792</td><td>1758436</td><td>1483905</td><td>1251458</td><td>1182040</td><td>1053474</td><td>990180</td><td>974459</td><td>883897</td><td>781991</td><td>786089</td><td>1168848</td><td>1584674</td><td>1497097</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Словакия
+                                </td><td>519021</td><td>551185</td><td>884789</td><td>981326</td><td>897417</td><td>682886</td><td>841795</td><td>1002751</td><td>1055543</td><td>1108106</td><td>1123579</td><td>1161041</td><td>1107724</td><td>1262592</td><td>1513451</td><td>1382588</td><td>1215337</td><td>1615872</td><td>1740491</td><td>1443190</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Китай, Специальный административный район Гонконг
+                                </td><td>891292</td><td>853413</td><td>984408</td><td>1049317</td><td>1041180</td><td>786479</td><td>968642</td><td>1161451</td><td>1020198</td><td>898581</td><td>782917</td><td>748218</td><td>645548</td><td>630762</td><td>688406</td><td>645286</td><td>603818</td><td>1711221</td><td>1911681</td><td>1413501</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Мозамбик
+                                </td><td>915463</td><td>1022506</td><td>1403699</td><td>1517411</td><td>1452525</td><td>435</td><td>1160046</td><td>1625727</td><td>1089352</td><td>1064303</td><td>1413761</td><td>1074468</td><td>889325</td><td>1199031</td><td>1296475</td><td>1061818</td><td>1059986</td><td>1128321</td><td>1882948</td><td>1275503</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Оман
+                                </td><td>38511</td><td>47686</td><td>44508</td><td>74089</td><td>131349</td><td>683512</td><td>605278</td><td>631329</td><td>896537</td><td>821596</td><td>979139</td><td>881326</td><td>620328</td><td>571126</td><td>957698</td><td>952789</td><td>897562</td><td>1124550</td><td>1376552</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1076095</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Португалия
+                                </td><td>416249</td><td>542982</td><td>786623</td><td>927410</td><td>885386</td><td>637825</td><td>675980</td><td>655144</td><td>613919</td><td>566667</td><td>682167</td><td>600648</td><td>610488</td><td>744276</td><td>913506</td><td>770833</td><td>783748</td><td>995013</td><td>1102914</td><td>1062648</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Новая Зеландия
+                                </td><td>702922</td><td>764978</td><td>961113</td><td>1117678</td><td>1017828</td><td>554910</td><td>874612</td><td>1241986</td><td>843516</td><td>798365</td><td>839209</td><td>725448</td><td>675374</td><td>793309</td><td>852765</td><td>784957</td><td>662751</td><td>997642</td><td>1048277</td><td>950253</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Сингапур
+                                </td><td>562308</td><td>639437</td><td>789107</td><td>1478218</td><td>1169937</td><td>889364</td><td>713352</td><td>772222</td><td>1022787</td><td>845050</td><td>994461</td><td>767947</td><td>775736</td><td>659506</td><td>909853</td><td>748176</td><td>672106</td><td>1236461</td><td>1198806</td><td>944678</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Колумбия
+                                </td><td>128261</td><td>147785</td><td>216805</td><td>261934</td><td>209181</td><td>131209</td><td>157326</td><td>155399</td><td>176378</td><td>209951</td><td>201167</td><td>220489</td><td>244560</td><td>234259</td><td>286750</td><td>352186</td><td>320484</td><td>480830</td><td>728087</td><td>842581</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Индонезия
+                                </td><td>490846</td><td>612877</td><td>862369</td><td>868053</td><td>865175</td><td>527022</td><td>771822</td><td>869385</td><td>783681</td><td>693357</td><td>664538</td><td>538208</td><td>395965</td><td>555050</td><td>775838</td><td>527027</td><td>610105</td><td>784542</td><td>890156</td><td>822530</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Аргентина
+                                </td><td>377414</td><td>445372</td><td>474544</td><td>544295</td><td>802522</td><td>583850</td><td>762677</td><td>859194</td><td>728074</td><td>733370</td><td>634408</td><td>540489</td><td>621683</td><td>793721</td><td>809886</td><td>724036</td><td>498283</td><td>614073</td><td>740107</td><td>820296</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Хорватия
+                                </td><td>179810</td><td>221669</td><td>291898</td><td>361895</td><td>380420</td><td>249368</td><td>316496</td><td>385447</td><td>364705</td><td>347678</td><td>356042</td><td>277487</td><td>304399</td><td>479176</td><td>517454</td><td>542978</td><td>552984</td><td>727327</td><td>756263</td><td>728314</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Египет
+                                </td><td>122779</td><td>131262</td><td>101717</td><td>228208</td><td>558050</td><td>406355</td><td>497136</td><td>664620</td><td>673232</td><td>706864</td><td>570953</td><td>465561</td><td>405065</td><td>485102</td><td>670037</td><td>539576</td><td>575726</td><td>784714</td><td>678383</td><td>700706</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Болгария
+                                </td><td>136034</td><td>147102</td><td>262606</td><td>341406</td><td>360393</td><td>219659</td><td>308734</td><td>361645</td><td>315929</td><td>357569</td><td>393738</td><td>364934</td><td>353014</td><td>424325</td><td>489325</td><td>443681</td><td>417531</td><td>648573</td><td>798527</td><td>648145</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Сербия
+                                </td><td></td><td></td><td>268763</td><td>415073</td><td>382273</td><td>232084</td><td>313960</td><td>458197</td><td>362246</td><td>396430</td><td>409484</td><td>361565</td><td>313512</td><td>369306</td><td>403345</td><td>385930</td><td>345823</td><td>521917</td><td>611623</td><td>603144</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Иран (Исламская Республика)
+                                </td><td>150517</td><td>252941</td><td>248642</td><td>222344</td><td>321461</td><td>249570</td><td>399844</td><td>491757</td><td>321600</td><td>456914</td><td>304009</td><td>225073</td><td>244465</td><td>365317</td><td>207149</td><td>156501</td><td>362623</td><td>814425</td><td>1210264</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">578769</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Казахстан
+                                </td><td>23778</td><td>25547</td><td>33796</td><td>40978</td><td>302817</td><td>194379</td><td>372856</td><td>557194</td><td>492679</td><td>489978</td><td>380850</td><td>419772</td><td>382485</td><td>533396</td><td>634828</td><td>565093</td><td>522908</td><td>779960</td><td>825877</td><td>578046</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Люксембург
+                                </td><td>387057</td><td>494042</td><td>669836</td><td>762968</td><td>706332</td><td>448140</td><td>570765</td><td>639086</td><td>535912</td><td>519246</td><td>542737</td><td>460020</td><td>404711</td><td>509105</td><td>523094</td><td>491984</td><td>424269</td><td>624139</td><td>730678</td><td>573247</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Финляндия
+                                </td><td>257857</td><td>276110</td><td>345549</td><td>423300</td><td>453065</td><td>300598</td><td>354510</td><td>413926</td><td>387684</td><td>439944</td><td>475575</td><td>409375</td><td>407662</td><td>454416</td><td>505888</td><td>492331</td><td>460959</td><td>581360</td><td>646192</td><td>529671</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Босния и Герцеговина
+                                </td><td>193335</td><td>290645</td><td>389542</td><td>446232</td><td>490307</td><td>269640</td><td>402520</td><td>476715</td><td>426420</td><td>402313</td><td>388789</td><td>321952</td><td>276953</td><td>375009</td><td>436050</td><td>311803</td><td>212362</td><td>564491</td><td>853880</td><td>474090</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Филиппины
+                                </td><td>32046</td><td>32862</td><td>41861</td><td>47673</td><td>51498</td><td>33182</td><td>44471</td><td>56850</td><td>126542</td><td>62674</td><td>71998</td><td>65826</td><td>168785</td><td>175811</td><td>173128</td><td>166038</td><td>215173</td><td>320094</td><td>343622</td><td>417326</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Литва
+                                </td><td>28976</td><td>40421</td><td>46009</td><td>58750</td><td>61508</td><td>50007</td><td>78757</td><td>100496</td><td>123267</td><td>143685</td><td>150329</td><td>141873</td><td>156693</td><td>193511</td><td>244538</td><td>245568</td><td>315680</td><td>333173</td><td>364116</td><td>326101</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Нигерия
+                                </td><td></td><td></td><td>1554</td><td>119168</td><td>122069</td><td>63412</td><td>330295</td><td>178886</td><td>239399</td><td>232825</td><td>143159</td><td>65435</td><td>33449</td><td>30739</td><td>74198</td><td>56236</td><td>43135</td><td>190316</td><td>281588</td><td>280453</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Венесуэла (Боливарианская Республика)
+                                </td><td>1094557</td><td>1087911</td><td>1083283</td><td>1050896</td><td>948210</td><td>458013</td><td>684366</td><td>236204</td><td>102262</td><td>74213</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">284603</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">262208</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">241729</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">331737</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">233797</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">79490</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">49697</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">144000</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">403146</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">262286</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Ирландия
+                                </td><td>119169</td><td>115916</td><td>127531</td><td>176626</td><td>163937</td><td>92756</td><td>96570</td><td>124655</td><td>116600</td><td>116634</td><td>128881</td><td>116915</td><td>130564</td><td>182826</td><td>233698</td><td>201225</td><td>167190</td><td>215958</td><td>233713</td><td>240871</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Марокко
+                                </td><td>25556</td><td>35420</td><td>52056</td><td>71773</td><td>61454</td><td>44869</td><td>68426</td><td>97046</td><td>113842</td><td>107180</td><td>125474</td><td>113317</td><td>129056</td><td>144702</td><td>144647</td><td>122971</td><td>123175</td><td>218040</td><td>246969</td><td>220141</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Иордания
+                                </td><td>57059</td><td>87411</td><td>129608</td><td>152479</td><td>200675</td><td>187824</td><td>187208</td><td>161663</td><td>126286</td><td>139478</td><td>161137</td><td>130902</td><td>130201</td><td>139183</td><td>128891</td><td>98003</td><td>108525</td><td>193387</td><td>283183</td><td>195573</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Азербайджан
+                                </td><td>48858</td><td>53596</td><td>71322</td><td>91704</td><td>122266</td><td>12047</td><td>2684</td><td>12690</td><td>94929</td><td>82816</td><td>86781</td><td>86148</td><td>98057</td><td>117674</td><td>112234</td><td>128049</td><td>113433</td><td>188529</td><td>217561</td><td>195182</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Израиль
+                                </td><td>168231</td><td>183572</td><td>234272</td><td>281874</td><td>245781</td><td>153086</td><td>190565</td><td>226157</td><td>221254</td><td>197570</td><td>216132</td><td>196153</td><td>178388</td><td>240295</td><td>231738</td><td>179980</td><td>176410</td><td>247538</td><td>203872</td><td>192554</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Чили
+                                </td><td>36364</td><td>46534</td><td>59831</td><td>72341</td><td>89439</td><td>73335</td><td>80744</td><td>117194</td><td>115027</td><td>125810</td><td>120874</td><td>124382</td><td>110750</td><td>142576</td><td>160415</td><td>120072</td><td>112364</td><td>130582</td><td>161546</td><td>166242</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Пакистан
+                                </td><td>7892</td><td>20251</td><td>18112</td><td>17682</td><td>29283</td><td>36430</td><td>35121</td><td>32423</td><td>34867</td><td>34462</td><td>37004</td><td>29138</td><td>26051</td><td>24666</td><td>27719</td><td>42378</td><td>65314</td><td>137056</td><td>156482</td><td>151443</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Таджикистан
+                                </td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>236237</td><td>221418</td><td>209386</td><td>203118</td><td>202178</td><td>180301</td><td>140382</td><td>144728</td><td>173609</td><td>148352</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Тунис
+                                </td><td>21122</td><td>29254</td><td>43719</td><td>74034</td><td>107212</td><td>78457</td><td>96124</td><td>98299</td><td>90487</td><td>92361</td><td>98462</td><td>82370</td><td>98827</td><td>105529</td><td>114117</td><td>109463</td><td>97861</td><td>127650</td><td>145839</td><td>143645</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Доминиканская Республика
+                                </td><td>5298</td><td>5710</td><td>8024</td><td>13834</td><td>41518</td><td>11998</td><td>21559</td><td>24914</td><td>46872</td><td>44763</td><td>44205</td><td>32535</td><td>26946</td><td>26181</td><td>43863</td><td>44155</td><td>57467</td><td>112235</td><td>100749</td><td>135828</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Гана
+                                </td><td>6001</td><td>48016</td><td>43856</td><td>36518</td><td>49431</td><td>31730</td><td>119564</td><td>120134</td><td>91275</td><td>80747</td><td>79148</td><td>69692</td><td>59799</td><td>77660</td><td>111245</td><td>89604</td><td></td><td>104408</td><td>183226</td><td>129283</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Эстония
+                                </td><td>46600</td><td>46444</td><td>60093</td><td>89243</td><td>165259</td><td>73464</td><td>113904</td><td>141367</td><td>94282</td><td>109352</td><td>115833</td><td>87937</td><td>87208</td><td>102757</td><td>118273</td><td>104749</td><td>103347</td><td>142280</td><td>138854</td><td>128103</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Гватемала
+                                </td><td>6848</td><td>8288</td><td>20193</td><td>60001</td><td>59437</td><td>49379</td><td>65556</td><td>85381</td><td>79382</td><td>81640</td><td>97940</td><td>87156</td><td>77302</td><td>110338</td><td>114448</td><td>101970</td><td>94911</td><td>111417</td><td>139234</td><td>128012</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Албания
+                                </td><td>9704</td><td>13413</td><td>19764</td><td>27140</td><td>28139</td><td>15302</td><td>26864</td><td>30643</td><td>29629</td><td>37737</td><td>45030</td><td>43130</td><td>49612</td><td>67366</td><td>71924</td><td>59274</td><td>58154</td><td>117339</td><td>154510</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">126768</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Латвия
+                                </td><td>90012</td><td>89377</td><td>60053</td><td>73944</td><td>83079</td><td>63353</td><td>84510</td><td>121227</td><td>113168</td><td>104167</td><td>105405</td><td>92792</td><td>92670</td><td>108267</td><td>137944</td><td>125909</td><td>121271</td><td>111148</td><td>121734</td><td>114751</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Эквадор
+                                </td><td>15093</td><td>30074</td><td>60272</td><td>33992</td><td>26908</td><td>12908</td><td>17856</td><td>27250</td><td>33174</td><td>45431</td><td>43853</td><td>44823</td><td>35612</td><td>48792</td><td>63243</td><td>54271</td><td>58540</td><td>92082</td><td>148490</td><td>108784</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Армения
+                                </td><td>16936</td><td>4445</td><td>7909</td><td>42643</td><td>40676</td><td>60303</td><td>83337</td><td>91370</td><td>88037</td><td>85462</td><td>93251</td><td>86459</td><td>82695</td><td>101931</td><td>96059</td><td>99578</td><td>104692</td><td>133792</td><td>146057</td><td>104450</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Парагвай
+                                </td><td>2478</td><td>3080</td><td>3665</td><td>5071</td><td>4942</td><td>3389</td><td>5951</td><td>8588</td><td>9625</td><td>13979</td><td>18191</td><td>18661</td><td>18118</td><td>27535</td><td>34876</td><td>29060</td><td>76470</td><td>140706</td><td>153906</td><td>98369</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Украина
+                                </td><td>501632</td><td>317074</td><td>405389</td><td>444093</td><td>453951</td><td>203250</td><td>171858</td><td>184654</td><td>144681</td><td>143703</td><td>126642</td><td>112448</td><td>92683</td><td>129217</td><td>131949</td><td>100516</td><td>108071</td><td>169082</td><td>97501</td><td>97739</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Камерун
+                                </td><td>118729</td><td>130857</td><td>168211</td><td>196990</td><td>199530</td><td>93271</td><td>120856</td><td>116778</td><td>77603</td><td>91656</td><td>173343</td><td>150372</td><td>122373</td><td>139702</td><td>132362</td><td>107285</td><td>95095</td><td>76893</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">104407</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">96224</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Камбоджа
+                                </td><td>7</td><td>215</td><td>685</td><td>1176</td><td>5715</td><td>6137</td><td>6189</td><td>5414</td><td>8802</td><td>11741</td><td>11261</td><td>14000</td><td>16973</td><td>22214</td><td>29159</td><td>38266</td><td>43548</td><td>68656</td><td>71980</td><td>87338</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Черногория
+                                </td><td></td><td></td><td>321236</td><td>351332</td><td>267625</td><td>159415</td><td>176678</td><td>257823</td><td>169628</td><td>109966</td><td>98669</td><td>79383</td><td>72786</td><td>75009</td><td>76945</td><td>67325</td><td>58745</td><td>88562</td><td>189593</td><td>84465</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Кувейт
+                                </td><td>20077</td><td></td><td>53581</td><td>45347</td><td>63939</td><td>32186</td><td>42321</td><td>108091</td><td>60481</td><td>50253</td><td>62127</td><td>53870</td><td>41798</td><td>39973</td><td>46385</td><td>43498</td><td>33490</td><td>59605</td><td>61268</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">81548</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Коста-Рика
+                                </td><td>60243</td><td>76093</td><td>100166</td><td>105815</td><td>101768</td><td>50153</td><td>68628</td><td>85094</td><td>80260</td><td>94268</td><td>103310</td><td>73055</td><td>64974</td><td>63316</td><td>67217</td><td>65838</td><td>52379</td><td>72377</td><td>74141</td><td>80902</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Ливия
+                                </td><td></td><td></td><td></td><td>0</td><td>1356</td><td>18</td><td>0</td><td></td><td></td><td></td><td></td><td>40928</td><td>49189</td><td>66997</td><td>43839</td><td>29504</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">40250</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">82223</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">89611</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">75109</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Беларусь
+                                </td><td>63223</td><td>52382</td><td>83054</td><td>119097</td><td>146133</td><td>93299</td><td>124620</td><td>166990</td><td>180650</td><td>200968</td><td>203991</td><td>148757</td><td>151783</td><td>186146</td><td>191318</td><td>209672</td><td>216503</td><td>330829</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">114351</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">71271</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Сальвадор
+                                </td><td>43699</td><td>47396</td><td>59990</td><td>64485</td><td>58950</td><td>41444</td><td>52116</td><td>65226</td><td>62210</td><td>62644</td><td>68595</td><td>65243</td><td>59448</td><td>64174</td><td>70032</td><td>64055</td><td>42508</td><td>63534</td><td>80690</td><td>71086</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Гондурас
+                                </td><td>13201</td><td>19096</td><td>18156</td><td>25766</td><td>41241</td><td>20830</td><td>39770</td><td>35045</td><td>38479</td><td>16221</td><td>41095</td><td>25494</td><td>11454</td><td>27114</td><td>18728</td><td>425</td><td>34757</td><td>1001</td><td></td><td>64645</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Мьянма
+                                </td><td></td><td></td><td></td><td></td><td></td><td></td><td>0</td><td>0</td><td>0</td><td>9</td><td>238</td><td>148</td><td>1055</td><td>7223</td><td>16376</td><td>27022</td><td>55356</td><td>77326</td><td>84718</td><td>58813</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Шри-Ланка
+                                </td><td>17110</td><td>46320</td><td>30282</td><td>3598</td><td>2807</td><td>3335</td><td>3066</td><td>2192</td><td>3842</td><td>5578</td><td>8204</td><td>5751</td><td>12383</td><td>23073</td><td></td><td>49050</td><td>28824</td><td>49434</td><td>52029</td><td>56452</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Ливан
+                                </td><td>46275</td><td>57592</td><td>69665</td><td>82606</td><td>82824</td><td>52980</td><td>65309</td><td>64906</td><td>60615</td><td>70431</td><td>72717</td><td>69254</td><td>50745</td><td>58454</td><td>62843</td><td>58956</td><td>60199</td><td>75303</td><td>79601</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">56383</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Панама
+                                </td><td>11447</td><td>11374</td><td>50464</td><td>52259</td><td>57532</td><td>38556</td><td>53184</td><td>65055</td><td>57967</td><td>58981</td><td>57953</td><td>53884</td><td>53154</td><td>27247</td><td>51816</td><td>63707</td><td>55497</td><td>62696</td><td>63257</td><td>56030</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Перу
+                                </td><td>7408</td><td>9759</td><td>16424</td><td>16442</td><td>14191</td><td>13816</td><td>25486</td><td>34050</td><td>30696</td><td>28993</td><td>35101</td><td>28895</td><td>27558</td><td>33530</td><td>31184</td><td>25672</td><td>23083</td><td>37727</td><td>50921</td><td>53384</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Узбекистан
+                                </td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>9923</td><td>17022</td><td>20167</td><td>21905</td><td>53317</td><td>54713</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">43836</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Бангладеш
+                                </td><td>32</td><td>290</td><td>18</td><td>155</td><td>598</td><td>281</td><td>256</td><td>159</td><td>206</td><td>381</td><td></td><td>1600</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">2094</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">3900</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">14523</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">3491</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">3122</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">24372</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">36934</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">43755</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Ангола
+                                </td><td>417</td><td>396</td><td>728</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>8055</td><td>3955</td><td>7955</td><td>1313</td><td>405</td><td>1803</td><td>5667</td><td>5525</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">39967</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Ирак
+                                </td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">30301</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">44551</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">62223</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">59061</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">59450</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">46791</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">77137</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">112404</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">36096</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Йемен
+                                </td><td>157</td><td>158</td><td>1072</td><td>252</td><td>470</td><td>297</td><td>677</td><td>82</td><td>144</td><td>108</td><td>152</td><td>61</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">8540</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">15926</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">15842</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">9509</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">9038</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">24046</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">30736</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">34019</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Кения
+                                </td><td>25457</td><td>30570</td><td>40501</td><td>50709</td><td>65759</td><td>50499</td><td>49559</td><td>50760</td><td>54614</td><td>55590</td><td>60594</td><td>38730</td><td>34393</td><td>27809</td><td>17870</td><td>19480</td><td>21101</td><td>26699</td><td>20192</td><td>30523</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Северная Македония
+                                </td><td>9140</td><td>10766</td><td>18726</td><td>16838</td><td>16775</td><td>9243</td><td>13827</td><td>14310</td><td>9929</td><td>10124</td><td>15472</td><td>14209</td><td>13561</td><td>17026</td><td>18913</td><td>15288</td><td>14539</td><td>27013</td><td>29733</td><td>29821</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Гвинея
+                                </td><td>37</td><td>24</td><td>41</td><td>22</td><td>80</td><td>26</td><td>5</td><td>26</td><td>16</td><td>17</td><td>4</td><td>44</td><td>63</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">6301</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">9521</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">6397</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">4187</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">11285</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">18848</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">22033</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Грузия
+                                </td><td>11131</td><td>11842</td><td>15918</td><td>20548</td><td>14804</td><td>6834</td><td>15232</td><td>20657</td><td>17674</td><td>17115</td><td>17714</td><td>14190</td><td>12648</td><td>18732</td><td>20469</td><td>16717</td><td>13987</td><td>29516</td><td>30673</td><td>21909</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Кипр
+                                </td><td>16060</td><td>16736</td><td>26197</td><td>32295</td><td>24956</td><td>14315</td><td>17413</td><td>16509</td><td>17069</td><td>10929</td><td>12142</td><td>8136</td><td>9725</td><td>11284</td><td>15641</td><td>12882</td><td>18686</td><td>33670</td><td>27228</td><td>21399</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Маврикий
+                                </td><td>7250</td><td>8602</td><td>10818</td><td>9475</td><td>12510</td><td>11703</td><td>8222</td><td>9025</td><td>8142</td><td>8219</td><td>10164</td><td>6583</td><td>5813</td><td>7843</td><td>9912</td><td>10073</td><td>13791</td><td>23763</td><td>24684</td><td>16039</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Уругвай
+                                </td><td>10169</td><td>11555</td><td>21665</td><td>22948</td><td>12346</td><td>7412</td><td>8277</td><td>13422</td><td>13029</td><td>11277</td><td>11920</td><td>8312</td><td>9790</td><td>10607</td><td>12226</td><td>11987</td><td>12943</td><td>14743</td><td>15193</td><td>13119</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Кыргызстан
+                                </td><td>7799</td><td>4528</td><td>8545</td><td>11865</td><td>8478</td><td>2811</td><td>4704</td><td>4924</td><td>2849</td><td>2321</td><td>3247</td><td>3069</td><td>2907</td><td>4124</td><td>9364</td><td>10731</td><td>10195</td><td>16996</td><td>16645</td><td>13029</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Сенегал
+                                </td><td>2614</td><td>2767</td><td>3852</td><td>6896</td><td>9699</td><td>4787</td><td>4178</td><td>4850</td><td>2782</td><td>6305</td><td>5924</td><td>5118</td><td>2749</td><td>3855</td><td>3213</td><td>2317</td><td>1688</td><td>4733</td><td>10741</td><td>12941</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Боливия (Многонациональное Государство)
+                                </td><td>1046</td><td>1460</td><td>2037</td><td>2317</td><td>4390</td><td>1636</td><td>3071</td><td>3406</td><td>2844</td><td>3210</td><td>6054</td><td>4244</td><td>3312</td><td>4883</td><td>5786</td><td>4653</td><td>4397</td><td>11578</td><td>14062</td><td>12279</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Республика Молдова
+                                </td><td>5918</td><td>15558</td><td>21690</td><td>31743</td><td>15791</td><td>3254</td><td>5434</td><td>10190</td><td>7885</td><td>8870</td><td>8488</td><td>7377</td><td>4133</td><td>5187</td><td>5087</td><td>5270</td><td>6699</td><td>16305</td><td>17360</td><td>12273</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Объединенная Республика Танзания
+                                </td><td>1292</td><td>3208</td><td>2991</td><td>4863</td><td>10617</td><td>5845</td><td>6784</td><td>12201</td><td>12963</td><td>4813</td><td>1409</td><td>1587</td><td>1240</td><td>2428</td><td>8232</td><td>4340</td><td>8244</td><td>12321</td><td>12458</td><td>12040</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Уганда
+                                </td><td>615</td><td>792</td><td>422</td><td>2007</td><td>2469</td><td>2929</td><td>4016</td><td>3081</td><td>3179</td><td>3393</td><td>3114</td><td>3710</td><td>2481</td><td>3023</td><td>4356</td><td>4633</td><td>5792</td><td>6902</td><td>10934</td><td>11651</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Папуа-Новая Гвинея
+                                </td><td>932</td><td></td><td></td><td></td><td></td><td></td><td></td><td>4869</td><td>3729</td><td></td><td></td><td></td><td></td><td></td><td></td><td>5341</td><td>4458</td><td>5841</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">13643</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">11117</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Монголия
+                                </td><td>26</td><td>108</td><td>261</td><td>43</td><td></td><td></td><td>287</td><td>749</td><td>1744</td><td>2352</td><td>3770</td><td>1456</td><td>2122</td><td>3792</td><td>4601</td><td>6126</td><td>5021</td><td>5502</td><td>8922</td><td>10109</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Замбия
+                                </td><td>2875</td><td>826</td><td>6520</td><td>1138</td><td>609</td><td>396</td><td>726</td><td>369</td><td>1117</td><td>2350</td><td>3071</td><td>16676</td><td>565</td><td>535</td><td>1177</td><td>2048</td><td>3001</td><td>3024</td><td>6083</td><td>9317</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Сьерра-Леоне
+                                </td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>29</td><td>14</td><td>46</td><td>18</td><td>0</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">2655</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1480</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">3502</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">5536</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">9299</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Джибути
+                                </td><td></td><td></td><td></td><td></td><td></td><td>18</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1541</td><td>6857</td><td>9186</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Куба
+                                </td><td>11602</td><td>13801</td><td>17975</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>9759</td><td>8987</td><td>9072</td><td>8475</td><td>7167</td><td>5066</td><td>4719</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">9025</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Конго
+                                </td><td></td><td></td><td></td><td>840</td><td>872</td><td>36</td><td>35</td><td>207</td><td>62</td><td>218</td><td>258</td><td>420</td><td>523</td><td>1074</td><td>880</td><td>645</td><td>196</td><td>306</td><td>296</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">8564</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Барбадос
+                                </td><td>2031</td><td>2441</td><td>3626</td><td>5338</td><td>4223</td><td>4419</td><td>4514</td><td>4990</td><td>4863</td><td>4189</td><td>4854</td><td>5117</td><td>4917</td><td>5711</td><td>5989</td><td>5336</td><td>5194</td><td>6670</td><td>8094</td><td>7430</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Того
+                                </td><td>1098</td><td>617</td><td></td><td>472</td><td>3559</td><td>7434</td><td>7176</td><td>9840</td><td>8149</td><td>3686</td><td>3078</td><td>294</td><td>32</td><td>668</td><td>235</td><td>233</td><td>226</td><td>793</td><td>928</td><td>6910</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Тринидад и Тобаго
+                                </td><td>6228</td><td>9310</td><td>8662</td><td>9836</td><td>8795</td><td>4568</td><td>18667</td><td>6769</td><td>8284</td><td>6260</td><td>6696</td><td>4148</td><td>13326</td><td>4220</td><td>5523</td><td>4366</td><td>3677</td><td>5468</td><td>3550</td><td>6710</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Лаосская Народно-Демократическая Республика
+                                </td><td></td><td></td><td></td><td></td><td></td><td></td><td>91</td><td>11</td><td>201</td><td>620</td><td>653</td><td>1308</td><td>1929</td><td>1358</td><td>2375</td><td>907</td><td>1583</td><td>2117</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">6669</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">6193</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Никарагуа
+                                </td><td>1664</td><td>2272</td><td>3296</td><td>4526</td><td>3718</td><td>1437</td><td>3692</td><td>3171</td><td>3825</td><td>3933</td><td>3976</td><td>4006</td><td>3506</td><td>5075</td><td>6517</td><td>3839</td><td>2995</td><td>5617</td><td>6907</td><td>6179</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Афганистан
+                                </td><td></td><td></td><td></td><td></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>7</td><td>0</td><td>0</td><td>6</td><td>80</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1274</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">4298</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">3689</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">5940</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Намибия
+                                </td><td>2115</td><td>3178</td><td>1817</td><td>2318</td><td>2616</td><td>3519</td><td>6303</td><td>3989</td><td>2084</td><td>2526</td><td>3652</td><td>3019</td><td>2476</td><td>4724</td><td>4323</td><td>4469</td><td>2405</td><td>4158</td><td>6538</td><td>5238</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Зоны Свободной Торговли
+                                </td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">3786</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">8610</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">13315</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">34662</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">53244</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">32637</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">54420</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">44541</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">136944</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">123273</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">113460</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">153554</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">146110</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">45147</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">47024</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">9541</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">6219</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">9449</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">9697</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">5206</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Демократическая Республика Конго
+                                </td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>13</td><td>390</td><td>490</td><td>2410</td><td>2321</td><td>3037</td><td>3558</td><td>4109</td><td>5075</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Судан
+                                </td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>3342</td><td>2190</td><td>3347</td><td>2634</td><td>5123</td><td>7382</td><td>2753</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1071</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1257</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">4701</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">8520</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">4683</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Ботсвана
+                                </td><td>362</td><td>430</td><td>772</td><td>899</td><td>1230</td><td>973</td><td>1146</td><td>1634</td><td>1309</td><td>1599</td><td>1551</td><td>1691</td><td>1285</td><td>1893</td><td>2511</td><td>2607</td><td>2201</td><td>5597</td><td>4250</td><td>4539</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Гаити
+                                </td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>204</td><td>49</td><td>102</td><td>143</td><td>84</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">3676</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">3425</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">2058</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">2631</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">2775</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">4272</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Внешние малые острова Соединенных Штатов
+                                </td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1386</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">493</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">766</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1513</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1085</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">468</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1029</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1283</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1261</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1154</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1448</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1487</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">776</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">690</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">962</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1518</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">823</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1463</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1205</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">3815</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Мальта
+                                </td><td>2717</td><td>2567</td><td>3668</td><td>5059</td><td>3854</td><td>2634</td><td>4507</td><td>4455</td><td>4974</td><td>4661</td><td>5431</td><td>4135</td><td>1670</td><td>3170</td><td>2915</td><td>1505</td><td>2059</td><td>4778</td><td>14551</td><td>3529</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Кюрасао
+                                </td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>1384</td><td>2227</td><td>2308</td><td>2204</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">2977</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">2558</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">3424</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Сирийская Арабская Республика
+                                </td><td>22546</td><td>11303</td><td>47345</td><td>70066</td><td>195052</td><td>66293</td><td>84658</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">84463</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">55604</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">22035</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">12337</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">6988</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">10635</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">8290</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">6711</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">6455</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">6549</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">9823</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">7335</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">3371</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Бруней-Даруссалам
+                                </td><td>1066</td><td>1007</td><td>863</td><td>830</td><td>1194</td><td>1989</td><td>785</td><td>2256</td><td>1761</td><td>1472</td><td>1427</td><td>3821</td><td>5703</td><td>2062</td><td>3925</td><td>8621</td><td>1853</td><td>6665</td><td>1157</td><td>3020</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Алжир
+                                </td><td>3904</td><td>8205</td><td>27300</td><td>10043</td><td>20085</td><td>2925</td><td>7873</td><td>1778</td><td>49</td><td>43</td><td>247</td><td>68</td><td>49</td><td>209</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">894</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">3802</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">767</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">3000</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">6628</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">2859</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Экваториальная Гвинея
+                                </td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">10</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">12</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">5</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">19</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">44</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">206</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">42</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">25</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">95</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">365</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">202</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">179</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">284</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1104</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">2539</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">2792</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1390</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">2157</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">6493</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">2692</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Буркина-Фасо
+                                </td><td>72</td><td>1095</td><td>619</td><td>98</td><td>63</td><td>21</td><td>125</td><td>267</td><td>24</td><td>42</td><td>232</td><td>66</td><td>275</td><td>120</td><td>560</td><td>29</td><td>65</td><td>574</td><td>826</td><td>2532</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Китай, Специальный административный район Макао
+                                </td><td>625</td><td>878</td><td>1049</td><td>1510</td><td>1904</td><td>459</td><td>1365</td><td>2331</td><td>2030</td><td>2667</td><td>3504</td><td>3078</td><td>2279</td><td>4497</td><td>1533</td><td>1925</td><td>1881</td><td>2231</td><td>2163</td><td>2492</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Кот-д'Ивуар
+                                </td><td>1340</td><td>2212</td><td>1961</td><td>2520</td><td>5439</td><td>5850</td><td>1954</td><td>1652</td><td>2852</td><td>3563</td><td>3060</td><td>5279</td><td>4172</td><td>7954</td><td>6788</td><td>2357</td><td>1485</td><td>3709</td><td>3544</td><td>2386</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Зимбабве
+                                </td><td>1704</td><td>1427</td><td>740</td><td>953</td><td>340</td><td>3018</td><td>942</td><td>3008</td><td>3550</td><td>3750</td><td>4364</td><td>6662</td><td>1787</td><td>973</td><td>783</td><td>864</td><td>1987</td><td>3091</td><td>2956</td><td>2367</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Руанда
+                                </td><td>63</td><td>164</td><td>167</td><td>211</td><td>105</td><td>2395</td><td>300</td><td>42</td><td>90</td><td>61</td><td>239</td><td>445</td><td>620</td><td>1059</td><td>1731</td><td>1489</td><td>895</td><td>1652</td><td>922</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">2262</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Бенин
+                                </td><td>65</td><td>33</td><td>22</td><td>95</td><td>251</td><td>225</td><td>262</td><td>431</td><td>201</td><td>318</td><td>358</td><td>1288</td><td>239</td><td>1450</td><td>1239</td><td>1245</td><td>209</td><td>625</td><td>1259</td><td>1912</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Габон
+                                </td><td>79</td><td>341</td><td>214</td><td>433</td><td>719</td><td>289</td><td>442</td><td>615</td><td>549</td><td>313</td><td>1695</td><td>1094</td><td>1428</td><td>1886</td><td>1752</td><td>1441</td><td>1052</td><td>1770</td><td>1931</td><td>1734</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Багамские Острова
+                                </td><td>417</td><td>0</td><td>864</td><td>2230</td><td>4580</td><td>2133</td><td>1212</td><td>1497</td><td>1958</td><td>2314</td><td>891</td><td>1492</td><td>1107</td><td>2485</td><td>884</td><td>1570</td><td>251</td><td>1012</td><td>1409</td><td>1588</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Сент-Винсент и Гренадины
+                                </td><td>537</td><td>825</td><td>918</td><td>965</td><td>870</td><td>805</td><td>858</td><td>767</td><td>683</td><td>904</td><td>947</td><td>1068</td><td>1226</td><td>1423</td><td>2259</td><td>2076</td><td>1398</td><td>1633</td><td>1614</td><td>1484</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Соломоновы Острова
+                                </td><td>8</td><td>7</td><td>9</td><td>138</td><td>448</td><td>49</td><td>48</td><td>87</td><td>99</td><td>122</td><td>120</td><td>88</td><td>64</td><td>106</td><td>105</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">382</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">128</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">32</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">436</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1378</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Новая Каледония
+                                </td><td>395</td><td>663</td><td>643</td><td>1072</td><td>1372</td><td>709</td><td>958</td><td>645</td><td>1239</td><td>4134</td><td>795</td><td>1040</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">779</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">513</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">816</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">530</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">763</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1553</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1642</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1359</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Государство Палестина
+                                </td><td></td><td></td><td></td><td>14432</td><td>15595</td><td>15443</td><td>19138</td><td>20480</td><td>20094</td><td>22331</td><td>26788</td><td>32754</td><td>23659</td><td>27240</td><td>38071</td><td>34612</td><td>34717</td><td>57330</td><td>63093</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1314</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Суринам
+                                </td><td>915</td><td>1180</td><td></td><td>2258</td><td></td><td>693</td><td>1826</td><td>2581</td><td>2156</td><td>2006</td><td>1869</td><td>1201</td><td>1283</td><td>920</td><td>1062</td><td>1224</td><td>1292</td><td>1903</td><td>1686</td><td>1281</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Мали
+                                </td><td>38</td><td>57</td><td>93</td><td>361</td><td>120</td><td></td><td>275</td><td>58</td><td>26</td><td></td><td></td><td></td><td>55</td><td>487</td><td>644</td><td>408</td><td>982</td><td>3419</td><td>1706</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1147</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Аруба
+                                </td><td></td><td>12</td><td>262</td><td>475</td><td>444</td><td>411</td><td>524</td><td>329</td><td>544</td><td>1503</td><td>442</td><td>548</td><td>594</td><td>1613</td><td>748</td><td>601</td><td>694</td><td>1029</td><td>1856</td><td>1124</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Сомали
+                                </td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">7</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">59</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">135</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">531</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">135</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">34</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">2</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">121</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">13</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">229</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">201</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">75</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">6</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">208</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">203</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">420</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">185</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">428</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1064</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">906</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Непал
+                                </td><td></td><td></td><td></td><td></td><td></td><td>11397</td><td>9480</td><td>6561</td><td>8492</td><td>6385</td><td>5553</td><td>2967</td><td>2862</td><td>2737</td><td>1091</td><td>1160</td><td>334</td><td>381</td><td>161</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">850</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Ямайка
+                                </td><td>836</td><td>1082</td><td>1415</td><td>2458</td><td>1387</td><td>631</td><td>624</td><td>778</td><td>874</td><td>785</td><td>290</td><td>748</td><td>768</td><td>1206</td><td>359</td><td>1131</td><td>1039</td><td>1465</td><td>1139</td><td>843</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Кайман острова
+                                </td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>195</td><td>303</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">714</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">818</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Малави
+                                </td><td>178</td><td>109</td><td>14</td><td>33</td><td>50</td><td>132</td><td>58</td><td>7</td><td>142</td><td>33</td><td>332</td><td>504</td><td>115</td><td>96</td><td>292</td><td>212</td><td>1467</td><td>1191</td><td>1462</td><td>796</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Лесото
+                                </td><td></td><td>260</td><td>143</td><td>9</td><td>475</td><td>72</td><td>148</td><td>138</td><td>126</td><td>24</td><td>115</td><td>157</td><td>359</td><td>605</td><td>2790</td><td>601</td><td>984</td><td>720</td><td>521</td><td>666</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Мавритания
+                                </td><td>0</td><td>0</td><td></td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>400</td><td>2</td><td>15</td><td>0</td><td>55</td><td>1</td><td>0</td><td>633</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Туркменистан
+                                </td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">2152</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">578</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">15</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">4</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">453</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">32</td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">32</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">309</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">5457</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">170</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">114</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">34</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">53</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">112</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">113</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">904</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">11047</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">12188</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">632</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Сейшельские Острова
+                                </td><td>1</td><td>3</td><td>0</td><td></td><td>160</td><td>1</td><td>5</td><td>12</td><td>16</td><td>8</td><td>22</td><td>2</td><td>36</td><td>192</td><td>337</td><td>129</td><td>88</td><td>1149</td><td>605</td><td>592</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Корейская Народно-Демократическая Республика
+                                </td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">12131</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">21431</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">25567</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">17977</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">22390</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">23765</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">17092</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">14523</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">19976</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">38384</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">11773</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">5690</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">945</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1364</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">2197</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">2105</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">2204</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">4932</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">50</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">580</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Андорра
+                                </td><td>699</td><td></td><td>849</td><td>2052</td><td>1256</td><td>689</td><td>682</td><td>764</td><td>645</td><td>621</td><td>620</td><td>1949</td><td>590</td><td>717</td><td>475</td><td>484</td><td>264</td><td>431</td><td>506</td><td>574</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Гайана
+                                </td><td>301</td><td>662</td><td>1089</td><td>574</td><td>1407</td><td>932</td><td>1968</td><td>1539</td><td>689</td><td>403</td><td>553</td><td>815</td><td>251</td><td>453</td><td>493</td><td>1060</td><td>259</td><td>388</td><td>536</td><td>504</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Сент-Люсия
+                                </td><td>63</td><td>128</td><td>151</td><td>359</td><td>668</td><td></td><td></td><td></td><td>108</td><td>292</td><td>464</td><td>379</td><td>713</td><td>252</td><td>518</td><td>260</td><td>320</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">417</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">403</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">502</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Эфиопия
+                                </td><td>144</td><td>418</td><td>935</td><td>391</td><td>316</td><td>9</td><td>1236</td><td>23</td><td>303</td><td>45</td><td>13</td><td>0</td><td>0</td><td>72</td><td>65</td><td>1591</td><td>969</td><td>519</td><td>1003</td><td>494</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Гвинея-Бисау
+                                </td><td>0</td><td>0</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>5</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">2</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">4</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1</td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">463</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Мадагаскар
+                                </td><td>279</td><td>112</td><td>259</td><td>390</td><td>463</td><td>475</td><td>289</td><td>273</td><td>176</td><td>412</td><td>463</td><td>1244</td><td>1007</td><td>775</td><td>506</td><td>215</td><td>210</td><td>112</td><td>280</td><td>401</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Фиджи
+                                </td><td>533</td><td>473</td><td>376</td><td>355</td><td>394</td><td>462</td><td>800</td><td>2136</td><td>2405</td><td>1736</td><td>3107</td><td>1925</td><td>946</td><td>1326</td><td>1282</td><td>986</td><td>750</td><td>621</td><td>508</td><td>352</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Фарерские острова
+                                </td><td>0</td><td>0</td><td>10</td><td>0</td><td>6</td><td>14</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">169</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">312</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">53</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">131</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">101</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">168</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">103</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">104</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">166</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">168</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">204</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">287</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">283</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">335</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Гибралтар
+                                </td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">210</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">104</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">137</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1004</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">138</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">296</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">81</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">151</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">200</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">149</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">575</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">164</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">100</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">178</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">145</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">106</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">445</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">358</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">337</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">291</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Бурунди
+                                </td><td>42</td><td>10</td><td>0</td><td>91</td><td>27</td><td>3</td><td>9</td><td>1</td><td>3</td><td>4019</td><td>26</td><td>487</td><td>49</td><td>103</td><td>362</td><td>127</td><td>440</td><td>153</td><td>11</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">289</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Эсватини
+                                </td><td>849</td><td>951</td><td>940</td><td>908</td><td>1165</td><td>1011</td><td>917</td><td>712</td><td>403</td><td>311</td><td>203</td><td>182</td><td>208</td><td>279</td><td>411</td><td>277</td><td>191</td><td>241</td><td>520</td><td>276</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Северные Марианские острова
+                                </td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">97</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">141</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">160</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">174</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">93</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">76</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">121</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">63</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">36</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">19</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">16</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">82</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">123</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">204</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">677</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">435</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">86</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">95</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">55</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">274</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Французская Полинезия
+                                </td><td>279</td><td>161</td><td>187</td><td>200</td><td>395</td><td>338</td><td>291</td><td>386</td><td>906</td><td>570</td><td>505</td><td>469</td><td>279</td><td>486</td><td>374</td><td>401</td><td>316</td><td>298</td><td>289</td><td>227</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Коморские Острова
+                                </td><td>53</td><td>1</td><td></td><td>0</td><td>9</td><td>14</td><td>1279</td><td>1</td><td>4</td><td>6</td><td>22</td><td>13</td><td>32</td><td>14</td><td>28</td><td>124</td><td>54</td><td>2229</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">122</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">222</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Микронезия (Федеративные Штаты)
+                                </td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">310</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">208</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">164</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">124</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">604</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">105</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">150</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">137</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">157</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">191</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Антигуа и Барбуда
+                                </td><td></td><td>307</td><td></td><td>371</td><td></td><td>308</td><td>78</td><td>103</td><td>385</td><td>357</td><td>283</td><td>460</td><td>525</td><td>464</td><td>183</td><td>26</td><td>44</td><td>96</td><td>132</td><td>184</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Острова Теркс и Кайкос
+                                </td><td>33</td><td></td><td></td><td></td><td></td><td></td><td></td><td>37</td><td>69</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">296</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">407</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1303</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">102</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">138</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">100</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">161</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">309</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">226</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">337</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">169</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Палау
+                                </td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>125</td><td></td><td>115</td><td>90</td><td>80</td><td>69</td><td>63</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">153</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">139</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">187</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">189</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">160</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Сент-Китс и Невис
+                                </td><td>6</td><td>1</td><td>63</td><td>84</td><td>37</td><td>16</td><td>2</td><td>2</td><td>25</td><td>6</td><td>2</td><td>0</td><td>435</td><td>1344</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">203</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">105</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">43</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">78</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">74</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">136</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Британские Виргинские острова
+                                </td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1302</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1018</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">2643</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1978</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">4211</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">376</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1116</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">877</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1149</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1420</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">728</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">429</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1029</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">639</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">791</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">351</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">37</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">222</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">121</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">133</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Мальдивские Острова
+                                </td><td>92</td><td>157</td><td>186</td><td>252</td><td>190</td><td>97</td><td>153</td><td>217</td><td>85</td><td>93</td><td>294</td><td>409</td><td>120</td><td>172</td><td>110</td><td>50</td><td>177</td><td>244</td><td>326</td><td>129</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Бонайре, Синт-Эстатиус и Саба
+                                </td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">20</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">69</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">34</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">96</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">138</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">80</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">40</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">31</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">8</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">121</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Вануату
+                                </td><td></td><td></td><td>1</td><td>0</td><td></td><td>4</td><td>7</td><td>6</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">163</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">115</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">86</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">83</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">353</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">81</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">58</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">58</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">66</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">105</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">94</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">114</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Маршалловы Острова
+                                </td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">6</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">91</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">60</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">54</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">176</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">287</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">20</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">102</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">186</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">67</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">32</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">38</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">35</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">7</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">121</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">117</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">348</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">268</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">99</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Гамбия
+                                </td><td>0</td><td>0</td><td>3</td><td>4</td><td>17</td><td>167</td><td>67</td><td>307</td><td>20</td><td>48</td><td>11</td><td>4</td><td>752</td><td>12</td><td>0</td><td>0</td><td>0</td><td>2</td><td>91</td><td>95</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Кирибати
+                                </td><td></td><td>77</td><td></td><td>915</td><td>260</td><td>19</td><td>54</td><td>43</td><td>136</td><td>56</td><td>11</td><td>53</td><td>37</td><td>44</td><td>77</td><td></td><td>41</td><td>26</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">71</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">90</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Тимор-Лешти
+                                </td><td>202</td><td>139</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>71</td><td></td><td></td><td></td><td>40</td><td>42</td><td>21</td><td>19</td><td>43</td><td>25</td><td>87</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Чад
+                                </td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">120</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1</td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">25</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">91</td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">66</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">56</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">25</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">39</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">15</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">7</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">30</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">25</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">46</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">53</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">11</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">68</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">86</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Белиз
+                                </td><td>21</td><td>3</td><td>15</td><td>30</td><td>0</td><td>1</td><td>5</td><td>4</td><td>24</td><td>12</td><td>7</td><td>7</td><td>2</td><td>25</td><td>22</td><td>7</td><td>44</td><td>212</td><td>93</td><td>85</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Острова Кука
+                                </td><td></td><td>2</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">5</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">35</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">33</td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">2</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">22</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">103</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">34</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">7</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">8</td><td></td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">7</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">7</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">228</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">4</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">83</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Центральноафриканская Республика
+                                </td><td></td><td></td><td>10</td><td>25</td><td>85</td><td>28</td><td>9</td><td>12</td><td>80</td><td>0</td><td>16</td><td>12</td><td>11</td><td>14</td><td>83</td><td>9</td><td>82</td><td>0</td><td>0</td><td>65</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Остров Норфолк
+                                </td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">22</td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">65</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">11</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">35</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">128</td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">16</td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">48</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">20</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">43</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">58</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">35</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">184</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">101</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">15</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">53</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Доминика
+                                </td><td>1</td><td>2</td><td>20</td><td>2</td><td>7</td><td>15</td><td>8</td><td>20</td><td>10</td><td>21</td><td></td><td></td><td>7</td><td>3</td><td>8</td><td>38</td><td>68</td><td>9</td><td>86</td><td>51</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Гренландия
+                                </td><td>1</td><td>78</td><td>14</td><td>13</td><td>23</td><td>13</td><td>22</td><td>335</td><td>182</td><td>27</td><td>36</td><td>31</td><td>18</td><td>7</td><td>0</td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">73</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">6</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">54</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">45</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Фолклендские (Мальвинские) острова
+                                </td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">2193</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">164</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">3</td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">173</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">16</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">577</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">6</td><td></td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">35</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">29</td><td></td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">5</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">3</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">6</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">10</td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">42</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Токелау
+                                </td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">85</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">81</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">217</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">66</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">12</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">123</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">71</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">12</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">165</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">867</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">756</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">552</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">47</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">76</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">484</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">378</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">386</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">973</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">230</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">36</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Ниуэ
+                                </td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">3</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">5</td><td></td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">96</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">718</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">2206</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">9</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">14</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">170</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">3</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">6</td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">2</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">9</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">4</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">12</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">40</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">55</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">32</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Самоа
+                                </td><td>15</td><td>6</td><td>31</td><td>141</td><td>27</td><td>22</td><td>23</td><td>31</td><td>1</td><td>31</td><td>2</td><td>6</td><td>24</td><td>29</td><td>49</td><td>53</td><td>157</td><td>11</td><td>22</td><td>22</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Синт-Мартен (нидерландская часть)
+                                </td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">221</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">290</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">600</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">428</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">12</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">13</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">55</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">45</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">78</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">64</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">18</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">21</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">17</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Бермудские острова
+                                </td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>8</td><td>8</td><td>77</td><td>6</td><td>8</td><td>40</td><td>15</td><td>85</td><td>6</td><td>3</td><td>108</td><td>10</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Суда и бункеры
+                                </td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">428</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">626</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">387</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">3446</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">2199</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1136</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">405</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">376</td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">698</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1361</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">202</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">2</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">31</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">492</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">158</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">60</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">6993</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">10</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Бутан
+                                </td><td></td><td>72</td><td>55</td><td>52</td><td>0</td><td>56</td><td>133</td><td>66</td><td>95</td><td></td><td></td><td></td><td>51</td><td>54</td><td>42</td><td>49</td><td>8</td><td>45</td><td>10</td><td>9</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Гренада
+                                </td><td>6</td><td>13</td><td>1</td><td>50</td><td>29</td><td></td><td>28</td><td>14</td><td>17</td><td>16</td><td>16</td><td>9</td><td>22</td><td>207</td><td>15</td><td>23</td><td>19</td><td>45</td><td>97</td><td>9</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Гуам
+                                </td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">8</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            остров Рождества
+                                </td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1</td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">3</td><td></td><td></td><td></td><td></td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">24</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">7</td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">22</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">50</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">81</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">5</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">22</td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">8</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Нигер
+                                </td><td>2</td><td>2</td><td>2</td><td>3</td><td>22</td><td>29</td><td>7</td><td>44</td><td>16</td><td>100</td><td>105</td><td>24</td><td>26</td><td>18</td><td>54</td><td>23</td><td>20</td><td>1</td><td>399</td><td>6</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Южный Судан
+                                </td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">3</td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">7</td><td></td><td></td><td></td><td></td><td></td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">3</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">84</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">5</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Тонга
+                                </td><td></td><td></td><td></td><td></td><td>6</td><td>0</td><td>35</td><td>72</td><td>9</td><td>0</td><td>0</td><td></td><td></td><td>18</td><td>2</td><td>0</td><td>0</td><td>0</td><td>3</td><td>4</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Сен-Пьер и Микелон
+                                </td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">7</td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">7</td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">66</td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">143</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">3</td><td></td><td></td><td></td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">4</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">4</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">3</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">6</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">3</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">4</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">5</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">4</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Кокосовых (Килинг) островов
+                                </td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">7</td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">13</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">50</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">20</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">847</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">22</td><td></td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">13</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">59</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">9</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">7</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">14</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">6</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">2</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">78</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">5</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">33</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">4</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Либерия
+                                </td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0</td><td>38</td><td>27</td><td>42</td><td>27</td><td>14</td><td>4</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Науру
+                                </td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">238</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">62</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">92</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">318</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">222</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">125</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">63</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">41</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">38</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">129</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">48</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">40</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">105</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">56</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">35</td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">6</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">3</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">3</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">3</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Сан-Томе и Принсипи
+                                </td><td>1</td><td>9</td><td>5</td><td>4</td><td>3</td><td>3</td><td>0</td><td>3</td><td>3</td><td>0</td><td>1</td><td>0</td><td>20</td><td>20</td><td>18</td><td>19</td><td>7</td><td>24</td><td>1</td><td>3</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Ангилья
+                                </td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">101</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">3</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">38</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">14</td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">14</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">16</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">58</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">216</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">484</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">4</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">2</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">212</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">84</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">27</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">61</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1</td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">2</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">2</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Тувалу
+                                </td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">19</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">9</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">4</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">8</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">15</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">315</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">18</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">19</td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">184</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">19</td><td></td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">9</td><td></td><td></td><td></td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">8</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">2</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Монтсеррат
+                                </td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td></td><td></td><td>16</td><td>6</td><td>4</td><td>4</td><td>2</td><td>6</td><td>4</td><td>3</td><td>6</td><td></td><td>3</td><td>2</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Южные земли (французская заморская территория)
+                                </td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">15</td><td></td><td></td><td></td><td></td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">330</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">9</td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">83</td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1</td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1376</td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">2</td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">406</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Британская территория в Индийском океане
+                                </td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">36</td><td></td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">3</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">729</td><td></td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">30</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">34</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">13</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">3</td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">198</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">3</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">2</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">3</td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Американское Самоа
+                                </td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">4</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">59</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">76</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">33</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">14</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">32</td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">3</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1</td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Кабо-Верде
+                                </td><td>0</td><td>87</td><td>74</td><td>24</td><td>0</td><td>190</td><td>290</td><td>118</td><td>93</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Остров Буве
+                                </td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">4</td><td></td><td></td><td></td><td></td><td></td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Эритрея
+                                </td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">32</td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">775</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">15</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">182</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">94</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">2</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1</td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">24</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1</td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">12</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1</td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">60</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">25</td><td></td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Остров Майотта
+                                </td><td>18</td><td>49</td><td>22</td><td>32</td><td>16</td><td>29</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">2</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">73</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">8</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">15</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Нидерландские Антильские Острова
+                                </td><td></td><td>684</td><td>892</td><td>1376</td><td>1432</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1318</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1569</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Западная Сахара
+                                </td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">9</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">3</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">2</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">215</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">313</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">3</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">3</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">3</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Судан (до 2012)
+                                </td><td>1034</td><td>876</td><td>1400</td><td>3505</td><td>4012</td><td>807</td><td>1913</td><td>2772</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Остров Святой Елены
+                                </td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">27</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">109</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">60</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">77</td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">215</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">43</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">413</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">14</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">543</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">405</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">74</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">33</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">5</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">67</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">10</td><td></td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">16</td><td></td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Питкэрн
+                                </td><td></td><td></td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">12</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1</td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">18</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">7</td><td></td><td></td><td></td><td></td><td></td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">2</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">160</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">39</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">594</td><td></td>
+		</tr><tr align="right" style="background-color:White;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Сербия и Черногория
+                                </td><td>258421</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">380282</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">251238</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+		</tr><tr align="right" style="background-color:#F7F6F3;font-size:80%;">
+			<td align="left" style="width:30%;">
+                            Острова Уоллис и Футуна
+                                </td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">7</td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">13</td><td></td><td></td><td></td><td></td><td></td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">58</td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1</td><td></td><td></td><td></td><td></td><td title="Зеркальные данные" style="color:Goldenrod;border-color:#002B54;">1</td><td></td><td></td><td></td>
+		</tr>
+	</table>
+</div></body></html>
