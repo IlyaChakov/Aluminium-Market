@@ -1,0 +1,16 @@
+\begin{tikzpicture}
+    \begin{axis}[
+      xlabel={Дата},
+      ylabel={Цена, USD},
+      date coordinates in x,
+      xticklabel=\year-\month-\day,
+      xticklabel style={rotate=45, anchor=east},
+      legend style={at={(1.05,1)}, anchor=north west},
+      width=12cm, height=8cm
+    ]
+      \foreach \country in {USA, Canada} {
+        \addplot table [x=Date, y=Value, col sep=tab] {\country.dat};
+        \addlegendentry{\country}
+      }
+    \end{axis}
+\end{tikzpicture}
