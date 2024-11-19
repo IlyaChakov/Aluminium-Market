@@ -1,8 +1,4 @@
-% Цены
-\section{Цены}
-
-\begin{frame}[fragile]
-    \frametitle{Цены}
+\frametitle{Цены}
     \begin{figure}[H]
         \centering
         \label{fig:enter-label}
@@ -42,4 +38,3 @@
     \end{axis}
     \end{tikzpicture}
     \end{figure}
-\end{frame}
