@@ -1,11 +1,9 @@
 % Основные настройки документа
 \documentclass[8pt]{beamer} % Тип документа и размер шрифта
-\usepackage[utf8]{inputenc} % Кодировка текста
+\usepackage[T1]{fontenc} % Кодировка кириллицы
+\usepackage{lmodern}
+\usepackage[utf8]{inputenc} % Кодировка исходного файла
 \usepackage[english, russian]{babel} % Используемые языки
-\usepackage{pgfplots} % Для построения графиков
-\pgfplotsset{compat=1.17}
-\usepackage{datetime} % Для работы с датами
-\usepackage{filecontents}
 
 % Настройки оформления
 \input{Setup/theme.tex} % Тема презентации
