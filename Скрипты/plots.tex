@@ -1,0 +1,27 @@
+\begin{tikzpicture}
+  \begin{axis}[
+      width=\linewidth, % Масштабирование графика до ширины страницы
+      grid=major, % Отображение основной сетки
+      grid style={dashed,gray!30}, % Стиль сетки
+      xlabel={Год}, % Подпись оси X
+      ylabel={Значение}, % Подпись оси Y
+      legend style={at={(0.5,-0.2)},anchor=north}, % Размещение легенды под графиком
+      x tick label style={rotate=90,anchor=east}, % Поворот меток по оси X
+      xticklabel style={/pgf/number format/1000 sep=}, % Убираем разделитель тысяч
+      xtick=data, % Используем данные для меток на оси X
+    ]
+    \addplot[smooth,
+    color=green] table[
+      x=Date,
+      y=Value,
+      col sep=comma, % Указываем, что разделитель столбцов — табуляция
+    ] {Data/mytable.csv};
+    \addlegendentry{Данные 1}
+    \addplot table[
+      x=Date,
+      y=Value,
+      col sep=tab, % Указываем, что разделитель столбцов — табуляция
+    ] {Data/mytable2.csv};
+    \addlegendentry{Данные 2}
+  \end{axis}
+\end{tikzpicture}
