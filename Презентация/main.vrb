@@ -5,6 +5,9 @@
             font=\footnotesize,
             width=\textwidth, % Масштабирование графика до ширины страницы
             height=0.8\textheight,
+            xmin=2010, xmax=2023,
+            ymax=2800, ymin=1400,
+            ytick distance=200,
             ylabel={Текст Текст}, % Подпись оси Y
             ylabel style={
                 at={(yticklabel cs:1,0)},
