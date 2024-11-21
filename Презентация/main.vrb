@@ -29,13 +29,14 @@
           \draw [pattern=north west lines, pattern color=gray!50]
           (rel axis cs:0,0) rectangle (rel axis cs:1,1);
           \addplot[smooth,
-          color=green] table[
+          color=blue] table[
             x=Date,
             y=Value,
             col sep=comma, % Указываем, что разделитель столбцов — табуляция
           ] {Data/mytable.csv};
           \addlegendentry{Данные 1}
-          \addplot table[
+          \addplot[smooth,
+          color=red] table[
             x=Date,
             y=Value,
             col sep=tab, % Указываем, что разделитель столбцов — табуляция
