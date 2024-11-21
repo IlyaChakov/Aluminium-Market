@@ -1,47 +1,4 @@
-\frametitle{Цены\footnote{Здесь будет источник}}
+\frametitle{Динамика цен тонны алюминия\footnote{Здесь будет источник}}
     \begin{center}
-    \begin{tikzpicture}
-        \begin{axis}[
-            font=\footnotesize,
-            width=\textwidth, % Масштабирование графика до ширины страницы
-            height=0.8\textheight,
-            xmin=2010, xmax=2023,
-            ymax=2800, ymin=1400,
-            ytick distance=200,
-            ylabel={Текст Текст}, % Подпись оси Y
-            ylabel style={
-                at={(yticklabel cs:1,0)},
-                anchor=south east
-                },
-            grid=major, % Отображение основной сетки
-            grid style={solid, gray!30}, % Стиль сетки
-            legend style={
-              at={(0.5,-0.13)},
-              legend columns=-1,
-              anchor=north,
-              draw=none}, % Размещение легенды под графиком
-            x tick label style={rotate=90,anchor=east}, % Поворот меток по оси X
-            xticklabel style={/pgf/number format/1000 sep=}, % Убираем разделитель тысяч
-            yticklabel style={/pgf/number format/1000 sep={\ }
-            },
-            xtick=data, % Используем данные для меток на оси X
-          ]
-          \draw [pattern=north west lines, pattern color=gray!50]
-          (rel axis cs:0,0) rectangle (rel axis cs:1,1);
-          \addplot[smooth,
-          color=blue] table[
-            x=Date,
-            y=Value,
-            col sep=comma, % Указываем, что разделитель столбцов — табуляция
-          ] {Data/mytable.csv};
-          \addlegendentry{Данные 1}
-          \addplot[smooth,
-          color=red] table[
-            x=Date,
-            y=Value,
-            col sep=tab, % Указываем, что разделитель столбцов — табуляция
-          ] {Data/mytable2.csv};
-          \addlegendentry{Данные 2}
-        \end{axis}
-      \end{tikzpicture}
+    \input{Plots/price.tex}
     \end{center}
