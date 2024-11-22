@@ -2,17 +2,22 @@
   \begin{axis}[
       plotstyle-1,
       ybar stacked,
-      xmin=2009.5, xmax=2021.5,
+      xmin=2009.5, xmax=2022.5,
       ymax=60, ymin=0,
       ytick distance=10,
       ylabel={млн тонн},
-      legend columns=5,
+      legend columns=-1,
       scaled y ticks=false,
       yticklabel style={/pgf/number format/fixed}
     ]
 
     % Китай
-    \addplot[fill=gold] table[
+    \addplot[fill=gold,
+      nodes near coords,
+      ybar,
+      every node near coord/.append style={rotate=90, anchor=west},
+      nodes near coords style={/pgf/number format/.cd,precision=0}
+      ] table[
       x=Date,
       y=China,
       col sep=tab
@@ -28,7 +33,7 @@
     \addlegendentry{Россия}
 
     % Канада
-    \addplot[fill=red] table[
+    \addplot[fill=darkblue] table[
       x=Date,
       y=Canada,
       col sep=tab
@@ -36,7 +41,7 @@
     \addlegendentry{Канада}
 
     % Индия
-    \addplot[fill=Brown] table[
+    \addplot[fill=red] table[
       x=Date,
       y=India,
       col sep=tab
@@ -44,7 +49,7 @@
     \addlegendentry{Индия}
 
     % ОАЭ
-    \addplot[fill=Lavender] table[
+    \addplot[fill=yellow] table[
       x=Date,
       y=United Arab Emirates,
       col sep=tab
@@ -52,7 +57,7 @@
     \addlegendentry{ОАЭ}
 
     % Австралия
-    \addplot[fill=PineGreen] table[
+    \addplot[fill=Color6] table[
       x=Date,
       y=Australia,
       col sep=tab
@@ -60,7 +65,7 @@
     \addlegendentry{Австралия}
 
     % США
-    \addplot[fill=Gray] table[
+    \addplot[fill=Color7] table[
       x=Date,
       y=United States,
       col sep=tab
@@ -68,7 +73,7 @@
     \addlegendentry{США}
 
     % Норвегия
-    \addplot[fill=Violet] table[
+    \addplot[fill=Color8] table[
       x=Date,
       y=Norway,
       col sep=tab
@@ -76,7 +81,7 @@
     \addlegendentry{Норвегия}
 
     % Бахрейн
-    \addplot[fill=Green] table[
+    \addplot[fill=Color9] table[
       x=Date,
       y=Bahrain,
       col sep=tab
@@ -84,7 +89,7 @@
     \addlegendentry{Бахрейн}
 
     % Бразилия
-    \addplot[fill=Orange] table[
+    \addplot[fill=Color10] table[
       x=Date,
       y=Brazil,
       col sep=tab
