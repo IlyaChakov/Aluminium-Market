@@ -14,9 +14,7 @@
     % Китай
     \addplot[fill=gold,
       nodes near coords,
-      ybar,
-      every node near coord/.append style={rotate=90, anchor=west},
-      nodes near coords style={/pgf/number format/.cd,precision=0}
+      nodes near coords style={/pgf/number format/.cd,precision=0},
       ] table[
       x=Date,
       y=China,
@@ -25,7 +23,9 @@
     \addlegendentry{Китай}
 
     % Россия
-    \addplot[fill=blue] table[
+    \addplot[fill=blue,
+      nodes near coords,
+      nodes near coords style={/pgf/number format/.cd,precision=0},] table[
       x=Date,
       y=Russia,
       col sep=tab
@@ -33,7 +33,9 @@
     \addlegendentry{Россия}
 
     % Канада
-    \addplot[fill=darkblue] table[
+    \addplot[fill=darkblue,
+      nodes near coords,
+      nodes near coords style={/pgf/number format/.cd,precision=0},] table[
       x=Date,
       y=Canada,
       col sep=tab
@@ -41,7 +43,9 @@
     \addlegendentry{Канада}
 
     % Индия
-    \addplot[fill=red] table[
+    \addplot[fill=red,
+      nodes near coords,
+      nodes near coords style={/pgf/number format/.cd,precision=0},] table[
       x=Date,
       y=India,
       col sep=tab
@@ -81,7 +85,14 @@
     \addlegendentry{Норвегия}
 
     % Бахрейн
-    \addplot[fill=Color9] table[
+    \addplot[fill=Color9,
+      every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+      \pgfmathparse{\pgfplotspointmeta-1}
+      \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+      \pgfkeys{/pgf/fpu=false}}, 
+      check for zero, font=\footnotesize}, 
+      nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+      ] table[
       x=Date,
       y=Bahrain,
       col sep=tab
@@ -89,7 +100,13 @@
     \addlegendentry{Бахрейн}
 
     % Бразилия
-    \addplot[fill=Color10] table[
+    \addplot[fill=Color10,
+      every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+      \pgfmathparse{\pgfplotspointmeta-1}
+      \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+      \pgfkeys{/pgf/fpu=false}}, 
+      check for zero, font=\footnotesize}, 
+      nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},] table[
       x=Date,
       y=Brazil,
       col sep=tab
