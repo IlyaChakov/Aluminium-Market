@@ -2,7 +2,6 @@
 \begin{tikzpicture}
     \begin{axis}[
         ybar stacked,
-        bar width=0.5cm,
         font=\footnotesize,
         width=\textwidth, % Масштабирование графика до ширины страницы
         height=0.8\textheight,
@@ -27,21 +26,22 @@
       ]
       \draw [pattern=north west lines, pattern color=gray!50]
       (rel axis cs:0,0) rectangle (rel axis cs:1,1);
-      \addplot+[fill=blue] table[
+      \addplot[fill=blue] table[
         x=Date,
         y=Australia,
         col sep=tab, % Указываем, что разделитель столбцов — табуляция
       ] {Data/Production/production.csv};
       \addlegendentry{Австралия}
-      
-      \addplot+[fill=red] table[
+
+      \addplot[fill=red] table[
         x=Date,
         y=Australia,
         col sep=tab, % Указываем, что разделитель столбцов — табуляция
       ] {Data/Production/production.csv};
-      \addlegendentry{Австралия}
+      \addlegendentry{Бахрейн}
     \end{axis}
   \end{tikzpicture}
 
   %ymax=2800, ymin=1400,
   %ytick distance=200,
+  %bar width=0.5cm,
