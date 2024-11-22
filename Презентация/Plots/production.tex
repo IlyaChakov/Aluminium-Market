@@ -2,23 +2,94 @@
   \begin{axis}[
       plotstyle-1,
       ybar stacked,
-      xmin=2010, xmax=2022,
-      ylabel={тонн},
+      xmin=2009.5, xmax=2021.5,
+      ymax=60, ymin=0,
+      ytick distance=10,
+      ylabel={млн тонн},
+      legend columns=5,
+      scaled y ticks=false,
+      yticklabel style={/pgf/number format/fixed}
     ]
 
-    % Прямоугольники гистограммы
+    % Китай
+    \addplot[fill=gold] table[
+      x=Date,
+      y=China,
+      col sep=tab
+    ] {Data/Production/production_mln.csv};
+    \addlegendentry{Китай}
+
+    % Россия
     \addplot[fill=blue] table[
+      x=Date,
+      y=Russia,
+      col sep=tab
+    ] {Data/Production/production_mln.csv};
+    \addlegendentry{Россия}
+
+    % Канада
+    \addplot[fill=red] table[
+      x=Date,
+      y=Canada,
+      col sep=tab
+    ] {Data/Production/production_mln.csv};
+    \addlegendentry{Канада}
+
+    % Индия
+    \addplot[fill=Brown] table[
+      x=Date,
+      y=India,
+      col sep=tab
+    ] {Data/Production/production_mln.csv};
+    \addlegendentry{Индия}
+
+    % ОАЭ
+    \addplot[fill=Lavender] table[
+      x=Date,
+      y=United Arab Emirates,
+      col sep=tab
+    ] {Data/Production/production_mln.csv};
+    \addlegendentry{ОАЭ}
+
+    % Австралия
+    \addplot[fill=PineGreen] table[
       x=Date,
       y=Australia,
       col sep=tab
-    ] {Data/Production/production.csv};
+    ] {Data/Production/production_mln.csv};
     \addlegendentry{Австралия}
 
-    \addplot[fill=red] table[
+    % США
+    \addplot[fill=Gray] table[
+      x=Date,
+      y=United States,
+      col sep=tab
+    ] {Data/Production/production_mln.csv};
+    \addlegendentry{США}
+
+    % Норвегия
+    \addplot[fill=Violet] table[
+      x=Date,
+      y=Norway,
+      col sep=tab
+    ] {Data/Production/production_mln.csv};
+    \addlegendentry{Норвегия}
+
+    % Бахрейн
+    \addplot[fill=Green] table[
       x=Date,
       y=Bahrain,
       col sep=tab
-    ] {Data/Production/production.csv};
+    ] {Data/Production/production_mln.csv};
     \addlegendentry{Бахрейн}
+
+    % Бразилия
+    \addplot[fill=Orange] table[
+      x=Date,
+      y=Brazil,
+      col sep=tab
+    ] {Data/Production/production_mln.csv};
+    \addlegendentry{Бразилия}
+
   \end{axis}
 \end{tikzpicture}

@@ -64,8 +64,22 @@ print(df_prod)
 
 fwrite(df_prod, file = "production.csv", sep = "\t", quote = FALSE)
 
-production <- pivot_wider(df_prod, names_from = country, values_from = Value)
+df_prod_mln <- df_prod
 
-print(production)
+print(df_prod_mln)
 
-fwrite(production, file = "production.csv", sep = "\t", quote = FALSE)
+df_prod_mln$Unit <- "mln tonnes"
+df_prod_mln$Value <- df_prod_mln$Value / 1000000
+
+  df_prod_mln$Unit <- "mln tonnes" %>%
+  df_prod_mln$Value <- df_prod$Value / 1000
+
+production_mln <- pivot_wider(df_prod_mln, names_from = country, values_from = Value)
+
+print(production_mln)
+
+fwrite(production_mln, file = "production_mln.csv", sep = "\t", quote = FALSE)
+
+production_mln <- production %>%
+  production_mln$Unit <- "mln tonnes" %>%
+  production_mln$
