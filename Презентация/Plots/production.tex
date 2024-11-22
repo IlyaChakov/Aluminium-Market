@@ -53,7 +53,13 @@
     \addlegendentry{Индия}
 
     % ОАЭ
-    \addplot[fill=yellow] table[
+    \addplot[fill=yellow,
+      every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+      \pgfmathparse{\pgfplotspointmeta-1}
+      \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+      \pgfkeys{/pgf/fpu=false}}, 
+      check for zero, font=\footnotesize}, 
+      nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},] table[
       x=Date,
       y=United Arab Emirates,
       col sep=tab
@@ -61,7 +67,13 @@
     \addlegendentry{ОАЭ}
 
     % Австралия
-    \addplot[fill=Color6] table[
+    \addplot[fill=Color6,
+      every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+      \pgfmathparse{\pgfplotspointmeta-1}
+      \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+      \pgfkeys{/pgf/fpu=false}}, 
+      check for zero, font=\footnotesize}, 
+      nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},] table[
       x=Date,
       y=Australia,
       col sep=tab
@@ -69,7 +81,13 @@
     \addlegendentry{Австралия}
 
     % США
-    \addplot[fill=Color7] table[
+    \addplot[fill=Color7,
+      every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+      \pgfmathparse{\pgfplotspointmeta-1}
+      \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+      \pgfkeys{/pgf/fpu=false}}, 
+      check for zero, font=\footnotesize}, 
+      nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},] table[
       x=Date,
       y=United States,
       col sep=tab
@@ -77,7 +95,13 @@
     \addlegendentry{США}
 
     % Норвегия
-    \addplot[fill=Color8] table[
+    \addplot[fill=Color8,
+      every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+      \pgfmathparse{\pgfplotspointmeta-1}
+      \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+      \pgfkeys{/pgf/fpu=false}}, 
+      check for zero, font=\footnotesize}, 
+      nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},] table[
       x=Date,
       y=Norway,
       col sep=tab
