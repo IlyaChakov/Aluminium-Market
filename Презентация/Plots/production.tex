@@ -3,7 +3,7 @@
       plotstyle-1,
       ybar stacked,
       xmin=2009.5, xmax=2022.5,
-      ymax=60, ymin=0,
+      ymax=70, ymin=0,
       ytick distance=10,
       ylabel={млн тонн},
       legend columns=-1,
@@ -134,6 +134,20 @@
       col sep=tab
     ] {Data/Production/production_mln.csv};
     \addlegendentry{Бразилия}
+
+    % Остальные
+    % Бразилия
+    \addplot[fill=white,
+      every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+      \pgfmathparse{\pgfplotspointmeta-1}
+      \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+      \pgfkeys{/pgf/fpu=false}}, 
+      check for zero, font=\footnotesize}, 
+      nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},] table[
+      x=Date,
+      y=Others,
+      col sep=tab
+    ] {Data/Production/production_mln.csv};
 
   \end{axis}
 \end{tikzpicture}
