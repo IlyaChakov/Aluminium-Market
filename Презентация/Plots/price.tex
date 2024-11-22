@@ -1,12 +1,12 @@
 % Динамика цен
 \begin{tikzpicture}
     \begin{axis}[
-      plotstyle-1,
+        plotstyle-1,
         xmin=2010, xmax=2023,
         ymax=2800, ymin=1400,
         ytick distance=200,
         ylabel={долл/тонна}, % Подпись оси Y
-        legend columns=-1
+        legend columns=-1,
       ]
 
       \addplot[color=blue] table[
