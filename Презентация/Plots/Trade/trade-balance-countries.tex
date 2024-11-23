@@ -1,0 +1,178 @@
+\begin{tikzpicture}
+    \begin{axis}[
+        plotstyle-1,
+        ybar stacked,
+        xmin=2009.5, xmax=2023.5,
+        ymax=60, ymin=-60,
+        ytick distance=20,
+        ylabel={млрд долл},
+        legend columns=5,
+      ]
+  
+    % Китай
+    \addplot[fill=gold,
+        every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+        \pgfmathparse{\pgfplotspointmeta-3}
+        \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+        \pgfkeys{/pgf/fpu=false}}, 
+        check for zero, font=\footnotesize}, 
+        nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+        ] table[
+        x=Год,
+        y=Китай,
+        col sep=tab
+        ] {Data/Trade/trade-balance-countries.tsv};
+    \addlegendentry{Китай}
+
+    % Канада
+    \addplot[fill=blue,
+        every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+        \pgfmathparse{\pgfplotspointmeta-3}
+        \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+        \pgfkeys{/pgf/fpu=false}}, 
+        check for zero, font=\footnotesize}, 
+        nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+        ] table[
+        x=Год,
+        y=Канада,
+        col sep=tab
+        ] {Data/Trade/trade-balance-countries.tsv};
+    \addlegendentry{Канада}
+
+    % Российская Федерация
+    \addplot[fill=darkblue,
+        every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+        \pgfmathparse{\pgfplotspointmeta-3}
+        \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+        \pgfkeys{/pgf/fpu=false}}, 
+        check for zero, font=\footnotesize}, 
+        nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+        ] table[
+        x=Год,
+        y=Российская Федерация,
+        col sep=tab
+        ] {Data/Trade/trade-balance-countries.tsv};
+    \addlegendentry{Россия}
+
+    % Объединенные Арабские Эмираты
+    \addplot[fill=red,
+        every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+        \pgfmathparse{\pgfplotspointmeta-3}
+        \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+        \pgfkeys{/pgf/fpu=false}}, 
+        check for zero, font=\footnotesize}, 
+        nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+        ] table[
+        x=Год,
+        y=Объединенные Арабские Эмираты,
+        col sep=tab
+        ] {Data/Trade/trade-balance-countries.tsv};
+    \addlegendentry{ОАЭ}
+
+    % Норвегия
+    \addplot[fill=yellow,
+        every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+        \pgfmathparse{\pgfplotspointmeta-3}
+        \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+        \pgfkeys{/pgf/fpu=false}}, 
+        check for zero, font=\footnotesize}, 
+        nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+        ] table[
+        x=Год,
+        y=Норвегия,
+        col sep=tab
+        ] {Data/Trade/trade-balance-countries.tsv};
+    \addlegendentry{Норвегия}
+
+    % Соединенные Штаты Америки
+    \addplot[
+        fill=Color6,
+        every node near coord/.style={
+        check for zero/.code={
+        \pgfkeys{/pgf/fpu=true}
+        \pgfmathparse{abs(\pgfplotspointmeta) - 3}
+        \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+        \pgfkeys{/pgf/fpu=false}}, 
+        check for zero, font=\footnotesize}, 
+        nodes near coords={
+        \pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},] table[
+        x=Год,
+        y=Соединенные Штаты Америки,
+        col sep=tab
+        ] {Data/Trade/trade-balance-countries.tsv};
+    \addlegendentry{США}
+
+    % Япония
+    \addplot[
+        fill=Color7,
+        every node near coord/.style={
+        check for zero/.code={
+        \pgfkeys{/pgf/fpu=true}
+        \pgfmathparse{abs(\pgfplotspointmeta) - 3}
+        \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+        \pgfkeys{/pgf/fpu=false}}, 
+        check for zero, font=\footnotesize}, 
+        nodes near coords={
+        \pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},] table[
+        x=Год,
+        y=Япония,
+        col sep=tab
+        ] {Data/Trade/trade-balance-countries.tsv};
+    \addlegendentry{Япония}
+
+    % Мексика
+    \addplot[
+        fill=Color8,
+        every node near coord/.style={
+        check for zero/.code={
+        \pgfkeys{/pgf/fpu=true}
+        \pgfmathparse{abs(\pgfplotspointmeta) - 3}
+        \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+        \pgfkeys{/pgf/fpu=false}}, 
+        check for zero, font=\footnotesize}, 
+        nodes near coords={
+        \pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},] table[
+        x=Год,
+        y=Мексика,
+        col sep=tab
+        ] {Data/Trade/trade-balance-countries.tsv};
+    \addlegendentry{Мексика}
+
+    % Республика Корея
+    \addplot[
+        fill=Color9,
+        every node near coord/.style={
+        check for zero/.code={
+        \pgfkeys{/pgf/fpu=true}
+        \pgfmathparse{abs(\pgfplotspointmeta) - 3}
+        \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+        \pgfkeys{/pgf/fpu=false}}, 
+        check for zero, font=\footnotesize}, 
+        nodes near coords={
+        \pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},] table[
+        x=Год,
+        y=Республика Корея,
+        col sep=tab
+        ] {Data/Trade/trade-balance-countries.tsv};
+    \addlegendentry{Республика Корея}
+
+    % Соединенное Королевство Великобритании и Северной Ирландии
+    \addplot[
+        fill=Color10,
+        every node near coord/.style={
+        check for zero/.code={
+        \pgfkeys{/pgf/fpu=true}
+        \pgfmathparse{abs(\pgfplotspointmeta) - 3}
+        \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+        \pgfkeys{/pgf/fpu=false}}, 
+        check for zero, font=\footnotesize}, 
+        nodes near coords={
+        \pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},] table[
+        x=Год,
+        y=Соединенное Королевство Великобритании и Северной Ирландии,
+        col sep=tab
+        ] {Data/Trade/trade-balance-countries.tsv};
+    \addlegendentry{Великобритания}
+  
+    \end{axis}
+  \end{tikzpicture}

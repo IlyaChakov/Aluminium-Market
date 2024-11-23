@@ -1,0 +1,104 @@
+\begin{tikzpicture}
+    \begin{axis}[
+        plotstyle-1,
+        ybar stacked,
+        xmin=2009.5, xmax=2023.5,
+        ymax=2500, 
+        ymin=0,
+        %ytick distance=20,
+        ylabel={млн долл},
+        legend columns=5,
+      ]
+  
+    % Соединенные Штаты Америки
+    \addplot[fill=gold,
+        every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+        \pgfmathparse{\pgfplotspointmeta-177}
+        \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+        \pgfkeys{/pgf/fpu=false}}, 
+        check for zero, font=\footnotesize}, 
+        nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+        ybar,
+        every node near coord/.append style={rotate=90,
+        /pgf/number format/1000 sep={\ }}
+        ] table[
+        x=Год,
+        y=Соединенные Штаты Америки,
+        col sep=tab
+        ] {Data/Trade/reexport-countries.tsv};
+    \addlegendentry{США}
+
+    % Соединенное Королевство Великобритании и Северной Ирландии
+    \addplot[fill=blue,
+        every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+        \pgfmathparse{\pgfplotspointmeta-177}
+        \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+        \pgfkeys{/pgf/fpu=false}}, 
+        check for zero, font=\footnotesize}, 
+        nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+        ybar,
+        every node near coord/.append style={rotate=90,
+        /pgf/number format/1000 sep={\ }}
+        ] table[
+        x=Год,
+        y=Соединенное Королевство Великобритании и Северной Ирландии,
+        col sep=tab
+        ] {Data/Trade/reexport-countries.tsv};
+    \addlegendentry{Великобритания}
+
+    % Италия
+    \addplot[fill=darkblue,
+        every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+        \pgfmathparse{\pgfplotspointmeta-177}
+        \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+        \pgfkeys{/pgf/fpu=false}}, 
+        check for zero, font=\footnotesize}, 
+        nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+        ybar,
+        every node near coord/.append style={rotate=90,
+        /pgf/number format/1000 sep={\ }}
+        ] table[
+        x=Год,
+        y=Италия,
+        col sep=tab
+        ] {Data/Trade/reexport-countries.tsv};
+    \addlegendentry{Италия}
+
+    % Канада
+    \addplot[fill=red,
+        every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+        \pgfmathparse{\pgfplotspointmeta-177}
+        \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+        \pgfkeys{/pgf/fpu=false}}, 
+        check for zero, font=\footnotesize}, 
+        nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+        ybar,
+        every node near coord/.append style={rotate=90,
+        /pgf/number format/1000 sep={\ }}
+        ] table[
+        x=Год,
+        y=Канада,
+        col sep=tab
+        ] {Data/Trade/reexport-countries.tsv};
+    \addlegendentry{Канада}
+
+    % Испания
+    \addplot[fill=yellow,
+        every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+        \pgfmathparse{\pgfplotspointmeta-177}
+        \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+        \pgfkeys{/pgf/fpu=false}}, 
+        check for zero, font=\footnotesize}, 
+        nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+        ybar,
+        every node near coord/.append style={rotate=90,
+        /pgf/number format/1000 sep={\ }}
+        ] table[
+        x=Год,
+        y=Испания,
+        col sep=tab
+        ] {Data/Trade/reexport-countries.tsv};
+    \addlegendentry{Испания}
+  
+    \end{axis}
+\end{tikzpicture}
