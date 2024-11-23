@@ -120,3 +120,39 @@ print(top_10_sum)
 production_mln$Others <- production_world$total_value - top_10_sum$top_10_value
 
 fwrite(production_mln, file = "production_mln.csv", sep = "\t", quote = FALSE)
+
+export_countries <- read_tsv("C:\\Users\\User\\Documents\\GitHub\\Ilya Chakov\\Aluminium-Market\\Информация\\Торговля\\TSV\\export-countries.tsv")
+
+print(export_countries)
+
+export_countries <- export_countries %>%
+  pivot_longer(
+    cols = -"Экспортеры", 
+    names_to = "Год",
+    values_to = "Экспорт")
+
+export_countries$Год <- as.numeric(export_countries$Год)
+
+export_countries_top <- export_countries$Год %>%
+  filter(Год >= 2010) %>%
+  group_by(Год) %>%
+  summarise(tot_value = sum(Экспорт, na.rm = FALSE))
+  arrange(Год)
+
+print(export_countries)
+
+export_countries_top10 <- export_countries %>%
+  group_by(Экспортеры) %>%
+  summarise(tot_value =sum(Экспорт, na.rm = FALSE)) %>%
+  slice_max(order_by = Год, n = 10)
+
+print(export_countries_top10)
+
+df_export_countries <- pivot_wider(
+  export_countries, 
+  names_from = "Экспортеры", 
+  values_from = "2004")
+
+str(export_countries)
+
+export_countries <- as.data.frame(export_countries)
