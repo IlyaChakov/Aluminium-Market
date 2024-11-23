@@ -1,0 +1,179 @@
+\begin{tikzpicture}
+    \begin{axis}[
+        plotstyle-1,
+        ybar stacked,
+        xmin=2009.5, xmax=2023.5,
+        ymax=300, 
+        ymin=0,
+        ytick distance=50,
+        ylabel={млрд долл},
+        legend columns=6,
+      ]
+  
+      % Соединенные Штаты Америки
+      \addplot[fill=gold,
+        every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+        \pgfmathparse{\pgfplotspointmeta-8}
+        \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+        \pgfkeys{/pgf/fpu=false}}, 
+        check for zero, font=\footnotesize}, 
+        nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+        ] table[
+        x=Год,
+        y=Соединенные Штаты Америки,
+        col sep=tab
+      ] {Data/Trade/import-countries.tsv};
+      \addlegendentry{США}
+
+        % Германия
+        \addplot[fill=blue,
+        every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+        \pgfmathparse{\pgfplotspointmeta-8}
+        \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+        \pgfkeys{/pgf/fpu=false}}, 
+        check for zero, font=\footnotesize}, 
+        nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+        ] table[
+        x=Год,
+        y=Германия,
+        col sep=tab
+      ] {Data/Trade/import-countries.tsv};
+      \addlegendentry{Германия}
+    
+       % Китай
+       \addplot[fill=darkblue,
+       every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+       \pgfmathparse{\pgfplotspointmeta-8}
+       \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+       \pgfkeys{/pgf/fpu=false}}, 
+       check for zero, font=\footnotesize}, 
+       nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+       ] table[
+       x=Год,
+       y=Китай,
+       col sep=tab
+     ] {Data/Trade/import-countries.tsv};
+     \addlegendentry{Китай}
+
+    % Мексика
+    \addplot[fill=red,
+    every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+    \pgfmathparse{\pgfplotspointmeta-8}
+    \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+    \pgfkeys{/pgf/fpu=false}}, 
+    check for zero, font=\footnotesize}, 
+    nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+    ] table[
+    x=Год,
+    y=Мексика,
+    col sep=tab
+  ] {Data/Trade/import-countries.tsv};
+  \addlegendentry{Мексика}
+
+   % Франция
+   \addplot[fill=yellow,
+   every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+   \pgfmathparse{\pgfplotspointmeta-8}
+   \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+   \pgfkeys{/pgf/fpu=false}}, 
+   check for zero, font=\footnotesize}, 
+   nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+   ] table[
+   x=Год,
+   y=Франция,
+   col sep=tab
+ ] {Data/Trade/import-countries.tsv};
+ \addlegendentry{Франция}
+
+  % Италия
+  \addplot[fill=Color6,
+  every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+  \pgfmathparse{\pgfplotspointmeta-8}
+  \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+  \pgfkeys{/pgf/fpu=false}}, 
+  check for zero, font=\footnotesize}, 
+  nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+  ] table[
+  x=Год,
+  y=Италия,
+  col sep=tab
+] {Data/Trade/import-countries.tsv};
+\addlegendentry{Италия}
+
+% Япония
+\addplot[fill=Color7,
+every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+\pgfmathparse{\pgfplotspointmeta-8}
+\pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+\pgfkeys{/pgf/fpu=false}}, 
+check for zero, font=\footnotesize}, 
+nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+] table[
+x=Год,
+y=Япония,
+col sep=tab
+] {Data/Trade/import-countries.tsv};
+\addlegendentry{Япония}
+
+% Республика Корея
+\addplot[fill=Color8,
+every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+\pgfmathparse{\pgfplotspointmeta-8}
+\pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+\pgfkeys{/pgf/fpu=false}}, 
+check for zero, font=\footnotesize}, 
+nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+] table[
+x=Год,
+y=Республика Корея,
+col sep=tab
+] {Data/Trade/import-countries.tsv};
+\addlegendentry{Р. Корея}
+
+% Нидерланды
+\addplot[fill=Color9,
+every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+\pgfmathparse{\pgfplotspointmeta-8}
+\pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+\pgfkeys{/pgf/fpu=false}}, 
+check for zero, font=\footnotesize}, 
+nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+] table[
+x=Год,
+y=Нидерланды,
+col sep=tab
+] {Data/Trade/import-countries.tsv};
+\addlegendentry{Нидерланды}
+
+% Соединенное Королевство Великобритании и Северной Ирландии
+\addplot[fill=Color10,
+every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+\pgfmathparse{\pgfplotspointmeta-8}
+\pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+\pgfkeys{/pgf/fpu=false}}, 
+check for zero, font=\footnotesize}, 
+nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+] table[
+x=Год,
+y=Соединенное Королевство Великобритании и Северной Ирландии,
+col sep=tab
+] {Data/Trade/import-countries.tsv};
+\addlegendentry{Великобритания}
+
+% Остальные
+\addplot[fill=white,
+every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+\pgfmathparse{\pgfplotspointmeta-8}
+\pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+\pgfkeys{/pgf/fpu=false}}, 
+check for zero, font=\footnotesize}, 
+nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+] table[
+x=Год,
+y=Остальные,
+col sep=tab
+] {Data/Trade/import-countries.tsv};
+\addlegendentry{Остальные}
+  
+    \end{axis}
+  \end{tikzpicture}

@@ -1,0 +1,179 @@
+\begin{tikzpicture}
+    \begin{axis}[
+        plotstyle-1,
+        ybar stacked,
+        xmin=2009.5, xmax=2023.5,
+        ymax=300, 
+        ymin=0,
+        ytick distance=50,
+        ylabel={млрд долл},
+        legend columns=6,
+      ]
+  
+      % Китай
+      \addplot[fill=gold,
+        every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+        \pgfmathparse{\pgfplotspointmeta-8}
+        \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+        \pgfkeys{/pgf/fpu=false}}, 
+        check for zero, font=\footnotesize}, 
+        nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+        ] table[
+        x=Год,
+        y=Китай,
+        col sep=tab
+      ] {Data/Trade/export-countries.tsv};
+      \addlegendentry{Китай}
+
+    % Германия
+    \addplot[fill=blue,
+    every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+    \pgfmathparse{\pgfplotspointmeta-8}
+    \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+    \pgfkeys{/pgf/fpu=false}}, 
+    check for zero, font=\footnotesize}, 
+    nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+    ] table[
+    x=Год,
+    y=Германия,
+    col sep=tab
+  ] {Data/Trade/export-countries.tsv};
+  \addlegendentry{Германия}
+
+  % Соединенные Штаты Америки
+  \addplot[fill=darkblue,
+  every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+  \pgfmathparse{\pgfplotspointmeta-8}
+  \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+  \pgfkeys{/pgf/fpu=false}}, 
+  check for zero, font=\footnotesize}, 
+  nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+  ] table[
+  x=Год,
+  y=Соединенные Штаты Америки,
+  col sep=tab
+] {Data/Trade/export-countries.tsv};
+\addlegendentry{США}
+
+% Канада
+\addplot[fill=red,
+every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+\pgfmathparse{\pgfplotspointmeta-8}
+\pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+\pgfkeys{/pgf/fpu=false}}, 
+check for zero, font=\footnotesize}, 
+nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+] table[
+x=Год,
+y=Канада,
+col sep=tab
+] {Data/Trade/export-countries.tsv};
+\addlegendentry{Канада}
+
+% Италия
+\addplot[fill=yellow,
+every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+\pgfmathparse{\pgfplotspointmeta-8}
+\pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+\pgfkeys{/pgf/fpu=false}}, 
+check for zero, font=\footnotesize}, 
+nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+] table[
+x=Год,
+y=Италия,
+col sep=tab
+] {Data/Trade/export-countries.tsv};
+\addlegendentry{Италия}
+
+% Российская Федерация
+\addplot[fill=Color6,
+every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+\pgfmathparse{\pgfplotspointmeta-8}
+\pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+\pgfkeys{/pgf/fpu=false}}, 
+check for zero, font=\footnotesize}, 
+nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+] table[
+x=Год,
+y=Российская Федерация,
+col sep=tab
+] {Data/Trade/export-countries.tsv};
+\addlegendentry{Россия}
+
+% Объединенные Арабские Эмираты
+\addplot[fill=Color7,
+every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+\pgfmathparse{\pgfplotspointmeta-8}
+\pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+\pgfkeys{/pgf/fpu=false}}, 
+check for zero, font=\footnotesize}, 
+nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+] table[
+x=Год,
+y=Объединенные Арабские Эмираты,
+col sep=tab
+] {Data/Trade/export-countries.tsv};
+\addlegendentry{ОАЭ}
+
+% Франция
+\addplot[fill=Color8,
+every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+\pgfmathparse{\pgfplotspointmeta-8}
+\pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+\pgfkeys{/pgf/fpu=false}}, 
+check for zero, font=\footnotesize}, 
+nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+] table[
+x=Год,
+y=Франция,
+col sep=tab
+] {Data/Trade/export-countries.tsv};
+\addlegendentry{Франция}
+
+% Нидерланды
+\addplot[fill=Color9,
+every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+\pgfmathparse{\pgfplotspointmeta-8}
+\pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+\pgfkeys{/pgf/fpu=false}}, 
+check for zero, font=\footnotesize}, 
+nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+] table[
+x=Год,
+y=Нидерланды,
+col sep=tab
+] {Data/Trade/export-countries.tsv};
+\addlegendentry{Нидерланды}
+
+% Норвегия
+\addplot[fill=Color10,
+every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+\pgfmathparse{\pgfplotspointmeta-8}
+\pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+\pgfkeys{/pgf/fpu=false}}, 
+check for zero, font=\footnotesize}, 
+nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+] table[
+x=Год,
+y=Норвегия,
+col sep=tab
+] {Data/Trade/export-countries.tsv};
+\addlegendentry{Норвегия}
+
+% Остальные
+\addplot[fill=white,
+every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+\pgfmathparse{\pgfplotspointmeta-8}
+\pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+\pgfkeys{/pgf/fpu=false}}, 
+check for zero, font=\footnotesize}, 
+nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+] table[
+x=Год,
+y=Остальные,
+col sep=tab
+] {Data/Trade/export-countries.tsv};
+\addlegendentry{Остальные}
+  
+    \end{axis}
+  \end{tikzpicture}
