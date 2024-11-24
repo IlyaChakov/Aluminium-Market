@@ -3,6 +3,7 @@ library(tidyr)
 library(readr)  # Если вам нужна функция read_csv()
 library(dplyr)
 library(data.table)
+library(readxl)
 
 df <- read_csv("Информация\\Потребление\\Aluminium refined consumption.csv")
 View(df)
@@ -26,3 +27,5 @@ df_table <- df %>%
     select(-all_of(top_countries), everything())
 
 fwrite(df_table, file = "comsumption-countries.tsv", sep = "\t", quote = FALSE)
+
+df_pot <- read_excel("Информация\\Потребление\\Потребление.xlsx")

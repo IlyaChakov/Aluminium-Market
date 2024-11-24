@@ -1,0 +1,28 @@
+\begin{tikzpicture}
+    \begin{axis}[
+        plotstyle-1,
+        ybar,
+        ymax=70, 
+        ymin=0,
+        ytick distance=10,
+        tick align=inside,
+        enlarge x limits=0.05,
+        ylabel={млн тонн},
+        legend columns=-1,
+    ]
+  
+    % Китай
+    \addplot[fill=gold,
+        nodes near coords,
+        every node near coord/.append style={anchor=north},
+        nodes near coords style={/pgf/number format/.cd,fixed zerofill,precision=0},
+        nodes near coords align=center,
+        ] table[
+        x=year,
+        y=value,
+        col sep=tab
+    ]
+    {Data/Consumption/consumption-total.tsv};
+  
+    \end{axis}
+\end{tikzpicture}
