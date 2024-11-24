@@ -1,0 +1,83 @@
+\begin{tikzpicture}
+    \begin{axis}[
+        plotstyle-1,
+        ybar,
+        xmin=0.5, xmax=4.5,
+        ymax=60, 
+        ymin=0,
+        ytick distance=10,
+        ylabel={млн тонн},
+        xticklabels={2015, 2019, 2020, 2021},
+        legend columns=-1,
+    ]
+
+    % Азия
+    \addplot[fill=gold,
+        nodes near coords,
+        every node near coord/.append style={anchor=north},
+        nodes near coords style={/pgf/number format/.cd,fixed zerofill,precision=0},
+        nodes near coords align=center,
+        ] table[
+        y=Азия,
+        x=Период,
+        col sep=tab
+    ]
+    {Data/Consumption/consumption-regions.tsv};
+    \addlegendentry{Азия}
+
+    % Европа
+    \addplot[fill=blue,
+        nodes near coords,
+        every node near coord/.append style={anchor=north},
+        nodes near coords style={/pgf/number format/.cd,fixed zerofill,precision=0},
+        nodes near coords align=center,
+        ] table[
+        y=Европа,
+        x=Период,
+        col sep=tab
+    ]
+    {Data/Consumption/consumption-regions.tsv};
+    \addlegendentry{Европа}
+
+    % Северная Центральная Южная Америка
+    \addplot[fill=darkblue,
+        nodes near coords,
+        every node near coord/.append style={anchor=north},
+        nodes near coords style={/pgf/number format/.cd,fixed zerofill,precision=0},
+        nodes near coords align=center,
+        ] table[
+        y=Северная Центральная Южная Америка,
+        x=Период,
+        col sep=tab
+    ]
+    {Data/Consumption/consumption-regions.tsv};
+    \addlegendentry{Северная, Центральная, Южная Америка}
+
+    % Африка
+    \addplot[fill=red,
+        ] table[
+        y=Африка,
+        x=Период,
+        col sep=tab
+    ]
+    {Data/Consumption/consumption-regions.tsv};
+    \addlegendentry{Африка}
+
+    % Океания
+    \addplot[fill=yellow,
+        every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+        \pgfmathparse{\pgfplotspointmeta-2}
+        \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+        \pgfkeys{/pgf/fpu=false}}, 
+        check for zero, font=\footnotesize}, 
+        nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+        ] table[
+        y=Океания,
+        x=Период,
+        col sep=tab
+    ]
+    {Data/Consumption/consumption-regions.tsv};
+    \addlegendentry{Океания}
+  
+    \end{axis}
+\end{tikzpicture}

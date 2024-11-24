@@ -29,5 +29,36 @@
                     pattern color=gray!50
                     }
                 },
+            axis on top=false},
+    plotstyle-2/.style={
+        font=\footnotesize,
+            width=\textwidth,
+            height=0.8\textheight,
+            ylabel style={
+                at={(yticklabel cs:1,0)},
+                anchor=south east
+                },
+            grid=major,
+            grid style={solid, gray!30},
+            legend style={
+                at={(xticklabel cs:0.5,1)},
+                anchor=north,
+                draw=none,
+                },
+            legend cell align={left},
+            legend image post style={scale=0.5},
+            x tick label style={rotate=90,anchor=east},
+            xticklabel style={/pgf/number format/1000 sep=},
+            yticklabel style={/pgf/number format/1000 sep={\ }},
+            ytick=data,
+            axis background/.style={
+                fill=none,
+                draw=none,
+                preaction={
+                    fill=none,
+                    pattern=north west lines,
+                    pattern color=gray!50
+                    }
+                },
             axis on top=false}
 }

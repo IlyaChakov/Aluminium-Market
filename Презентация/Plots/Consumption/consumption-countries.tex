@@ -1,0 +1,174 @@
+\begin{tikzpicture}
+    \begin{axis}[
+        plotstyle-1,
+        ybar stacked,
+        xmin=0.5, xmax=9.5,
+        ymax=70, 
+        ymin=0,
+        ytick distance=10,
+        ylabel={млн тонн},
+        xticklabels={1970, 1980, 1990, 2000, 2010, 2017, 2018, 2019, 2020},
+        legend columns=-1,
+    ]
+  
+    % Китай
+    \addplot[fill=gold,
+        every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+        \pgfmathparse{\pgfplotspointmeta-2}
+        \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+        \pgfkeys{/pgf/fpu=false}}, 
+        check for zero, font=\footnotesize}, 
+        nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+        ] table[
+        x=Период,
+        y=China,
+        col sep=tab
+    ]
+    {Data/Consumption/comsumption-countries.tsv};
+    \addlegendentry{Китай}
+
+    % United States
+    \addplot[fill=blue,
+        every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+        \pgfmathparse{\pgfplotspointmeta-2}
+        \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+        \pgfkeys{/pgf/fpu=false}}, 
+        check for zero, font=\footnotesize}, 
+        nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+        ] table[
+        x=Период,
+        y=United States,
+        col sep=tab
+    ]
+    {Data/Consumption/comsumption-countries.tsv};
+    \addlegendentry{США}
+
+    % Japan
+    \addplot[fill=darkblue,
+        every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+        \pgfmathparse{\pgfplotspointmeta-2}
+        \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+        \pgfkeys{/pgf/fpu=false}}, 
+        check for zero, font=\footnotesize}, 
+        nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+        ] table[
+        x=Период,
+        y=Japan,
+        col sep=tab
+    ]
+    {Data/Consumption/comsumption-countries.tsv};
+    \addlegendentry{Япония}
+
+    % Germany
+    \addplot[fill=red,
+        every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+        \pgfmathparse{\pgfplotspointmeta-2}
+        \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+        \pgfkeys{/pgf/fpu=false}}, 
+        check for zero, font=\footnotesize}, 
+        nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+        ] table[
+        x=Период,
+        y=Germany,
+        col sep=tab
+    ]
+    {Data/Consumption/comsumption-countries.tsv};
+    \addlegendentry{Германия}
+
+    % India
+    \addplot[fill=yellow,
+        every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+        \pgfmathparse{\pgfplotspointmeta-2}
+        \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+        \pgfkeys{/pgf/fpu=false}}, 
+        check for zero, font=\footnotesize}, 
+        nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+        ] table[
+        x=Период,
+        y=India,
+        col sep=tab
+    ]
+    {Data/Consumption/comsumption-countries.tsv};
+    \addlegendentry{Индия}
+
+    % Korea Rep
+    \addplot[fill=Color6,
+        every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+        \pgfmathparse{\pgfplotspointmeta-2}
+        \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+        \pgfkeys{/pgf/fpu=false}}, 
+        check for zero, font=\footnotesize}, 
+        nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+        ] table[
+        x=Период,
+        y=Korea Rep,
+        col sep=tab
+    ]
+    {Data/Consumption/comsumption-countries.tsv};
+    \addlegendentry{Р. Корея}
+
+    % Vietnam
+    \addplot[fill=Color7,
+        every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+        \pgfmathparse{\pgfplotspointmeta-2}
+        \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+        \pgfkeys{/pgf/fpu=false}}, 
+        check for zero, font=\footnotesize}, 
+        nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+        ] table[
+        x=Период,
+        y=Vietnam,
+        col sep=tab
+    ]
+    {Data/Consumption/comsumption-countries.tsv};
+    \addlegendentry{Вьетнам}
+
+    % Turkey
+    \addplot[fill=Color8,
+        every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+        \pgfmathparse{\pgfplotspointmeta-2}
+        \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+        \pgfkeys{/pgf/fpu=false}}, 
+        check for zero, font=\footnotesize}, 
+        nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+        ] table[
+        x=Период,
+        y=Turkey,
+        col sep=tab
+    ]
+    {Data/Consumption/comsumption-countries.tsv};
+    \addlegendentry{Турция}
+
+    % Malaysia
+    \addplot[fill=Color9,
+        every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+        \pgfmathparse{\pgfplotspointmeta-2}
+        \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+        \pgfkeys{/pgf/fpu=false}}, 
+        check for zero, font=\footnotesize}, 
+        nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+        ] table[
+        x=Период,
+        y=Malaysia,
+        col sep=tab
+    ]
+    {Data/Consumption/comsumption-countries.tsv};
+    \addlegendentry{Малайзия}
+
+    % Others
+    \addplot[fill=white,
+        every node near coord/.style={check for zero/.code={\pgfkeys{/pgf/fpu=true}
+        \pgfmathparse{\pgfplotspointmeta-2}
+        \pgfmathfloatifflags{\pgfmathresult}{-}{\pgfkeys{/tikz/coordinate}}{}
+        \pgfkeys{/pgf/fpu=false}}, 
+        check for zero, font=\footnotesize}, 
+        nodes near coords={\pgfmathprintnumber[fixed zerofill,precision=0]{\pgfplotspointmeta}},
+        ] table[
+        x=Период,
+        y=Others,
+        col sep=tab
+    ]
+    {Data/Consumption/comsumption-countries.tsv};
+  
+    \end{axis}
+\end{tikzpicture}
