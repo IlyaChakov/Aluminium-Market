@@ -1,0 +1,36 @@
+\begin{tikzpicture}
+    \begin{axis}[
+        ybar=3pt,
+        bar width=0.25,
+        enlarge x limits=0.05,
+        plotstyle-1,
+        %xmin=2010, xmax=2023,
+        ymax=0.17, ymin=0.13,
+        %ytick distance=200,
+        %ylabel={долл/тонна}, % Подпись оси Y
+        tick align=inside,
+        legend columns=-1,
+    ]
+
+    % Exports
+    \addplot[fill=blue]
+    table[
+        x=Date,
+        y=Exports,
+        col sep=tab, % Указываем, что разделитель столбцов — табуляция
+    ]
+    {Data/Market/al-concentration-index.tsv};
+    \addlegendentry{Экспорт}
+    
+    % Imports
+    \addplot[fill=red]
+    table[
+        x=Date,
+        y=Imports,
+        col sep=tab, % Указываем, что разделитель столбцов — табуляция
+    ]
+    {Data/Market/al-concentration-index.tsv};
+    \addlegendentry{Импорт}
+
+    \end{axis}
+\end{tikzpicture}
