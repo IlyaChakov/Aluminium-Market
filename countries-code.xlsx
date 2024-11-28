@@ -1,0 +1,136 @@
+Country,Country ID
+Angola,afago
+Benin,afben
+Burkina Faso,afbfa
+Botswana,afbwa
+Cote d'Ivoire,afciv
+Cameroon,afcmr
+Democratic Republic of the Congo,afcod
+Republic of the Congo,afcog
+Algeria,afdza
+Egypt,afegy
+Ethiopia,afeth
+Gabon,afgab
+Ghana,afgha
+Guinea,afgin
+Kenya,afken
+Liberia,aflbr
+Libya,aflby
+Morocco,afmar
+Madagascar,afmdg
+Mali,afmli
+Mozambique,afmoz
+Mauritania,afmrt
+Namibia,afnam
+Niger,afner
+Nigeria,afnga
+Rwanda,afrwa
+Sudan,afsdn
+Senegal,afsen
+Chad,aftcd
+Togo,aftgo
+Tunisia,aftun
+Tanzania,aftza
+Uganda,afuga
+South Africa,afzaf
+Zambia,afzmb
+Zimbabwe,afzwe
+Afghanistan,asafg
+United Arab Emirates,asare
+Armenia,asarm
+Azerbaijan,asaze
+Bangladesh,asbgd
+China,aschn
+Georgia,asgeo
+Hong Kong,ashkg
+Indonesia,asidn
+India,asind
+Iran,asirn
+Iraq,asirq
+Israel,asisr
+Jordan,asjor
+Japan,asjpn
+Kazakhstan,askaz
+Kyrgyzstan,askgz
+Cambodia,askhm
+South Korea,askor
+Kuwait,askwt
+Laos,aslao
+Lebanon,aslbn
+Sri Lanka,aslka
+Burma,asmmr
+Mongolia,asmng
+Malaysia,asmys
+Oman,asomn
+Pakistan,aspak
+Philippines,asphl
+Qatar,asqat
+Saudi Arabia,assau
+Singapore,assgp
+Thailand,astha
+Tajikistan,astjk
+Turkmenistan,astkm
+Turkey,astur
+Chinese Taipei,astwn
+Uzbekistan,asuzb
+Vietnam,asvnm
+Yemen,asyem
+Albania,eualb
+Austria,euaut
+Belgium,eubel
+Bulgaria,eubgr
+Bosnia and Herzegovina,eubih
+Belarus,eublr
+Switzerland,euche
+Czechia,eucze
+Germany,eudeu
+Denmark,eudnk
+Spain,euesp
+Finland,eufin
+France,eufra
+United Kingdom,eugbr
+Greece,eugrc
+Croatia,euhrv
+Hungary,euhun
+Ireland,euirl
+Italy,euita
+Lithuania,eultu
+Moldova,eumda
+North Macedonia,eumkd
+Netherlands,eunld
+Norway,eunor
+Poland,eupol
+Portugal,euprt
+Romania,eurou
+Russia,eurus
+Serbia,eusrb
+Slovakia,eusvk
+Slovenia,eusvn
+Sweden,euswe
+Ukraine,euukr
+Canada,nacan
+Costa Rica,nacri
+Dominican Republic,nadom
+Guatemala,nagtm
+Honduras,nahnd
+Jamaica,najam
+Mexico,namex
+Nicaragua,nanic
+Panama,napan
+El Salvador,naslv
+United States,nausa
+Australia,ocaus
+New Zealand,ocnzl
+Papua New Guinea,ocpng
+Argentina,saarg
+Bolivia,sabol
+Brazil,sabra
+Chile,sachl
+Colombia,sacol
+Ecuador,saecu
+Peru,saper
+Paraguay,sapry
+Uruguay,saury
+Venezuela,saven
+,
+,

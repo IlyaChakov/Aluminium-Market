@@ -1,0 +1,61 @@
+\newcommand{\pieslice}[6][black!10]{
+%%% Usage: \pieslice[color]{total}{start angle}{end angle}{data value}{label}
+  % calculate start and end points of arc
+  \pgfmathparse{#3/#2*360}
+  \let\a\pgfmathresult
+  \pgfmathparse{#4/#2*360}
+  \let\b\pgfmathresult
+
+  % calculate mid angle of arc
+  \pgfmathparse{0.5*\a+0.5*\b}
+  \let\midangle\pgfmathresult
+
+  % draw slice
+  \draw[fill=#1] (0,0) -- (\a:1) arc (\a:\b:1) -- cycle;
+
+  % outer label
+  \node[label=\midangle:{\tiny#6}] at (\midangle:1) {};
+
+  % inner label
+  \pgfmathparse{min((\b-\a-10)/110*(-0.3),0)}
+  \let\temp\pgfmathresult
+  \pgfmathparse{max(\temp,-0.5) + 0.8}
+  \let\innerpos\pgfmathresult
+  \pgfmathparse{(\b-\a)/3.6} % convert slice size to percentage
+  \let\percentage\pgfmathresult
+  \node at (\midangle:\innerpos) {\tiny\pgfmathprintnumber[fixed,precision=1]{\percentage}\%};
+}
+
+\newcommand{\pie}[2][{{"black!10"}}]{
+%%% Usage: \pie[{colour palette array}]{{label/value array}}
+  % init colour palette
+  \pgfmathparse{dim(#1)} % find N of array
+  \let\paletteDim\pgfmathresult
+  \newcounter{colourIndex}
+
+  % get total for dividing pie into sectors
+  \newcounter{total}
+  \foreach \val/\name in #2 {
+    \addtocounter{total}{\val}
+  }
+
+  \newcounter{a}
+  \newcounter{b}
+  \foreach \val/\name in #2 {
+    \setcounter{a}{\value{b}}
+    \addtocounter{b}{\val}
+
+    % get colour from palette
+    \pgfmathparse{#1[\thecolourIndex]}
+    \let\colour\pgfmathresult
+
+    \pieslice[\colour]{\thetotal}{\thea}{\theb}{\val}{\name}
+
+    % increment colour palette
+    \stepcounter{colourIndex}
+    \ifnum \thecolourIndex=\paletteDim \setcounter{colourIndex}{0}\fi
+  }
+}
+
+\def\palette{{"gold","blue","darkblue","red","yellow",
+    "Color6","Color7","Color8","Color9", "Color10", "white"}}
